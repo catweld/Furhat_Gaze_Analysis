@@ -1,0 +1,1909 @@
+09/18/2020 03:51:04 PM 	 1600437064.290354	Log_Type.CONFIG	language sv
+09/18/2020 03:51:04 PM 	 1600437064.290475	Log_Type.CONFIG	nofurhat True
+09/18/2020 03:51:04 PM 	 1600437064.290544	Log_Type.CONFIG	condition mediation
+09/18/2020 03:51:04 PM 	 1600437064.2905884	Log_Type.CONFIG	furhat_ip 192.168.0.131
+09/18/2020 03:51:04 PM 	 1600437064.2906337	Log_Type.CONFIG	game_requirements [{'level': 'easy', 'min_words': 10, 'min_time': 6}, {'level': 'medium', 'min_words': 8, 'min_time': 6}, {'level': 'hard', 'min_words': 4, 'min_time': 3}, {'level': 'end', 'max_time': 20}]
+09/18/2020 03:51:04 PM 	 1600437064.2906759	Log_Type.CONFIG	group_id 38
+09/18/2020 03:51:04 PM 	 1600437064.2907133	Log_Type.CONFIG	left_ASR_device 11
+09/18/2020 03:51:04 PM 	 1600437064.2907481	Log_Type.CONFIG	left_VAD_device 10
+09/18/2020 03:51:04 PM 	 1600437064.290782	Log_Type.CONFIG	load_large_embeddings True
+09/18/2020 03:51:04 PM 	 1600437064.290815	Log_Type.CONFIG	right_ASR_device 8
+09/18/2020 03:51:04 PM 	 1600437064.2908478	Log_Type.CONFIG	right_VAD_device 9
+09/18/2020 03:51:04 PM 	 1600437064.2908802	Log_Type.CONFIG	server_ip 127.0.0.1
+09/18/2020 03:51:04 PM 	 1600437064.2909129	Log_Type.CONFIG	wizard_ip 192.168.0.115:50040
+09/18/2020 03:51:04 PM 	 loading projection weights from /home/giga-tmh/collab-SLA/models/Word2Vec/sv1/sv.bin
+09/18/2020 03:52:02 PM 	 loaded (3010472, 100) matrix from /home/giga-tmh/collab-SLA/models/Word2Vec/sv1/sv.bin
+09/18/2020 04:01:47 PM 	 1600437707.658103	Log_Type.FURHAT_MESSAGE	set_voice
+09/18/2020 04:01:48 PM 	 1600437708.6656065	Log_Type.FURHAT_MESSAGE	say_and_gesture	#clear_throat_C#	None
+09/18/2020 04:01:50 PM 	 1600437710.174244	Log_Type.FURHAT_MESSAGE	say_and_gesture	Hej!	None
+09/18/2020 04:01:50 PM 	 1600437710.1798851	Log_Type.FURHAT_MESSAGE	attend_to	right	False	1.0	True
+09/18/2020 04:01:51 PM 	 1600437711.1878378	Log_Type.FURHAT_MESSAGE	say_and_gesture	Jag heter föör hatt.	None
+09/18/2020 04:01:54 PM 	 1600437714.197192	Log_Type.FURHAT_MESSAGE	attend_to	left	False	1.0	True
+09/18/2020 04:01:54 PM 	 1600437714.2032213	Log_Type.FURHAT_MESSAGE	say_and_gesture	Vad heter du? Och \pau=200\ vart kommer du ifrån?	None
+09/18/2020 04:02:01 PM 	 1600437721.2194679	Log_Type.FURHAT_MESSAGE	attend_to	right	False	1.0	True
+09/18/2020 04:02:01 PM 	 1600437721.2272356	Log_Type.FURHAT_MESSAGE	say_and_gesture	Och vad heter du? och \pau=150\ vart kommer du ifrån?	None
+09/18/2020 04:02:07 PM 	 1600437727.4704034	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:02:07 PM 	 1600437727.47648	Log_Type.FURHAT_MESSAGE	say_and_gesture	Trevligt att träffas!	None
+09/18/2020 04:02:10 PM 	 1600437730.4849722	Log_Type.FURHAT_MESSAGE	attend_to	left	False	1.0	True
+09/18/2020 04:02:10 PM 	 1600437730.4898143	Log_Type.FURHAT_MESSAGE	say_and_gesture	Vi ska spela spelet \pau=150\ Med Andra Ord	None
+09/18/2020 04:02:13 PM 	 1600437733.4965675	Log_Type.FURHAT_MESSAGE	attend_to	right	False	1.0	True
+09/18/2020 04:02:13 PM 	 1600437733.5018194	Log_Type.FURHAT_MESSAGE	say_and_gesture	Ni måste beskriva ett ord och jag ska försöka gissa det.	None
+09/18/2020 04:02:17 PM 	 1600437737.0106761	Log_Type.FURHAT_MESSAGE	attend_to	tablet	False	1.0	True
+09/18/2020 04:02:17 PM 	 1600437737.016576	Log_Type.FURHAT_MESSAGE	say_and_gesture	Varje ord visas på surfplattan med en liten bild!	None
+09/18/2020 04:02:21 PM 	 1600437741.0261486	Log_Type.FURHAT_MESSAGE	attend_to	left	False	1.0	True
+09/18/2020 04:02:21 PM 	 1600437741.0314238	Log_Type.FURHAT_MESSAGE	say_and_gesture	Ni har en minut på er att beskriva ordet \pau=500\ medan jag försöka att gissa.	None
+09/18/2020 04:02:25 PM 	 1600437745.5404494	Log_Type.FURHAT_MESSAGE	attend_to	right	False	1.0	True
+09/18/2020 04:02:25 PM 	 1600437745.5461607	Log_Type.FURHAT_MESSAGE	say_and_gesture	Det finns en regel	None
+09/18/2020 04:02:27 PM 	 1600437747.5533345	Log_Type.FURHAT_MESSAGE	attend_to	left	False	1.0	True
+09/18/2020 04:02:27 PM 	 1600437747.5601866	Log_Type.FURHAT_MESSAGE	say_and_gesture	Ni kan inte säga själva ordet eller varianter av ordet	None
+09/18/2020 04:02:31 PM 	 1600437751.5693166	Log_Type.FURHAT_MESSAGE	attend_to	right	False	1.0	True
+09/18/2020 04:02:31 PM 	 1600437751.5746293	Log_Type.FURHAT_MESSAGE	say_and_gesture	Alla andra strategier för att beskriva ordet är tillåtna. \pau=500\ Vi ska spela i cirka 20 minuter	None
+09/18/2020 04:02:37 PM 	 1600437757.0854075	Log_Type.FURHAT_MESSAGE	attend_to	left	False	1.0	True
+09/18/2020 04:02:37 PM 	 1600437757.0909896	Log_Type.FURHAT_MESSAGE	say_and_gesture	Efter spelet får ni välja eran belöning.	None
+09/18/2020 04:02:40 PM 	 1600437760.1005642	Log_Type.FURHAT_MESSAGE	say_and_gesture	Redo? Nu kör vi!	None
+09/18/2020 04:02:44 PM 	 1600437764.1272357	Log_Type.FURHAT_MESSAGE	set_voice
+09/18/2020 04:02:53 PM 	 1600437773.2928648	Log_Type.GUESS	TOP WORDS:	kung	prins	kronan	drottningen	kronprinsessan	CHOSE:	kung
+09/18/2020 04:02:56 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:02:58 PM 	 1600437778.029675	Log_Type.KEYWORDS	kung
+09/18/2020 04:02:58 PM 	 precomputing L2-norms of word weight vectors
+09/18/2020 04:02:59 PM 	 1600437779.160899	Log_Type.GUESS_DEC	BASE	0	0	2.4897749423980713	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:02:59 PM 	 1600437779.1614742	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_E#	None
+09/18/2020 04:03:00 PM 	 1600437780.0851226	Log_Type.GUESS	TOP WORDS:	drottning	prins	prinsessa	drottningen	kronan	CHOSE:	drottning
+09/18/2020 04:03:01 PM 	 1600437781.789445	Log_Type.KEYWORDS	kung
+09/18/2020 04:03:01 PM 	 1600437781.9343562	Log_Type.GUESS	TOP WORDS:	drottning	prins	prinsessa	drottningen	kronan	CHOSE:	drottning
+09/18/2020 04:03:04 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:06 PM 	 1600437786.583274	Log_Type.KEYWORDS	kung
+09/18/2020 04:03:06 PM 	 1600437786.7240133	Log_Type.GUESS	TOP WORDS:	drottning	prins	prinsessa	drottningen	kronan	CHOSE:	drottning
+09/18/2020 04:03:07 PM 	 1600437787.503746	Log_Type.GUESS_DEC	BASE	0	0	5.5494225025177	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:03:07 PM 	 1600437787.5056999	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_short_C#	None
+09/18/2020 04:03:08 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:10 PM 	 1600437790.3400295	Log_Type.KEYWORDS	kung
+09/18/2020 04:03:10 PM 	 1600437790.487807	Log_Type.GUESS	TOP WORDS:	drottning	prins	prinsessa	drottningen	kronan	CHOSE:	drottning
+09/18/2020 04:03:12 PM 	 1600437792.1844912	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:03:12 PM 	 1600437792.184886	Log_Type.GUESS_DEC	BASE	0	0	9.32968258857727	LESS_X_WORDS	WAIT
+09/18/2020 04:03:12 PM 	 1600437792.1855233	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_short_C#	None
+09/18/2020 04:03:13 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:15 PM 	 1600437795.2657757	Log_Type.KEYWORDS	kung
+09/18/2020 04:03:15 PM 	 1600437795.398638	Log_Type.GUESS	TOP WORDS:	drottning	prins	prinsessa	drottningen	kronan	CHOSE:	drottning
+09/18/2020 04:03:15 PM 	 1600437795.7877147	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:03:15 PM 	 1600437795.7915645	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_H# \pau=100\  drottning?	None
+09/18/2020 04:03:16 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:19 PM 	 1600437799.9903772	Log_Type.KEYWORDS	kung	precis
+09/18/2020 04:03:20 PM 	 1600437800.130669	Log_Type.GUESS	TOP WORDS:	prins	prinsessa	drottningen	kronan	kronprinsessan	CHOSE:	prins
+09/18/2020 04:03:23 PM 	 1600437803.6311858	Log_Type.STATUS	[1.0, 0.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	3.749882936477661	7.799786567687988
+09/18/2020 04:03:23 PM 	 1600437803.6318629	Log_Type.GAME_WORD	drömmar	1	35.831247091293335
+09/18/2020 04:03:24 PM 	 1600437804.7049615	Log_Type.GUESS	TOP WORDS:	citronkaka	människor	dröm	fantasi	visioner	CHOSE:	citronkaka
+09/18/2020 04:03:25 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:28 PM 	 1600437808.8607304	Log_Type.GUESS_DEC	BASE	1	0	3.149988889694214	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:03:28 PM 	 1600437808.861144	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_G#	None
+09/18/2020 04:03:29 PM 	 1600437809.57536	Log_Type.KEYWORDS	kaka	spröd
+09/18/2020 04:03:29 PM 	 1600437809.7090511	Log_Type.GUESS	TOP WORDS:	citronkaka	fantasi	dröm	drömmar	visioner	CHOSE:	citronkaka
+09/18/2020 04:03:34 PM 	 1600437814.5463288	Log_Type.KEYWORDS	kaka	spröd	vit
+09/18/2020 04:03:34 PM 	 1600437814.6870663	Log_Type.GUESS	TOP WORDS:	citronkaka	fantasi	dröm	drömmar	människor	CHOSE:	citronkaka
+09/18/2020 04:03:37 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:38 PM 	 1600437818.8250508	Log_Type.GUESS_DEC	BASE	1	0	4.7995765209198	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:03:39 PM 	 1600437819.7643402	Log_Type.KEYWORDS	kaka	spröd	vit	favoritkaka
+09/18/2020 04:03:39 PM 	 1600437819.905963	Log_Type.GUESS	TOP WORDS:	citronkaka	dröm	fantasi	drömmar	visioner	CHOSE:	citronkaka
+09/18/2020 04:03:42 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:44 PM 	 1600437824.4964685	Log_Type.KEYWORDS	kaka	spröd	vit	favoritkaka
+09/18/2020 04:03:44 PM 	 1600437824.6408048	Log_Type.GUESS	TOP WORDS:	citronkaka	dröm	fantasi	drömmar	visioner	CHOSE:	citronkaka
+09/18/2020 04:03:46 PM 	 1600437826.3540576	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:03:46 PM 	 1600437826.3543544	Log_Type.GUESS_DEC	BASE	1	0	8.219551801681519	LESS_X_WORDS	WAIT
+09/18/2020 04:03:46 PM 	 1600437826.3547962	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_D# \pau=100\  citronkaka?	None
+09/18/2020 04:03:49 PM 	 1600437829.3823097	Log_Type.KEYWORDS	kaka	spröd	vit	favoritkaka
+09/18/2020 04:03:49 PM 	 1600437829.5219193	Log_Type.GUESS	TOP WORDS:	dröm	fantasi	drömmar	visioner	människor	CHOSE:	dröm
+09/18/2020 04:03:50 PM 	 1600437830.8079324	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_H# \pau=100\  dröm?	None
+09/18/2020 04:03:51 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:54 PM 	 1600437834.4050932	Log_Type.KEYWORDS	kaka	spröd	vit	favoritkaka	tänka
+09/18/2020 04:03:54 PM 	 1600437834.544669	Log_Type.GUESS	TOP WORDS:	fantasi	drömmar	människor	visioner	CHOSE:	fantasi
+09/18/2020 04:03:55 PM 	 1600437835.384108	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:03:55 PM 	 1600437835.3844957	Log_Type.GUESS_DEC	BASE	1	0	12.329195737838745	LESS_X_WORDS	WAIT
+09/18/2020 04:03:55 PM 	 1600437835.3850398	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_H# \pau=100\  fantasi?	None
+09/18/2020 04:03:56 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:03:57 PM 	 1600437837.5747175	Log_Type.KEYWORDS	kaka	spröd	vit	favoritkaka	tänka
+09/18/2020 04:03:57 PM 	 1600437837.717554	Log_Type.GUESS	TOP WORDS:	drömmar	människor	visioner	CHOSE:	drömmar
+09/18/2020 04:03:59 PM 	 1600437839.8119998	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:03:59 PM 	 1600437839.8162997	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_D# \pau=100\  drömmar?	None
+09/18/2020 04:04:00 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:02 PM 	 1600437842.351412	Log_Type.KEYWORDS	kaka	spröd	vit	favoritkaka	tänka
+09/18/2020 04:04:02 PM 	 1600437842.4820194	Log_Type.GUESS	TOP WORDS:	människor	visioner	CHOSE:	människor
+09/18/2020 04:04:02 PM 	 1600437842.8233352	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:04:02 PM 	 1600437842.8235648	Log_Type.GUESS_DEC	BASE	2	0	17.099233388900757	LESS_X_WORDS	WAIT
+09/18/2020 04:04:02 PM 	 1600437842.8239465	Log_Type.FURHAT_MESSAGE	say_and_gesture	#u-hu_F#	None
+09/18/2020 04:04:05 PM 	 1600437845.7217896	Log_Type.STATUS	[2.0, 0.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	4.829668760299683	12.2996244430542
+09/18/2020 04:04:05 PM 	 1600437845.7223747	Log_Type.GAME_WORD	spindel	1	77.92181277275085
+09/18/2020 04:04:07 PM 	 1600437847.1763244	Log_Type.GUESS	TOP WORDS:	fluga	spindel	CHOSE:	fluga
+09/18/2020 04:04:10 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:10 PM 	 1600437850.6751719	Log_Type.KEYWORDS	nästa	hjul	ha
+09/18/2020 04:04:10 PM 	 1600437850.8155901	Log_Type.GUESS	TOP WORDS:	fluga	spindel	CHOSE:	fluga
+09/18/2020 04:04:15 PM 	 1600437855.5587416	Log_Type.KEYWORDS	nästa	hjul	ha	tro	insekt
+09/18/2020 04:04:15 PM 	 1600437855.6884494	Log_Type.GUESS	TOP WORDS:	fluga	spindel	CHOSE:	fluga
+09/18/2020 04:04:17 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:18 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:19 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:20 PM 	 1600437860.7715824	Log_Type.KEYWORDS	nästa	hjul	ha	tro	insekt	väldig	liten	insekt
+09/18/2020 04:04:20 PM 	 1600437860.9019988	Log_Type.GUESS	TOP WORDS:	spindel	fluga	CHOSE:	spindel
+09/18/2020 04:04:22 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:24 PM 	 1600437864.2109022	Log_Type.KEYWORDS	nästa	hjul	ha	tro	insekt	väldig	liten	insekt
+09/18/2020 04:04:24 PM 	 1600437864.3449624	Log_Type.GUESS	TOP WORDS:	spindel	fluga	CHOSE:	spindel
+09/18/2020 04:04:25 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:28 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:28 PM 	 1600437868.9313881	Log_Type.KEYWORDS	nästa	hjul	ha	tro	insekt	väldig	liten	insekt
+09/18/2020 04:04:29 PM 	 1600437869.0610356	Log_Type.GUESS	TOP WORDS:	spindel	fluga	CHOSE:	spindel
+09/18/2020 04:04:29 PM 	 1600437869.8288572	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:04:29 PM 	 1600437869.8335114	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_A# \pau=100\  spindel?	None
+09/18/2020 04:04:29 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:33 PM 	 1600437873.684811	Log_Type.KEYWORDS	nästa	hjul	ha	tro	insekt	väldig	liten	insekt	tråd
+09/18/2020 04:04:33 PM 	 1600437873.8242488	Log_Type.GUESS	TOP WORDS:	fluga	CHOSE:	fluga
+09/18/2020 04:04:34 PM 	 1600437874.2894175	Log_Type.STATUS	[3.0, 0.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	4.9192094802856445	3.0901336669921875
+09/18/2020 04:04:34 PM 	 1600437874.2901387	Log_Type.GAME_WORD	betyg	1	106.48950123786926
+09/18/2020 04:04:38 PM 	 1600437878.3715997	Log_Type.GUESS	TOP WORDS:	omdömet	recension	betyget	omdömme	betyg	CHOSE:	omdömet
+09/18/2020 04:04:40 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:45 PM 	 1600437885.2161975	Log_Type.KEYWORDS	använda	skola
+09/18/2020 04:04:45 PM 	 1600437885.3499506	Log_Type.GUESS	TOP WORDS:	betyg	omdömme	recension	betyget	omdömet	CHOSE:	betyg
+09/18/2020 04:04:45 PM 	 1600437885.7096019	Log_Type.KEYWORDS	använda	skola
+09/18/2020 04:04:45 PM 	 1600437885.8399696	Log_Type.GUESS	TOP WORDS:	betyg	omdömme	recension	betyget	omdömet	CHOSE:	betyg
+09/18/2020 04:04:48 PM 	 1600437888.119903	Log_Type.KEYWORDS	använda	skola	student
+09/18/2020 04:04:48 PM 	 1600437888.2474327	Log_Type.GUESS	TOP WORDS:	recension	betyget	betyg	omdömme	omdömet	CHOSE:	recension
+09/18/2020 04:04:48 PM 	 1600437888.3833737	Log_Type.KEYWORDS	använda	skola	student
+09/18/2020 04:04:48 PM 	 1600437888.5122485	Log_Type.GUESS	TOP WORDS:	recension	betyget	betyg	omdömme	omdömet	CHOSE:	recension
+09/18/2020 04:04:48 PM 	 1600437888.8738918	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:04:48 PM 	 1600437888.8741975	Log_Type.GUESS_DEC	BASE	3	0	8.010093688964844	LESS_X_WORDS	WAIT
+09/18/2020 04:04:48 PM 	 1600437888.8747356	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_F#	None
+09/18/2020 04:04:49 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:51 PM 	 1600437891.6342049	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	True
+09/18/2020 04:04:51 PM 	 1600437891.6347415	Log_Type.GUESS_DEC	BASE	3	0	9.270145416259766	LESS_X_WORDS	GIVE_WORD
+09/18/2020 04:04:51 PM 	 1600437891.6353407	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_short_A#	None
+09/18/2020 04:04:51 PM 	 1600437891.8980756	Log_Type.KEYWORDS	använda	skola	student
+09/18/2020 04:04:52 PM 	 1600437892.0368967	Log_Type.GUESS	TOP WORDS:	recension	betyget	betyg	omdömme	omdömet	CHOSE:	recension
+09/18/2020 04:04:53 PM 	 1600437893.2452195	Log_Type.KEYWORDS	använda	skola	student
+09/18/2020 04:04:53 PM 	 1600437893.374641	Log_Type.GUESS	TOP WORDS:	recension	betyget	betyg	omdömme	omdömet	CHOSE:	recension
+09/18/2020 04:04:53 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:04:57 PM 	 1600437897.216803	Log_Type.KEYWORDS	använda	skola	student
+09/18/2020 04:04:57 PM 	 1600437897.3337862	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:04:57 PM 	 1600437897.3344948	Log_Type.GUESS_DEC	BASE	3	0	13.260430335998535	LESS_X_WORDS	WAIT
+09/18/2020 04:04:57 PM 	 1600437897.3449688	Log_Type.GUESS	TOP WORDS:	recension	betyget	betyg	omdömme	omdömet	CHOSE:	recension
+09/18/2020 04:04:58 PM 	 1600437898.8029423	Log_Type.KEYWORDS	använda	skola	student	nästan	därför	steg
+09/18/2020 04:04:58 PM 	 1600437898.9330158	Log_Type.GUESS	TOP WORDS:	omdömme	betyget	recension	betyg	omdömet	CHOSE:	omdömme
+09/18/2020 04:05:00 PM 	 1600437900.8449848	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_G# \pau=100\  omdömme?	None
+09/18/2020 04:05:02 PM 	 1600437902.3534827	Log_Type.KEYWORDS	använda	skola	student	nästan	därför	steg
+09/18/2020 04:05:02 PM 	 1600437902.488293	Log_Type.GUESS	TOP WORDS:	betyget	recension	betyg	omdömet	CHOSE:	betyget
+09/18/2020 04:05:02 PM 	 1600437902.8457828	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_J# \pau=100\  betyget?	None
+09/18/2020 04:05:03 PM 	 1600437903.3742347	Log_Type.KEYWORDS	använda	skola	student	nästan	därför	steg
+09/18/2020 04:05:03 PM 	 1600437903.5047977	Log_Type.GUESS	TOP WORDS:	recension	betyg	omdömet	CHOSE:	recension
+09/18/2020 04:05:03 PM 	 1600437903.845693	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_G# \pau=100\  recension?	None
+09/18/2020 04:05:04 PM 	 1600437904.069006	Log_Type.KEYWORDS	använda	skola	student	nästan	därför	steg
+09/18/2020 04:05:04 PM 	 1600437904.1990826	Log_Type.GUESS	TOP WORDS:	betyg	omdömet	CHOSE:	betyg
+09/18/2020 04:05:04 PM 	 1600437904.8469365	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:05:04 PM 	 1600437904.8515253	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_B# \pau=100\  betyg?	None
+09/18/2020 04:05:05 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:07 PM 	 1600437907.9074585	Log_Type.KEYWORDS	använda	skola	student	nästan	därför	steg
+09/18/2020 04:05:08 PM 	 1600437908.0381975	Log_Type.GUESS	TOP WORDS:	omdömet	CHOSE:	omdömet
+09/18/2020 04:05:08 PM 	 1600437908.3040845	Log_Type.KEYWORDS	använda	skola	student	nästan	därför	steg
+09/18/2020 04:05:08 PM 	 1600437908.4327002	Log_Type.GUESS	TOP WORDS:	omdömet	CHOSE:	omdömet
+09/18/2020 04:05:09 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:10 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:13 PM 	 1600437913.2920578	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:05:13 PM 	 1600437913.2924733	Log_Type.GUESS_DEC	BASE	3	1	17.19090747833252	LESS_X_WORDS	WAIT
+09/18/2020 04:05:13 PM 	 1600437913.2930844	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_B#	None
+09/18/2020 04:05:13 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:13 PM 	 1600437913.833406	Log_Type.KEYWORDS	använda	skola	student	nästan	därför	steg	typ
+09/18/2020 04:05:13 PM 	 1600437913.9629564	Log_Type.GUESS	TOP WORDS:	omdömet	CHOSE:	omdömet
+09/18/2020 04:05:14 PM 	 1600437914.3732128	Log_Type.KEYWORDS	använda	skola	student	nästan	därför	steg	typ	få	vara	plus
+09/18/2020 04:05:14 PM 	 1600437914.5087206	Log_Type.GUESS	TOP WORDS:	omdömet	CHOSE:	omdömet
+09/18/2020 04:05:15 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:15 PM 	 1600437915.7840042	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	True
+09/18/2020 04:05:15 PM 	 1600437915.7844028	Log_Type.GUESS_DEC	BASE	3	1	19.17085361480713	LESS_X_WORDS	GIVE_WORD
+09/18/2020 04:05:15 PM 	 1600437915.7849982	Log_Type.FURHAT_MESSAGE	say_and_gesture	#u-hu_D#	None
+09/18/2020 04:05:16 PM 	 1600437916.3332932	Log_Type.STATUS	[3.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	6.780434608459473	14.010482788085938
+09/18/2020 04:05:16 PM 	 1600437916.333864	Log_Type.GAME_WORD	apotek	1	148.53326630592346
+09/18/2020 04:05:18 PM 	 1600437918.4375176	Log_Type.GUESS	TOP WORDS:	nätet	apoteket	ica	kliniken	läkare	CHOSE:	nätet
+09/18/2020 04:05:19 PM 	 1600437919.880834	Log_Type.KEYWORDS	nog	okej
+09/18/2020 04:05:20 PM 	 1600437920.0089328	Log_Type.GUESS	TOP WORDS:	nätet	ica	apoteket	läkare	apotek	CHOSE:	nätet
+09/18/2020 04:05:22 PM 	 1600437922.86255	Log_Type.KEYWORDS	nog	okej
+09/18/2020 04:05:22 PM 	 1600437922.9894428	Log_Type.GUESS	TOP WORDS:	nätet	ica	apoteket	läkare	apotek	CHOSE:	nätet
+09/18/2020 04:05:23 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:24 PM 	 1600437924.692166	Log_Type.KEYWORDS	nog	okej	butik
+09/18/2020 04:05:24 PM 	 1600437924.8205488	Log_Type.GUESS	TOP WORDS:	nätet	ica	apoteket	läkare	apotek	CHOSE:	nätet
+09/18/2020 04:05:25 PM 	 1600437925.2925222	Log_Type.GUESS_DEC	BASE	3	1	2.010080337524414	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:05:26 PM 	 1600437926.6121516	Log_Type.KEYWORDS	nog	okej	butik	medicin
+09/18/2020 04:05:26 PM 	 1600437926.7402272	Log_Type.GUESS	TOP WORDS:	apoteket	nätet	läkare	apotek	ica	CHOSE:	apoteket
+09/18/2020 04:05:29 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:29 PM 	 1600437929.2868416	Log_Type.KEYWORDS	nog	okej	butik	medicin
+09/18/2020 04:05:29 PM 	 1600437929.4176438	Log_Type.GUESS	TOP WORDS:	apoteket	nätet	läkare	apotek	ica	CHOSE:	apoteket
+09/18/2020 04:05:31 PM 	 1600437931.2048187	Log_Type.KEYWORDS	nog	okej	butik	medicin	spela
+09/18/2020 04:05:31 PM 	 1600437931.3329043	Log_Type.GUESS	TOP WORDS:	nätet	apoteket	läkare	ica	apotek	CHOSE:	nätet
+09/18/2020 04:05:33 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:34 PM 	 1600437934.0595968	Log_Type.KEYWORDS	nog	okej	butik	medicin	spela	magda	medicin
+09/18/2020 04:05:34 PM 	 1600437934.1867695	Log_Type.GUESS	TOP WORDS:	läkare	ica	apoteket	kliniken	nätet	CHOSE:	läkare
+09/18/2020 04:05:38 PM 	 1600437938.5441298	Log_Type.KEYWORDS	nog	okej	butik	medicin	spela	magda	medicin
+09/18/2020 04:05:38 PM 	 1600437938.6757715	Log_Type.GUESS	TOP WORDS:	läkare	ica	apoteket	kliniken	nätet	CHOSE:	läkare
+09/18/2020 04:05:38 PM 	 1600437938.8782327	Log_Type.KEYWORDS	nog	okej	butik	medicin	spela	magda	medicin	sjuk	så	köpa
+09/18/2020 04:05:39 PM 	 1600437939.0076394	Log_Type.GUESS	TOP WORDS:	apoteket	nätet	läkare	apotek	ica	CHOSE:	apoteket
+09/18/2020 04:05:39 PM 	 1600437939.4540234	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	True
+09/18/2020 04:05:39 PM 	 1600437939.4543912	Log_Type.GUESS_DEC	BASE	3	1	8.669672012329102	NORMAL	GIVE_WORD
+09/18/2020 04:05:39 PM 	 1600437939.4548001	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:05:39 PM 	 1600437939.4594996	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_I# \pau=100\  apotek?	None
+09/18/2020 04:05:41 PM 	 1600437941.6039681	Log_Type.KEYWORDS	nog	okej	butik	medicin	spela	magda	medicin	sjuk	så	köpa
+09/18/2020 04:05:41 PM 	 1600437941.7345357	Log_Type.GUESS	TOP WORDS:	apoteket	nätet	läkare	ica	kliniken	CHOSE:	apoteket
+09/18/2020 04:05:43 PM 	 1600437943.2084622	Log_Type.KEYWORDS	nog	okej	butik	medicin	spela	magda	medicin	sjuk	så	köpa	apotek
+09/18/2020 04:05:43 PM 	 1600437943.2850745	Log_Type.KEYWORDS	nog	okej	butik	medicin	spela	magda	medicin	sjuk	så	köpa	apotek
+09/18/2020 04:05:43 PM 	 1600437943.3920507	Log_Type.GUESS	TOP WORDS:	apoteket	nätet	läkare	ica	kliniken	CHOSE:	apoteket
+09/18/2020 04:05:43 PM 	 1600437943.4697604	Log_Type.GUESS	TOP WORDS:	apoteket	nätet	läkare	ica	kliniken	CHOSE:	apoteket
+09/18/2020 04:05:43 PM 	 1600437943.5886562	Log_Type.STATUS	[4.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	1.589975357055664	7.680027008056641
+09/18/2020 04:05:43 PM 	 1600437943.5889597	Log_Type.GAME_WORD	spöke	1	175.7884590625763
+09/18/2020 04:05:45 PM 	 1600437945.3106914	Log_Type.GUESS	TOP WORDS:	huvud	dröm	monster	zombie	mardröm	CHOSE:	huvud
+09/18/2020 04:05:48 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:49 PM 	 1600437949.9054992	Log_Type.GUESS	TOP WORDS:	huvud	dröm	monster	zombie	mardröm	CHOSE:	huvud
+09/18/2020 04:05:50 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:50 PM 	 1600437950.893246	Log_Type.KEYWORDS	denon
+09/18/2020 04:05:51 PM 	 1600437951.0208116	Log_Type.GUESS	TOP WORDS:	monster	huvud	spöke	dröm	zombie	CHOSE:	monster
+09/18/2020 04:05:52 PM 	 1600437952.591334	Log_Type.GUESS_DEC	BASE	3	2	2.4605274200439453	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:05:54 PM 	 1600437954.2707062	Log_Type.KEYWORDS	denon
+09/18/2020 04:05:54 PM 	 1600437954.4035125	Log_Type.GUESS	TOP WORDS:	monster	huvud	spöke	dröm	zombie	CHOSE:	monster
+09/18/2020 04:05:54 PM 	 1600437954.657367	Log_Type.KEYWORDS	denon	gast	kanske	synonym
+09/18/2020 04:05:54 PM 	 1600437954.7863908	Log_Type.GUESS	TOP WORDS:	dröm	spöke	mardröm	huvud	zombie	CHOSE:	dröm
+09/18/2020 04:05:58 PM 	 1600437958.0213325	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym
+09/18/2020 04:05:58 PM 	 1600437958.1492743	Log_Type.GUESS	TOP WORDS:	spöke	huvud	dröm	mardröm	monster	CHOSE:	spöke
+09/18/2020 04:05:59 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:05:59 PM 	 1600437959.6626499	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym	få
+09/18/2020 04:05:59 PM 	 1600437959.7907126	Log_Type.GUESS	TOP WORDS:	huvud	spöke	dröm	monster	mardröm	CHOSE:	huvud
+09/18/2020 04:06:00 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:02 PM 	 1600437962.0078712	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym	få	se	synonym
+09/18/2020 04:06:02 PM 	 1600437962.1374786	Log_Type.GUESS	TOP WORDS:	spöke	huvud	dröm	mardröm	monster	CHOSE:	spöke
+09/18/2020 04:06:04 PM 	 1600437964.2197676	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym	få	se	synonym
+09/18/2020 04:06:04 PM 	 1600437964.3535995	Log_Type.GUESS	TOP WORDS:	spöke	huvud	dröm	mardröm	monster	CHOSE:	spöke
+09/18/2020 04:06:04 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:06 PM 	 1600437966.5626156	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym	få	se	synonym	se
+09/18/2020 04:06:06 PM 	 1600437966.6910877	Log_Type.GUESS	TOP WORDS:	dröm	spöke	huvud	mardröm	monster	CHOSE:	dröm
+09/18/2020 04:06:06 PM 	 1600437966.8813918	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_J# \pau=100\  dröm?	None
+09/18/2020 04:06:09 PM 	 1600437969.2799382	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym	få	se	synonym	se
+09/18/2020 04:06:09 PM 	 1600437969.434051	Log_Type.GUESS	TOP WORDS:	spöke	huvud	mardröm	monster	zombie	CHOSE:	spöke
+09/18/2020 04:06:09 PM 	 1600437969.4465618	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym	få	se	synonym	se	anta
+09/18/2020 04:06:09 PM 	 1600437969.5881143	Log_Type.GUESS	TOP WORDS:	spöke	huvud	mardröm	monster	zombie	CHOSE:	spöke
+09/18/2020 04:06:09 PM 	 1600437969.8790243	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:06:09 PM 	 1600437969.8826065	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_G# \pau=100\  spöke?	None
+09/18/2020 04:06:12 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:13 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:14 PM 	 1600437974.213642	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym	få	se	synonym	se	anta
+09/18/2020 04:06:14 PM 	 1600437974.3427768	Log_Type.GUESS	TOP WORDS:	huvud	mardröm	monster	zombie	CHOSE:	huvud
+09/18/2020 04:06:14 PM 	 1600437974.8111162	Log_Type.KEYWORDS	denon	gast	kanske	synonym	säga	synonym	få	se	synonym	se	anta	ha
+09/18/2020 04:06:14 PM 	 1600437974.9406261	Log_Type.GUESS	TOP WORDS:	huvud	mardröm	monster	zombie	CHOSE:	huvud
+09/18/2020 04:06:16 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:16 PM 	 1600437976.0838704	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:06:16 PM 	 1600437976.0842142	Log_Type.GUESS_DEC	BASE	3	3	10.710262298583984	NORMAL	WAIT
+09/18/2020 04:06:16 PM 	 1600437976.0848136	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_short_B#	None
+09/18/2020 04:06:18 PM 	 1600437978.2049136	Log_Type.STATUS	[5.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	4.710111618041992	7.380107879638672
+09/18/2020 04:06:18 PM 	 1600437978.2056642	Log_Type.GAME_WORD	pensel	1	210.40503430366516
+09/18/2020 04:06:19 PM 	 1600437979.2062147	Log_Type.KEYWORDS	gissat	synonym	okej
+09/18/2020 04:06:19 PM 	 1600437979.3340054	Log_Type.GUESS	TOP WORDS:	penseln	pensel	färg	lack	papper	CHOSE:	penseln
+09/18/2020 04:06:19 PM 	 1600437979.5521717	Log_Type.KEYWORDS	gissat	synonym	okej
+09/18/2020 04:06:19 PM 	 1600437979.6868954	Log_Type.GUESS	TOP WORDS:	penseln	pensel	färg	lack	papper	CHOSE:	penseln
+09/18/2020 04:06:22 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:24 PM 	 1600437984.1163547	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda
+09/18/2020 04:06:24 PM 	 1600437984.2439492	Log_Type.GUESS	TOP WORDS:	penseln	lack	pensel	papper	färg	CHOSE:	penseln
+09/18/2020 04:06:24 PM 	 1600437984.7540054	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda
+09/18/2020 04:06:24 PM 	 1600437984.88662	Log_Type.GUESS	TOP WORDS:	penseln	lack	pensel	papper	färg	CHOSE:	penseln
+09/18/2020 04:06:25 PM 	 1600437985.2010424	Log_Type.GUESS_DEC	BASE	3	3	2.459840774536133	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:06:25 PM 	 1600437985.2019448	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_G#	None
+09/18/2020 04:06:26 PM 	 1600437986.630501	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda
+09/18/2020 04:06:26 PM 	 1600437986.7613719	Log_Type.GUESS	TOP WORDS:	penseln	lack	pensel	papper	färg	CHOSE:	penseln
+09/18/2020 04:06:27 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:28 PM 	 1600437988.4985442	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda
+09/18/2020 04:06:28 PM 	 1600437988.6319904	Log_Type.GUESS	TOP WORDS:	penseln	lack	pensel	papper	färg	CHOSE:	penseln
+09/18/2020 04:06:29 PM 	 1600437989.9013267	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda
+09/18/2020 04:06:30 PM 	 1600437990.0318363	Log_Type.GUESS	TOP WORDS:	penseln	lack	pensel	papper	färg	CHOSE:	penseln
+09/18/2020 04:06:31 PM 	 1600437991.5434012	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda	verktyg
+09/18/2020 04:06:31 PM 	 1600437991.6715236	Log_Type.GUESS	TOP WORDS:	penseln	färg	pensel	papper	lack	CHOSE:	penseln
+09/18/2020 04:06:32 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:36 PM 	 1600437996.1539304	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:06:36 PM 	 1600437996.1543777	Log_Type.GUESS_DEC	BASE	3	3	7.740055084228516	NORMAL	WAIT
+09/18/2020 04:06:36 PM 	 1600437996.155104	Log_Type.FURHAT_MESSAGE	say_and_gesture	#u-hu_E#	None
+09/18/2020 04:06:36 PM 	 1600437996.179822	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda	verktyg
+09/18/2020 04:06:36 PM 	 1600437996.3157256	Log_Type.GUESS	TOP WORDS:	penseln	färg	pensel	papper	lack	CHOSE:	penseln
+09/18/2020 04:06:36 PM 	 1600437996.623509	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda	verktyg	baka	så	använda
+09/18/2020 04:06:36 PM 	 1600437996.7532873	Log_Type.GUESS	TOP WORDS:	penseln	pensel	lack	papper	färg	CHOSE:	penseln
+09/18/2020 04:06:37 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:38 PM 	 1600437998.0854862	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda	verktyg	baka	så	använda
+09/18/2020 04:06:38 PM 	 1600437998.217608	Log_Type.GUESS	TOP WORDS:	penseln	pensel	lack	papper	färg	CHOSE:	penseln
+09/18/2020 04:06:40 PM 	 1600438000.4735339	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:06:40 PM 	 1600438000.4738705	Log_Type.GUESS_DEC	BASE	3	3	10.620223999023438	NORMAL	WAIT
+09/18/2020 04:06:40 PM 	 1600438000.474288	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_A# \pau=100\  penseln?	None
+09/18/2020 04:06:40 PM 	 1600438000.8326879	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda	verktyg	baka	så	använda
+09/18/2020 04:06:40 PM 	 1600438000.9655406	Log_Type.GUESS	TOP WORDS:	pensel	lack	papper	färg	blad	CHOSE:	pensel
+09/18/2020 04:06:41 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:42 PM 	 1600438002.7405465	Log_Type.KEYWORDS	gissat	synonym	okej	måla	så	använda	verktyg	baka	så	använda	olja	vatten
+09/18/2020 04:06:42 PM 	 1600438002.8689392	Log_Type.GUESS	TOP WORDS:	pensel	färg	lack	papper	blad	CHOSE:	pensel
+09/18/2020 04:06:44 PM 	 1600438004.7944913	Log_Type.STATUS	[6.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	3.8701705932617188	8.100074768066406
+09/18/2020 04:06:44 PM 	 1600438004.7950225	Log_Type.GAME_WORD	spegel	1	236.99444270133972
+09/18/2020 04:06:45 PM 	 1600438005.306074	Log_Type.GUESS	TOP WORDS:	färg	stil	dusch	sten	skärm	CHOSE:	färg
+09/18/2020 04:06:45 PM 	 1600438005.5248082	Log_Type.GUESS	TOP WORDS:	färg	stil	dusch	sten	skärm	CHOSE:	färg
+09/18/2020 04:06:49 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:50 PM 	 1600438010.3399963	Log_Type.KEYWORDS	reflekterande
+09/18/2020 04:06:50 PM 	 1600438010.4948945	Log_Type.GUESS	TOP WORDS:	metall	färg	skärm	stil	sten	CHOSE:	metall
+09/18/2020 04:06:50 PM 	 1600438010.5262332	Log_Type.KEYWORDS	reflekterande	reflekterande
+09/18/2020 04:06:50 PM 	 1600438010.6699357	Log_Type.GUESS	TOP WORDS:	metall	färg	skärm	stil	sten	CHOSE:	metall
+09/18/2020 04:06:50 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:52 PM 	 1600438012.2183967	Log_Type.KEYWORDS	reflekterande	reflekterande
+09/18/2020 04:06:52 PM 	 1600438012.3537116	Log_Type.GUESS	TOP WORDS:	metall	färg	skärm	stil	sten	CHOSE:	metall
+09/18/2020 04:06:54 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:06:55 PM 	 1600438015.3996904	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva
+09/18/2020 04:06:55 PM 	 1600438015.529539	Log_Type.GUESS	TOP WORDS:	metall	färg	skärm	stil	sten	CHOSE:	metall
+09/18/2020 04:06:55 PM 	 1600438015.750217	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva
+09/18/2020 04:06:55 PM 	 1600438015.8778918	Log_Type.GUESS	TOP WORDS:	metall	färg	skärm	stil	sten	CHOSE:	metall
+09/18/2020 04:06:59 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:00 PM 	 1600438020.1169777	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva
+09/18/2020 04:07:00 PM 	 1600438020.2468886	Log_Type.GUESS	TOP WORDS:	metall	färg	skärm	stil	sten	CHOSE:	metall
+09/18/2020 04:07:00 PM 	 1600438020.8433044	Log_Type.GUESS_DEC	BASE	3	3	4.259740829467773	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:07:01 PM 	 1600438021.5021348	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig
+09/18/2020 04:07:01 PM 	 1600438021.6302476	Log_Type.GUESS	TOP WORDS:	metall	färg	skärm	stil	sten	CHOSE:	metall
+09/18/2020 04:07:02 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:04 PM 	 1600438024.892745	Log_Type.GUESS_DEC	BASE	3	3	6.359869003295898	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:07:04 PM 	 1600438024.8932767	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_A# \pau=100\  metall?	None
+09/18/2020 04:07:05 PM 	 1600438025.057372	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig
+09/18/2020 04:07:05 PM 	 1600438025.1890135	Log_Type.GUESS	TOP WORDS:	färg	skärm	stil	sten	spegel	CHOSE:	färg
+09/18/2020 04:07:06 PM 	 1600438026.0033927	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv
+09/18/2020 04:07:06 PM 	 1600438026.1372173	Log_Type.GUESS	TOP WORDS:	färg	skärm	stil	sten	spegel	CHOSE:	färg
+09/18/2020 04:07:08 PM 	 1600438028.9109378	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_A# \pau=100\  färg?	None
+09/18/2020 04:07:09 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:09 PM 	 1600438029.6531842	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv
+09/18/2020 04:07:09 PM 	 1600438029.7853756	Log_Type.GUESS	TOP WORDS:	skärm	stil	sten	spegel	fönster	CHOSE:	skärm
+09/18/2020 04:07:11 PM 	 1600438031.1637933	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:07:11 PM 	 1600438031.1642003	Log_Type.GUESS_DEC	BASE	3	3	9.149747848510742	NORMAL	WAIT
+09/18/2020 04:07:11 PM 	 1600438031.6544583	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv	använda	vardaglig
+09/18/2020 04:07:11 PM 	 1600438031.7824075	Log_Type.GUESS	TOP WORDS:	skärm	stil	sten	spegel	fönster	CHOSE:	skärm
+09/18/2020 04:07:12 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:14 PM 	 1600438034.3638196	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv	använda	vardaglig
+09/18/2020 04:07:14 PM 	 1600438034.4969285	Log_Type.GUESS	TOP WORDS:	skärm	stil	sten	spegel	fönster	CHOSE:	skärm
+09/18/2020 04:07:15 PM 	 1600438035.3536477	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv	använda	vardaglig	finnas	ju
+09/18/2020 04:07:15 PM 	 1600438035.4879785	Log_Type.GUESS	TOP WORDS:	spegel	skärm	stil	dusch	sten	CHOSE:	spegel
+09/18/2020 04:07:17 PM 	 1600438037.9113848	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv	använda	vardaglig	finnas	ju
+09/18/2020 04:07:18 PM 	 1600438038.0488546	Log_Type.GUESS	TOP WORDS:	spegel	skärm	stil	dusch	sten	CHOSE:	spegel
+09/18/2020 04:07:18 PM 	 1600438038.6935031	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:07:18 PM 	 1600438038.693827	Log_Type.GUESS_DEC	BASE	3	3	14.789602279663086	NORMAL	WAIT
+09/18/2020 04:07:18 PM 	 1600438038.6944294	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_short_C#	None
+09/18/2020 04:07:19 PM 	 1600438039.0223308	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv	använda	vardaglig	finnas	ju
+09/18/2020 04:07:19 PM 	 1600438039.153306	Log_Type.GUESS	TOP WORDS:	spegel	skärm	stil	dusch	sten	CHOSE:	spegel
+09/18/2020 04:07:19 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:20 PM 	 1600438040.1405106	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv	använda	vardaglig	finnas	ju
+09/18/2020 04:07:20 PM 	 1600438040.2732947	Log_Type.GUESS	TOP WORDS:	spegel	skärm	stil	dusch	sten	CHOSE:	spegel
+09/18/2020 04:07:22 PM 	 1600438042.458602	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv	använda	vardaglig	finnas	ju
+09/18/2020 04:07:22 PM 	 1600438042.5927866	Log_Type.GUESS	TOP WORDS:	spegel	skärm	stil	dusch	sten	CHOSE:	spegel
+09/18/2020 04:07:22 PM 	 1600438042.9167316	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:07:22 PM 	 1600438042.9212127	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_F# \pau=100\  spegel?	None
+09/18/2020 04:07:23 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:24 PM 	 1600438044.2888527	Log_Type.KEYWORDS	reflekterande	reflekterande	glasskiva	genomskinlig	reflektera	själv	använda	vardaglig	finnas	ju	metall	fungera	tro
+09/18/2020 04:07:24 PM 	 1600438044.4180827	Log_Type.GUESS	TOP WORDS:	fönster	sten	skärm	stil	dusch	CHOSE:	fönster
+09/18/2020 04:07:27 PM 	 1600438047.342908	Log_Type.STATUS	[7.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	5.070283889770508	12.14984130859375
+09/18/2020 04:07:27 PM 	 1600438047.3436139	Log_Type.GAME_WORD	uggla	1	279.54298305511475
+09/18/2020 04:07:27 PM 	 1600438047.6154463	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:29 PM 	 1600438049.0367014	Log_Type.KEYWORDS	precis
+09/18/2020 04:07:29 PM 	 1600438049.1649115	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:31 PM 	 1600438051.1666324	Log_Type.KEYWORDS	precis
+09/18/2020 04:07:31 PM 	 1600438051.2975192	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:31 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:33 PM 	 1600438053.632954	Log_Type.GUESS_DEC	BASE	4	3	1.1400222778320312	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:07:33 PM 	 1600438053.7637355	Log_Type.KEYWORDS	precis
+09/18/2020 04:07:33 PM 	 1600438053.9010463	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:33 PM 	 1600438053.9950125	Log_Type.KEYWORDS	precis
+09/18/2020 04:07:34 PM 	 1600438054.1245506	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:34 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:37 PM 	 1600438057.2516851	Log_Type.KEYWORDS	precis	sova	natt
+09/18/2020 04:07:37 PM 	 1600438057.3794928	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:38 PM 	 1600438058.8346372	Log_Type.KEYWORDS	precis	sova	natt
+09/18/2020 04:07:38 PM 	 1600438058.9677274	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:40 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:42 PM 	 1600438062.0029066	Log_Type.GUESS_DEC	BASE	4	3	4.290069580078125	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:07:42 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:42 PM 	 1600438062.4895103	Log_Type.KEYWORDS	precis	sova	natt	vaken
+09/18/2020 04:07:42 PM 	 1600438062.6172013	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:43 PM 	 1600438063.9256454	Log_Type.KEYWORDS	precis	sova	natt	vaken
+09/18/2020 04:07:44 PM 	 1600438064.0584407	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:45 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:46 PM 	 1600438066.8625162	Log_Type.KEYWORDS	precis	sova	natt	vaken
+09/18/2020 04:07:46 PM 	 1600438066.9979193	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:47 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:07:48 PM 	 1600438068.7647085	Log_Type.KEYWORDS	precis	sova	natt	vaken	flyga
+09/18/2020 04:07:48 PM 	 1600438068.8928115	Log_Type.GUESS	TOP WORDS:	fåglar	uggla	CHOSE:	fåglar
+09/18/2020 04:07:49 PM 	 1600438069.1423626	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:07:49 PM 	 1600438069.1425362	Log_Type.GUESS_DEC	BASE	4	3	7.679798126220703	NORMAL	WAIT
+09/18/2020 04:07:50 PM 	 1600438070.1846895	Log_Type.KEYWORDS	precis	sova	natt	vaken	flyga	här	stor	ögon
+09/18/2020 04:07:50 PM 	 1600438070.3128257	Log_Type.GUESS	TOP WORDS:	uggla	fåglar	CHOSE:	uggla
+09/18/2020 04:07:52 PM 	 1600438072.9324124	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:07:52 PM 	 1600438072.9357886	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_F# \pau=100\  uggla?	None
+09/18/2020 04:07:53 PM 	 1600438073.4506822	Log_Type.KEYWORDS	precis	sova	natt	vaken	flyga	här	stor	ögon
+09/18/2020 04:07:53 PM 	 1600438073.5872614	Log_Type.GUESS	TOP WORDS:	fåglar	CHOSE:	fåglar
+09/18/2020 04:07:56 PM 	 1600438076.655176	Log_Type.KEYWORDS	precis	sova	natt	vaken	flyga	här	stor	ögon
+09/18/2020 04:07:56 PM 	 1600438076.7851527	Log_Type.GUESS	TOP WORDS:	fåglar	CHOSE:	fåglar
+09/18/2020 04:07:56 PM 	 1600438076.8467402	Log_Type.STATUS	[8.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	0.8099861145019531	7.079933166503906
+09/18/2020 04:07:56 PM 	 1600438076.8469405	Log_Type.GAME_WORD	bagare	1	309.04649782180786
+09/18/2020 04:07:58 PM 	 1600438078.1005352	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:02 PM 	 1600438082.8000758	Log_Type.KEYWORDS	hej
+09/18/2020 04:08:02 PM 	 1600438082.9285033	Log_Type.GUESS	TOP WORDS:	bagare	hantverkare	CHOSE:	bagare
+09/18/2020 04:08:05 PM 	 1600438085.9828525	Log_Type.KEYWORDS	hej
+09/18/2020 04:08:06 PM 	 1600438086.1144347	Log_Type.GUESS	TOP WORDS:	bagare	hantverkare	CHOSE:	bagare
+09/18/2020 04:08:06 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:08:07 PM 	 1600438087.5545065	Log_Type.KEYWORDS	hej	person	jobba	butik
+09/18/2020 04:08:07 PM 	 1600438087.6826258	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:08 PM 	 1600438088.5377605	Log_Type.KEYWORDS	hej	person	jobba	butik
+09/18/2020 04:08:08 PM 	 1600438088.6685207	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:10 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:08:10 PM 	 1600438090.3506253	Log_Type.KEYWORDS	hej	person	jobba	butik
+09/18/2020 04:08:10 PM 	 1600438090.4849446	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:12 PM 	 1600438092.031047	Log_Type.GUESS_DEC	BASE	5	3	2.489715576171875	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:08:12 PM 	 1600438092.3338482	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna
+09/18/2020 04:08:12 PM 	 1600438092.4150653	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna
+09/18/2020 04:08:12 PM 	 1600438092.5691533	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:12 PM 	 1600438092.6258085	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:15 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:08:17 PM 	 1600438097.1822023	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna
+09/18/2020 04:08:17 PM 	 1600438097.3159688	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:17 PM 	 1600438097.5259476	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja
+09/18/2020 04:08:17 PM 	 1600438097.6416748	Log_Type.GUESS_DEC	BASE	5	3	3.749805450439453	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:08:17 PM 	 1600438097.6546164	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:20 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:08:22 PM 	 1600438102.4803445	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst
+09/18/2020 04:08:22 PM 	 1600438102.6085885	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:23 PM 	 1600438103.3396459	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst
+09/18/2020 04:08:23 PM 	 1600438103.4708874	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:24 PM 	 1600438104.5409124	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:08:24 PM 	 1600438104.5411875	Log_Type.GUESS_DEC	BASE	5	3	8.069717407226562	NORMAL	WAIT
+09/18/2020 04:08:24 PM 	 1600438104.541676	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_F#	None
+09/18/2020 04:08:24 PM 	 1600438104.7662425	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst
+09/18/2020 04:08:24 PM 	 1600438104.898135	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:26 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:08:27 PM 	 1600438107.3783062	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst	göra	här	sak	var	jobba
+09/18/2020 04:08:27 PM 	 1600438107.5130515	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:27 PM 	 1600438107.8297703	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst	göra	här	sak	var	jobba
+09/18/2020 04:08:27 PM 	 1600438107.969404	Log_Type.GUESS	TOP WORDS:	hantverkare	bagare	CHOSE:	hantverkare
+09/18/2020 04:08:28 PM 	 1600438108.9523118	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_I# \pau=100\  hantverkare?	None
+09/18/2020 04:08:31 PM 	 1600438111.290823	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst	göra	här	sak	var	jobba
+09/18/2020 04:08:31 PM 	 1600438111.4252317	Log_Type.GUESS	TOP WORDS:	bagare	CHOSE:	bagare
+09/18/2020 04:08:31 PM 	 1600438111.953796	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:08:31 PM 	 1600438111.958735	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_B# \pau=100\  bagare?	None
+09/18/2020 04:08:32 PM 	 1600438112.4000216	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst	göra	här	sak	var	jobba	hantverkare
+09/18/2020 04:08:36 PM 	 1600438116.608011	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst	göra	här	sak	var	jobba	hantverkare
+09/18/2020 04:08:37 PM 	 1600438117.0065439	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst	göra	här	sak	var	jobba	hantverkare
+09/18/2020 04:08:38 PM 	 1600438118.4390998	Log_Type.KEYWORDS	hej	person	jobba	butik	sak	tillverka	ugna	sak	tillverka	ugna	sälja	använda	jäst	göra	här	sak	var	jobba	hantverkare
+09/18/2020 04:08:38 PM 	 1600438118.661129	Log_Type.STATUS	[9.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	9.479255676269531	0.0
+09/18/2020 04:08:38 PM 	 1600438118.6613514	Log_Type.GAME_WORD	skinka	1	350.86090755462646
+09/18/2020 04:08:41 PM 	 1600438121.683181	Log_Type.GUESS	TOP WORDS:	kött	choklad	smör	ost	bacon	CHOSE:	kött
+09/18/2020 04:08:44 PM 	 1600438124.0380201	Log_Type.GUESS	TOP WORDS:	kött	choklad	smör	ost	bacon	CHOSE:	kött
+09/18/2020 04:08:46 PM 	 1600438126.2887328	Log_Type.GUESS	TOP WORDS:	kött	choklad	smör	ost	bacon	CHOSE:	kött
+09/18/2020 04:08:50 PM 	 1600438130.233389	Log_Type.KEYWORDS	bra	bruka	äta	frukost
+09/18/2020 04:08:50 PM 	 1600438130.360958	Log_Type.GUESS	TOP WORDS:	kött	ost	skinka	choklad	salami	CHOSE:	kött
+09/18/2020 04:08:50 PM 	 1600438130.9951801	Log_Type.KEYWORDS	bra	bruka	äta	frukost
+09/18/2020 04:08:51 PM 	 1600438131.1291573	Log_Type.GUESS	TOP WORDS:	kött	ost	skinka	choklad	salami	CHOSE:	kött
+09/18/2020 04:08:52 PM 	 1600438132.8089042	Log_Type.KEYWORDS	bra	bruka	äta	frukost
+09/18/2020 04:08:52 PM 	 1600438132.9398518	Log_Type.GUESS	TOP WORDS:	kött	ost	skinka	choklad	salami	CHOSE:	kött
+09/18/2020 04:08:54 PM 	 1600438134.4103706	Log_Type.KEYWORDS	bra	bruka	äta	frukost
+09/18/2020 04:08:54 PM 	 1600438134.5472848	Log_Type.GUESS	TOP WORDS:	kött	ost	skinka	choklad	salami	CHOSE:	kött
+09/18/2020 04:08:55 PM 	 1600438135.729279	Log_Type.KEYWORDS	bra	bruka	äta	frukost
+09/18/2020 04:08:55 PM 	 1600438135.8623004	Log_Type.GUESS	TOP WORDS:	kött	ost	skinka	choklad	salami	CHOSE:	kött
+09/18/2020 04:08:56 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:08:59 PM 	 1600438139.04291	Log_Type.GUESS_DEC	BASE	5	4	2.1900100708007812	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:08:59 PM 	 1600438139.0438392	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_C#	None
+09/18/2020 04:08:59 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:09:00 PM 	 1600438140.7721126	Log_Type.KEYWORDS	bra	bruka	äta	frukost
+09/18/2020 04:09:00 PM 	 1600438140.902871	Log_Type.GUESS	TOP WORDS:	kött	ost	skinka	choklad	salami	CHOSE:	kött
+09/18/2020 04:09:01 PM 	 1600438141.1141522	Log_Type.KEYWORDS	bra	bruka	äta	frukost	hålla	julafton
+09/18/2020 04:09:01 PM 	 1600438141.2479937	Log_Type.GUESS	TOP WORDS:	kött	choklad	skinka	smör	bacon	CHOSE:	kött
+09/18/2020 04:09:02 PM 	 1600438142.529378	Log_Type.KEYWORDS	bra	bruka	äta	frukost	hålla	julafton
+09/18/2020 04:09:02 PM 	 1600438142.6616383	Log_Type.GUESS	TOP WORDS:	kött	choklad	skinka	smör	bacon	CHOSE:	kött
+09/18/2020 04:09:04 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:09:05 PM 	 1600438145.844865	Log_Type.KEYWORDS	bra	bruka	äta	frukost	hålla	julafton
+09/18/2020 04:09:05 PM 	 1600438145.9735117	Log_Type.GUESS	TOP WORDS:	kött	choklad	skinka	smör	bacon	CHOSE:	kött
+09/18/2020 04:09:06 PM 	 1600438146.0895233	Log_Type.GUESS_DEC	BASE	5	4	5.25	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:09:06 PM 	 1600438146.0897875	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_G# \pau=100\  kött?	None
+09/18/2020 04:09:06 PM 	 1600438146.360494	Log_Type.KEYWORDS	bra	bruka	äta	frukost	hålla	julafton
+09/18/2020 04:09:06 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:09:06 PM 	 1600438146.492202	Log_Type.GUESS	TOP WORDS:	skinka	choklad	smör	bacon	ost	CHOSE:	skinka
+09/18/2020 04:09:08 PM 	 1600438148.0126595	Log_Type.KEYWORDS	bra	bruka	äta	frukost	hålla	julafton
+09/18/2020 04:09:08 PM 	 1600438148.1439908	Log_Type.GUESS	TOP WORDS:	skinka	choklad	smör	bacon	ost	CHOSE:	skinka
+09/18/2020 04:09:08 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:09:10 PM 	 1600438150.7124646	Log_Type.KEYWORDS	bra	bruka	äta	frukost	hålla	julafton	också	synonym
+09/18/2020 04:09:10 PM 	 1600438150.840237	Log_Type.GUESS	TOP WORDS:	skinka	smör	choklad	ost	bacon	CHOSE:	skinka
+09/18/2020 04:09:12 PM 	 1600438152.0610812	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:09:12 PM 	 1600438152.0614214	Log_Type.GUESS_DEC	BASE	5	4	9.41927719116211	NORMAL	WAIT
+09/18/2020 04:09:12 PM 	 1600438152.0618787	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:09:12 PM 	 1600438152.0664637	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_E# \pau=100\  skinka?	None
+09/18/2020 04:09:12 PM 	 1600438152.1927974	Log_Type.KEYWORDS	bra	bruka	äta	frukost	hålla	julafton	också	synonym
+09/18/2020 04:09:12 PM 	 1600438152.325418	Log_Type.GUESS	TOP WORDS:	smör	choklad	ost	bacon	salami	CHOSE:	smör
+09/18/2020 04:09:15 PM 	 1600438155.472996	Log_Type.KEYWORDS	bra	bruka	äta	frukost	hålla	julafton	också	synonym
+09/18/2020 04:09:15 PM 	 1600438155.613546	Log_Type.GUESS	TOP WORDS:	smör	choklad	ost	bacon	salami	CHOSE:	smör
+09/18/2020 04:09:16 PM 	 1600438156.2591832	Log_Type.STATUS	[10.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	7.229400634765625	2.2800445556640625
+09/18/2020 04:09:16 PM 	 1600438156.2596166	Log_Type.CONFIG	Loading medium words, words easy: 11, total words: 11, time in level: 388.4591841697693, time: 388.45918250083923
+09/18/2020 04:09:16 PM 	 1600438156.2721596	Log_Type.GAME_WORD	stenbock	2	388.45918250083923
+09/18/2020 04:09:17 PM 	 1600438157.678944	Log_Type.GUESS	TOP WORDS:	hermelin	bock	får	stenbock	CHOSE:	hermelin
+09/18/2020 04:09:18 PM 	 1600438158.997772	Log_Type.GUESS	TOP WORDS:	hermelin	bock	får	stenbock	CHOSE:	hermelin
+09/18/2020 04:09:20 PM 	 1600438160.0429075	Log_Type.GUESS	TOP WORDS:	hermelin	bock	får	stenbock	CHOSE:	hermelin
+09/18/2020 04:09:24 PM 	 1600438164.776144	Log_Type.KEYWORDS	djur	klättra
+09/18/2020 04:09:24 PM 	 1600438164.9031036	Log_Type.GUESS	TOP WORDS:	hermelin	stenbock	får	bock	CHOSE:	hermelin
+09/18/2020 04:09:25 PM 	 1600438165.579954	Log_Type.KEYWORDS	djur	klättra	svår
+09/18/2020 04:09:25 PM 	 1600438165.7077467	Log_Type.GUESS	TOP WORDS:	får	stenbock	hermelin	bock	CHOSE:	får
+09/18/2020 04:09:26 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:09:28 PM 	 1600438168.5308592	Log_Type.GUESS_DEC	BASE	6	4	1.019866943359375	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:09:29 PM 	 1600438169.8490744	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få
+09/18/2020 04:09:29 PM 	 1600438169.9781017	Log_Type.GUESS	TOP WORDS:	får	stenbock	bock	hermelin	CHOSE:	får
+09/18/2020 04:09:31 PM 	 1600438171.885672	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt
+09/18/2020 04:09:32 PM 	 1600438172.014501	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:33 PM 	 1600438173.2749531	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt
+09/18/2020 04:09:33 PM 	 1600438173.406388	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:34 PM 	 1600438174.5095167	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt
+09/18/2020 04:09:34 PM 	 1600438174.6405616	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:37 PM 	 1600438177.6947289	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt
+09/18/2020 04:09:37 PM 	 1600438177.8259795	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:39 PM 	 1600438179.490319	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud
+09/18/2020 04:09:39 PM 	 1600438179.6171043	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:40 PM 	 1600438180.6083329	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud
+09/18/2020 04:09:40 PM 	 1600438180.7571428	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:44 PM 	 1600438184.1439188	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud
+09/18/2020 04:09:44 PM 	 1600438184.2759268	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:49 PM 	 1600438189.5965726	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan
+09/18/2020 04:09:49 PM 	 1600438189.7238147	Log_Type.GUESS	TOP WORDS:	får	stenbock	hermelin	bock	CHOSE:	får
+09/18/2020 04:09:50 PM 	 1600438190.4043431	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper
+09/18/2020 04:09:50 PM 	 1600438190.5321698	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:54 PM 	 1600438194.258268	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper
+09/18/2020 04:09:54 PM 	 1600438194.3898046	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:54 PM 	 1600438194.7756476	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper
+09/18/2020 04:09:54 PM 	 1600438194.9085212	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:09:58 PM 	 1600438198.8278937	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper
+09/18/2020 04:09:58 PM 	 1600438198.9602156	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:10:01 PM 	 1600438201.9244442	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper
+09/18/2020 04:10:02 PM 	 1600438202.0570314	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:10:03 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:04 PM 	 1600438204.3983212	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få
+09/18/2020 04:10:04 PM 	 1600438204.5259144	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:10:04 PM 	 1600438204.8167872	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få
+09/18/2020 04:10:04 PM 	 1600438204.95036	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:10:06 PM 	 1600438206.38851	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få
+09/18/2020 04:10:06 PM 	 1600438206.521599	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:10:07 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:07 PM 	 1600438207.9317737	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få
+09/18/2020 04:10:08 PM 	 1600438208.0651135	Log_Type.GUESS	TOP WORDS:	får	bock	stenbock	hermelin	CHOSE:	får
+09/18/2020 04:10:09 PM 	 1600438209.210572	Log_Type.GUESS_DEC	BASE	6	4	4.170047760009766	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:10:09 PM 	 1600438209.211311	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_J# \pau=100\  får?	None
+09/18/2020 04:10:09 PM 	 1600438209.3821323	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få	gråa	mycket	ull	hänga
+09/18/2020 04:10:09 PM 	 1600438209.5105062	Log_Type.GUESS	TOP WORDS:	bock	stenbock	hermelin	CHOSE:	bock
+09/18/2020 04:10:11 PM 	 1600438211.9209056	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få	gråa	mycket	ull	hänga
+09/18/2020 04:10:12 PM 	 1600438212.0540023	Log_Type.GUESS	TOP WORDS:	bock	stenbock	hermelin	CHOSE:	bock
+09/18/2020 04:10:12 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:14 PM 	 1600438214.1666667	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få	gråa	mycket	ull	hänga	ära
+09/18/2020 04:10:14 PM 	 1600438214.294888	Log_Type.GUESS	TOP WORDS:	bock	stenbock	hermelin	CHOSE:	bock
+09/18/2020 04:10:18 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:18 PM 	 1600438218.7378035	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få	gråa	mycket	ull	hänga	ära
+09/18/2020 04:10:18 PM 	 1600438218.8703206	Log_Type.GUESS	TOP WORDS:	bock	stenbock	hermelin	CHOSE:	bock
+09/18/2020 04:10:20 PM 	 1600438220.552807	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få	gråa	mycket	ull	hänga	ära	vara	tydligen	slut
+09/18/2020 04:10:20 PM 	 1600438220.680957	Log_Type.GUESS	TOP WORDS:	bock	stenbock	hermelin	CHOSE:	bock
+09/18/2020 04:10:22 PM 	 1600438222.9903731	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få	gråa	mycket	ull	hänga	ära	vara	tydligen	slut
+09/18/2020 04:10:23 PM 	 1600438223.1235685	Log_Type.GUESS	TOP WORDS:	bock	stenbock	hermelin	CHOSE:	bock
+09/18/2020 04:10:23 PM 	 1600438223.492293	Log_Type.KEYWORDS	djur	klättra	svår	se	ut	lite	få	hoppa	långt	stor	horn	huvud	anmälan	bra	hoppa	färgpapper	vänta	slakta	få	gråa	mycket	ull	hänga	ära	vara	tydligen	slut	stenbock
+09/18/2020 04:10:23 PM 	 1600438223.6266494	Log_Type.GUESS	TOP WORDS:	bock	hermelin	CHOSE:	bock
+09/18/2020 04:10:25 PM 	 1600438225.0943916	Log_Type.STATUS	[11.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	5.220062255859375	0.9596405029296875
+09/18/2020 04:10:25 PM 	 1600438225.0948436	Log_Type.GAME_WORD	farbror	2	457.29430198669434
+09/18/2020 04:10:26 PM 	 1600438226.0138338	Log_Type.GUESS	TOP WORDS:	syskon	släktingar	storebror	broder	moster	CHOSE:	syskon
+09/18/2020 04:10:27 PM 	 1600438227.576315	Log_Type.GUESS	TOP WORDS:	syskon	släktingar	storebror	broder	moster	CHOSE:	syskon
+09/18/2020 04:10:28 PM 	 1600438228.2822008	Log_Type.GUESS	TOP WORDS:	syskon	släktingar	storebror	broder	moster	CHOSE:	syskon
+09/18/2020 04:10:30 PM 	 1600438230.3158338	Log_Type.GUESS	TOP WORDS:	syskon	släktingar	storebror	broder	moster	CHOSE:	syskon
+09/18/2020 04:10:33 PM 	 1600438233.323075	Log_Type.KEYWORDS	släkting
+09/18/2020 04:10:33 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:33 PM 	 1600438233.4536693	Log_Type.GUESS	TOP WORDS:	släktingar	farbror	morbror	syskon	moster	CHOSE:	släktingar
+09/18/2020 04:10:34 PM 	 1600438234.3398192	Log_Type.KEYWORDS	släkting
+09/18/2020 04:10:34 PM 	 1600438234.477258	Log_Type.GUESS	TOP WORDS:	släktingar	farbror	morbror	syskon	moster	CHOSE:	släktingar
+09/18/2020 04:10:37 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:38 PM 	 1600438238.0139062	Log_Type.KEYWORDS	släkting
+09/18/2020 04:10:38 PM 	 1600438238.1458478	Log_Type.GUESS	TOP WORDS:	släktingar	farbror	morbror	syskon	moster	CHOSE:	släktingar
+09/18/2020 04:10:40 PM 	 1600438240.8011627	Log_Type.GUESS_DEC	BASE	6	4	2.939605712890625	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:10:40 PM 	 1600438240.801627	Log_Type.FURHAT_MESSAGE	say_and_gesture	#u-hu_B#	None
+09/18/2020 04:10:40 PM 	 1600438240.8430622	Log_Type.KEYWORDS	släkting	pappa
+09/18/2020 04:10:40 PM 	 1600438240.977798	Log_Type.GUESS	TOP WORDS:	släktingar	farbror	morbror	syskon	moster	CHOSE:	släktingar
+09/18/2020 04:10:42 PM 	 1600438242.7094557	Log_Type.KEYWORDS	släkting	pappa
+09/18/2020 04:10:42 PM 	 1600438242.8411636	Log_Type.GUESS	TOP WORDS:	släktingar	farbror	morbror	syskon	moster	CHOSE:	släktingar
+09/18/2020 04:10:43 PM 	 1600438243.490297	Log_Type.KEYWORDS	släkting	pappa
+09/18/2020 04:10:43 PM 	 1600438243.6216483	Log_Type.GUESS	TOP WORDS:	släktingar	farbror	morbror	syskon	moster	CHOSE:	släktingar
+09/18/2020 04:10:46 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:47 PM 	 1600438247.3090441	Log_Type.KEYWORDS	släkting	pappa
+09/18/2020 04:10:47 PM 	 1600438247.4404016	Log_Type.GUESS	TOP WORDS:	släktingar	farbror	morbror	syskon	moster	CHOSE:	släktingar
+09/18/2020 04:10:48 PM 	 1600438248.0924518	Log_Type.GUESS_DEC	BASE	6	4	5.489097595214844	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:10:49 PM 	 1600438249.4314628	Log_Type.KEYWORDS	släkting	pappa	vara	man
+09/18/2020 04:10:49 PM 	 1600438249.565891	Log_Type.GUESS	TOP WORDS:	lillasyster	storebror	moster	morbror	farbror	CHOSE:	lillasyster
+09/18/2020 04:10:50 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:51 PM 	 1600438251.8737469	Log_Type.KEYWORDS	släkting	pappa	vara	man
+09/18/2020 04:10:52 PM 	 1600438252.0145888	Log_Type.GUESS	TOP WORDS:	lillasyster	storebror	moster	morbror	farbror	CHOSE:	lillasyster
+09/18/2020 04:10:52 PM 	 1600438252.141259	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:10:52 PM 	 1600438252.141408	Log_Type.GUESS_DEC	BASE	6	4	7.2589263916015625	NORMAL	WAIT
+09/18/2020 04:10:52 PM 	 1600438252.6516635	Log_Type.KEYWORDS	släkting	pappa	vara	man
+09/18/2020 04:10:52 PM 	 1600438252.7816546	Log_Type.GUESS	TOP WORDS:	lillasyster	storebror	moster	morbror	farbror	CHOSE:	lillasyster
+09/18/2020 04:10:55 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:10:56 PM 	 1600438256.57579	Log_Type.KEYWORDS	släkting	pappa	vara	man
+09/18/2020 04:10:56 PM 	 1600438256.7123194	Log_Type.GUESS	TOP WORDS:	lillasyster	storebror	moster	morbror	farbror	CHOSE:	lillasyster
+09/18/2020 04:10:57 PM 	 1600438257.6330838	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	True
+09/18/2020 04:10:57 PM 	 1600438257.6334198	Log_Type.GUESS_DEC	BASE	6	4	9.298736572265625	NORMAL	GIVE_WORD
+09/18/2020 04:10:57 PM 	 1600438257.633843	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:10:57 PM 	 1600438257.640791	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_D# \pau=100\  farbror?	None
+09/18/2020 04:11:00 PM 	 1600438260.7569563	Log_Type.KEYWORDS	släkting	pappa	vara	man	heta	här	person	mena	tack
+09/18/2020 04:11:00 PM 	 1600438260.8954957	Log_Type.GUESS	TOP WORDS:	storebror	släktingar	lillasyster	syskon	morbror	CHOSE:	storebror
+09/18/2020 04:11:01 PM 	 1600438261.6046257	Log_Type.STATUS	[12.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	0.8697738647460938	9.059150695800781
+09/18/2020 04:11:01 PM 	 1600438261.6052687	Log_Type.GAME_WORD	krukväxt	2	493.8044488430023
+09/18/2020 04:11:01 PM 	 1600438261.6504107	Log_Type.KEYWORDS	läns
+09/18/2020 04:11:01 PM 	 1600438261.7789412	Log_Type.GUESS	TOP WORDS:	växter	trädgården	blommor	pelargoner	krukväxt	CHOSE:	växter
+09/18/2020 04:11:05 PM 	 1600438265.229958	Log_Type.KEYWORDS	läns
+09/18/2020 04:11:05 PM 	 1600438265.36107	Log_Type.GUESS	TOP WORDS:	växter	trädgården	blommor	pelargoner	krukväxt	CHOSE:	växter
+09/18/2020 04:11:06 PM 	 1600438266.220685	Log_Type.KEYWORDS	läns
+09/18/2020 04:11:06 PM 	 1600438266.3576436	Log_Type.GUESS	TOP WORDS:	växter	trädgården	blommor	pelargoner	krukväxt	CHOSE:	växter
+09/18/2020 04:11:09 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:10 PM 	 1600438270.9972236	Log_Type.KEYWORDS	läns	här	varelse
+09/18/2020 04:11:11 PM 	 1600438270.9999247	Log_Type.KEYWORDS	läns	här	varelse
+09/18/2020 04:11:11 PM 	 1600438271.2560782	Log_Type.GUESS	TOP WORDS:	trädgården	växter	pelargoner	blommor	krukväxt	CHOSE:	trädgården
+09/18/2020 04:11:11 PM 	 1600438271.2564301	Log_Type.GUESS	TOP WORDS:	trädgården	växter	pelargoner	blommor	krukväxt	CHOSE:	trädgården
+09/18/2020 04:11:14 PM 	 1600438274.5954916	Log_Type.KEYWORDS	läns	här	varelse
+09/18/2020 04:11:14 PM 	 1600438274.7269666	Log_Type.GUESS	TOP WORDS:	trädgården	växter	pelargoner	blommor	krukväxt	CHOSE:	trädgården
+09/18/2020 04:11:15 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:15 PM 	 1600438275.810774	Log_Type.KEYWORDS	läns	här	varelse	djur
+09/18/2020 04:11:15 PM 	 1600438275.9457457	Log_Type.GUESS	TOP WORDS:	växter	pelargoner	blommor	trädgården	krukväxt	CHOSE:	växter
+09/18/2020 04:11:19 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:20 PM 	 1600438280.9292293	Log_Type.KEYWORDS	läns	här	varelse	djur	leta
+09/18/2020 04:11:21 PM 	 1600438281.0585833	Log_Type.GUESS	TOP WORDS:	trädgården	växter	pelargoner	blommor	krukväxt	CHOSE:	trädgården
+09/18/2020 04:11:23 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:24 PM 	 1600438284.5179071	Log_Type.KEYWORDS	läns	här	varelse	djur	leta
+09/18/2020 04:11:24 PM 	 1600438284.649057	Log_Type.GUESS	TOP WORDS:	trädgården	växter	pelargoner	blommor	krukväxt	CHOSE:	trädgården
+09/18/2020 04:11:25 PM 	 1600438285.9279346	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare
+09/18/2020 04:11:26 PM 	 1600438286.0568945	Log_Type.GUESS	TOP WORDS:	växter	blommor	trädgården	kruka	krukväxt	CHOSE:	växter
+09/18/2020 04:11:27 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:30 PM 	 1600438290.1214244	Log_Type.GUESS_DEC	BASE	6	5	6.570186614990234	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:11:30 PM 	 1600438290.1221035	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_G#	None
+09/18/2020 04:11:30 PM 	 1600438290.4847324	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare
+09/18/2020 04:11:30 PM 	 1600438290.6157935	Log_Type.GUESS	TOP WORDS:	växter	blommor	trädgården	kruka	krukväxt	CHOSE:	växter
+09/18/2020 04:11:31 PM 	 1600438291.409121	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr
+09/18/2020 04:11:31 PM 	 1600438291.5397573	Log_Type.GUESS	TOP WORDS:	växter	pelargoner	trädgården	blommor	krukväxt	CHOSE:	växter
+09/18/2020 04:11:34 PM 	 1600438294.974564	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr
+09/18/2020 04:11:35 PM 	 1600438295.103894	Log_Type.GUESS	TOP WORDS:	växter	pelargoner	trädgården	blommor	krukväxt	CHOSE:	växter
+09/18/2020 04:11:35 PM 	 1600438295.2013352	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr
+09/18/2020 04:11:35 PM 	 1600438295.3312943	Log_Type.GUESS	TOP WORDS:	växter	pelargoner	trädgården	blommor	krukväxt	CHOSE:	växter
+09/18/2020 04:11:36 PM 	 1600438296.4910727	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr
+09/18/2020 04:11:36 PM 	 1600438296.6216366	Log_Type.GUESS	TOP WORDS:	växter	pelargoner	trädgården	blommor	krukväxt	CHOSE:	växter
+09/18/2020 04:11:38 PM 	 1600438298.2392786	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr
+09/18/2020 04:11:38 PM 	 1600438298.3711157	Log_Type.GUESS	TOP WORDS:	växter	pelargoner	trädgården	blommor	krukväxt	CHOSE:	växter
+09/18/2020 04:11:39 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:40 PM 	 1600438300.352972	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr	ge	näring	sol
+09/18/2020 04:11:40 PM 	 1600438300.4873245	Log_Type.GUESS	TOP WORDS:	kruka	blommor	trädgården	pelargoner	växter	CHOSE:	kruka
+09/18/2020 04:11:40 PM 	 1600438300.7081947	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr	ge	näring	sol
+09/18/2020 04:11:40 PM 	 1600438300.8372085	Log_Type.GUESS	TOP WORDS:	kruka	blommor	trädgården	pelargoner	växter	CHOSE:	kruka
+09/18/2020 04:11:41 PM 	 1600438301.250849	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:11:41 PM 	 1600438301.2511954	Log_Type.GUESS_DEC	BASE	6	5	8.15975570678711	NORMAL	WAIT
+09/18/2020 04:11:41 PM 	 1600438301.2516994	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_C# \pau=100\  kruka?	None
+09/18/2020 04:11:43 PM 	 1600438303.4139593	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr	ge	näring	sol
+09/18/2020 04:11:43 PM 	 1600438303.544563	Log_Type.GUESS	TOP WORDS:	blommor	trädgården	pelargoner	krukväxt	växter	CHOSE:	blommor
+09/18/2020 04:11:44 PM 	 1600438304.895453	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr	ge	näring	sol
+09/18/2020 04:11:45 PM 	 1600438305.0280464	Log_Type.GUESS	TOP WORDS:	blommor	trädgården	pelargoner	krukväxt	växter	CHOSE:	blommor
+09/18/2020 04:11:45 PM 	 1600438305.0522869	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_B# \pau=100\  blommor?	None
+09/18/2020 04:11:45 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:47 PM 	 1600438307.4269824	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr	ge	näring	sol
+09/18/2020 04:11:47 PM 	 1600438307.5646446	Log_Type.GUESS	TOP WORDS:	krukväxt	trädgården	pelargoner	växter	CHOSE:	krukväxt
+09/18/2020 04:11:48 PM 	 1600438308.0554526	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:11:48 PM 	 1600438308.0593817	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_D# \pau=100\  krukväxt?	None
+09/18/2020 04:11:49 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:49 PM 	 1600438309.788578	Log_Type.KEYWORDS	läns	här	varelse	djur	leta	ha	behållare	ställa	bli	fönstr	ge	näring	sol	bord
+09/18/2020 04:11:49 PM 	 1600438309.91681	Log_Type.GUESS	TOP WORDS:	trädgården	pelargoner	växter	CHOSE:	trädgården
+09/18/2020 04:11:51 PM 	 1600438311.1227398	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:11:51 PM 	 1600438311.123064	Log_Type.GUESS_DEC	BASE	6	6	10.890361785888672	NORMAL	WAIT
+09/18/2020 04:11:51 PM 	 1600438311.8686268	Log_Type.STATUS	[13.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	5.880100250244141	5.010261535644531
+09/18/2020 04:11:51 PM 	 1600438311.8693254	Log_Type.GAME_WORD	gravsten	2	544.068681716919
+09/18/2020 04:11:52 PM 	 1600438312.643746	Log_Type.GUESS	TOP WORDS:	sten	skylt	begravning	tavlan	granit	CHOSE:	sten
+09/18/2020 04:11:54 PM 	 1600438314.3640893	Log_Type.GUESS	TOP WORDS:	sten	skylt	begravning	tavlan	granit	CHOSE:	sten
+09/18/2020 04:11:57 PM 	 1600438317.37648	Log_Type.GUESS	TOP WORDS:	sten	skylt	begravning	tavlan	granit	CHOSE:	sten
+09/18/2020 04:11:57 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:11:59 PM 	 1600438319.1466053	Log_Type.GUESS	TOP WORDS:	sten	skylt	begravning	tavlan	granit	CHOSE:	sten
+09/18/2020 04:12:02 PM 	 1600438322.1753075	Log_Type.KEYWORDS	dörr	så	behöva
+09/18/2020 04:12:02 PM 	 1600438322.3110144	Log_Type.GUESS	TOP WORDS:	tavlan	granit	gravsten	sten	skylt	CHOSE:	tavlan
+09/18/2020 04:12:03 PM 	 1600438323.0924397	Log_Type.GUESS_DEC	BASE	6	6	5.699981689453125	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:12:03 PM 	 1600438323.0932336	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_J#	None
+09/18/2020 04:12:03 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:04 PM 	 1600438324.2718785	Log_Type.KEYWORDS	dörr	så	behöva
+09/18/2020 04:12:04 PM 	 1600438324.400717	Log_Type.GUESS	TOP WORDS:	tavlan	granit	gravsten	sten	skylt	CHOSE:	tavlan
+09/18/2020 04:12:07 PM 	 1600438327.9544106	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva
+09/18/2020 04:12:08 PM 	 1600438328.083019	Log_Type.GUESS	TOP WORDS:	tavlan	skylt	sten	begravning	gravsten	CHOSE:	tavlan
+09/18/2020 04:12:08 PM 	 1600438328.945466	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva
+09/18/2020 04:12:09 PM 	 1600438329.0777845	Log_Type.GUESS	TOP WORDS:	tavlan	skylt	sten	begravning	gravsten	CHOSE:	tavlan
+09/18/2020 04:12:09 PM 	 1600438329.7439322	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva	måne
+09/18/2020 04:12:09 PM 	 1600438329.8726933	Log_Type.GUESS	TOP WORDS:	tavlan	gravsten	skylt	sten	begravning	CHOSE:	tavlan
+09/18/2020 04:12:12 PM 	 1600438332.6329	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:12:12 PM 	 1600438332.6333055	Log_Type.GUESS_DEC	BASE	6	6	13.980003356933594	NORMAL	WAIT
+09/18/2020 04:12:13 PM 	 1600438333.3541667	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva	måne	hel	liv
+09/18/2020 04:12:13 PM 	 1600438333.4824388	Log_Type.GUESS	TOP WORDS:	tavlan	begravning	skylt	gravsten	sten	CHOSE:	tavlan
+09/18/2020 04:12:13 PM 	 1600438333.6785114	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva	måne	hel	liv
+09/18/2020 04:12:13 PM 	 1600438333.8095365	Log_Type.GUESS	TOP WORDS:	tavlan	begravning	skylt	gravsten	sten	CHOSE:	tavlan
+09/18/2020 04:12:14 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:17 PM 	 1600438337.0710037	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_C# \pau=100\  tavlan?	None
+09/18/2020 04:12:18 PM 	 1600438338.260178	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva	måne	hel	liv
+09/18/2020 04:12:18 PM 	 1600438338.3967857	Log_Type.GUESS	TOP WORDS:	begravning	skylt	gravsten	sten	granit	CHOSE:	begravning
+09/18/2020 04:12:19 PM 	 1600438339.071751	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_B# \pau=100\  begravning?	None
+09/18/2020 04:12:19 PM 	 1600438339.6814394	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva	måne	hel	liv
+09/18/2020 04:12:19 PM 	 1600438339.8146722	Log_Type.GUESS	TOP WORDS:	gravsten	skylt	sten	granit	skulpturer	CHOSE:	gravsten
+09/18/2020 04:12:20 PM 	 1600438340.0716503	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:12:20 PM 	 1600438340.0756633	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_A# \pau=100\  gravsten?	None
+09/18/2020 04:12:22 PM 	 1600438342.9654052	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva	måne	hel	liv
+09/18/2020 04:12:23 PM 	 1600438343.1049116	Log_Type.GUESS	TOP WORDS:	skylt	sten	granit	skulpturer	CHOSE:	skylt
+09/18/2020 04:12:23 PM 	 1600438343.758692	Log_Type.KEYWORDS	dörr	så	behöva	grej	sak	skriva	måne	hel	liv
+09/18/2020 04:12:23 PM 	 1600438343.8894901	Log_Type.GUESS	TOP WORDS:	skylt	sten	granit	skulpturer	CHOSE:	skylt
+09/18/2020 04:12:25 PM 	 1600438345.674617	Log_Type.STATUS	[14.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	0.0	15.329826354980469
+09/18/2020 04:12:25 PM 	 1600438345.6752734	Log_Type.GAME_WORD	husdjur	2	577.8746492862701
+09/18/2020 04:12:27 PM 	 1600438347.8884258	Log_Type.GUESS	TOP WORDS:	djur	hund	kaniner	husdjur	CHOSE:	djur
+09/18/2020 04:12:28 PM 	 1600438348.0685055	Log_Type.GUESS	TOP WORDS:	djur	hund	kaniner	husdjur	CHOSE:	djur
+09/18/2020 04:12:29 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:30 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:32 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:32 PM 	 1600438352.7008	Log_Type.KEYWORDS	domesticerad
+09/18/2020 04:12:32 PM 	 1600438352.8283203	Log_Type.GUESS	TOP WORDS:	kaniner	djur	hund	husdjur	CHOSE:	kaniner
+09/18/2020 04:12:32 PM 	 1600438352.991558	Log_Type.KEYWORDS	domesticerad
+09/18/2020 04:12:33 PM 	 1600438353.120302	Log_Type.GUESS	TOP WORDS:	kaniner	djur	hund	husdjur	CHOSE:	kaniner
+09/18/2020 04:12:35 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:36 PM 	 1600438356.2688155	Log_Type.KEYWORDS	domesticerad
+09/18/2020 04:12:36 PM 	 1600438356.4007533	Log_Type.GUESS	TOP WORDS:	kaniner	djur	hund	husdjur	CHOSE:	kaniner
+09/18/2020 04:12:37 PM 	 1600438357.4891474	Log_Type.KEYWORDS	domesticerad	ha	hem
+09/18/2020 04:12:37 PM 	 1600438357.6239905	Log_Type.GUESS	TOP WORDS:	kaniner	hund	djur	husdjur	CHOSE:	kaniner
+09/18/2020 04:12:38 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:40 PM 	 1600438360.8454306	Log_Type.KEYWORDS	domesticerad	ha	hem
+09/18/2020 04:12:40 PM 	 1600438360.9773936	Log_Type.GUESS	TOP WORDS:	kaniner	hund	djur	husdjur	CHOSE:	kaniner
+09/18/2020 04:12:42 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:42 PM 	 1600438362.3339257	Log_Type.KEYWORDS	domesticerad	ha	hem	ofta	hund	katt
+09/18/2020 04:12:42 PM 	 1600438362.4620545	Log_Type.GUESS	TOP WORDS:	kaniner	djur	husdjur	CHOSE:	kaniner
+09/18/2020 04:12:46 PM 	 1600438366.6614857	Log_Type.KEYWORDS	domesticerad	ha	hem	ofta	hund	katt	visa	se	också	del	familj
+09/18/2020 04:12:46 PM 	 1600438366.7736385	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:12:46 PM 	 1600438366.7746022	Log_Type.GUESS_DEC	BASE	7	6	8.819908142089844	NORMAL	WAIT
+09/18/2020 04:12:46 PM 	 1600438366.7758656	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_E# \pau=100\  kaniner?	None
+09/18/2020 04:12:46 PM 	 1600438366.7905724	Log_Type.GUESS	TOP WORDS:	djur	husdjur	CHOSE:	djur
+09/18/2020 04:12:46 PM 	 1600438366.9839885	Log_Type.KEYWORDS	domesticerad	ha	hem	ofta	hund	katt	visa	se	också	del	familj
+09/18/2020 04:12:47 PM 	 1600438367.1141667	Log_Type.GUESS	TOP WORDS:	djur	husdjur	CHOSE:	djur
+09/18/2020 04:12:49 PM 	 1600438369.3155215	Log_Type.KEYWORDS	domesticerad	ha	hem	ofta	hund	katt	visa	se	också	del	familj
+09/18/2020 04:12:49 PM 	 1600438369.4472888	Log_Type.GUESS	TOP WORDS:	djur	husdjur	CHOSE:	djur
+09/18/2020 04:12:51 PM 	 1600438371.0887682	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_A# \pau=100\  djur?	None
+09/18/2020 04:12:51 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:51 PM 	 1600438371.7783377	Log_Type.KEYWORDS	domesticerad	ha	hem	ofta	hund	katt	visa	se	också	del	familj	kalla
+09/18/2020 04:12:51 PM 	 1600438371.9068582	Log_Type.GUESS	TOP WORDS:	husdjur	CHOSE:	husdjur
+09/18/2020 04:12:53 PM 	 1600438373.0904133	Log_Type.KEYWORDS	domesticerad	ha	hem	ofta	hund	katt	visa	se	också	del	familj	kalla
+09/18/2020 04:12:53 PM 	 1600438373.2223659	Log_Type.GUESS	TOP WORDS:	husdjur	CHOSE:	husdjur
+09/18/2020 04:12:53 PM 	 1600438373.4319608	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:12:53 PM 	 1600438373.432246	Log_Type.GUESS_DEC	BASE	7	6	11.370040893554688	NORMAL	WAIT
+09/18/2020 04:12:54 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:12:56 PM 	 1600438376.5498643	Log_Type.KEYWORDS	domesticerad	ha	hem	ofta	hund	katt	visa	se	också	del	familj	kalla
+09/18/2020 04:12:56 PM 	 1600438376.5820618	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:12:56 PM 	 1600438376.5823216	Log_Type.GUESS_DEC	BASE	7	6	13.169853210449219	NORMAL	WAIT
+09/18/2020 04:12:56 PM 	 1600438376.5825868	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:12:56 PM 	 1600438376.5877604	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_H# \pau=100\  husdjur?	None
+09/18/2020 04:12:57 PM 	 1600438377.192684	Log_Type.KEYWORDS	domesticerad	ha	hem	ofta	hund	katt	visa	se	också	del	familj	kalla	emma	ha	hemma
+09/18/2020 04:13:00 PM 	 1600438380.0079741	Log_Type.STATUS	[15.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	4.049896240234375	9.629753112792969
+09/18/2020 04:13:00 PM 	 1600438380.0086038	Log_Type.GAME_WORD	snabbmat	2	612.2079558372498
+09/18/2020 04:13:01 PM 	 1600438381.208427	Log_Type.KEYWORDS	ge
+09/18/2020 04:13:01 PM 	 1600438381.34201	Log_Type.GUESS	TOP WORDS:	mat	lunch	middag	frukost	snabbmat	CHOSE:	mat
+09/18/2020 04:13:02 PM 	 1600438382.216547	Log_Type.KEYWORDS	ge
+09/18/2020 04:13:02 PM 	 1600438382.3469718	Log_Type.GUESS	TOP WORDS:	mat	lunch	middag	frukost	snabbmat	CHOSE:	mat
+09/18/2020 04:13:05 PM 	 1600438385.9824026	Log_Type.KEYWORDS	ge
+09/18/2020 04:13:06 PM 	 1600438386.1206946	Log_Type.GUESS	TOP WORDS:	mat	lunch	middag	frukost	snabbmat	CHOSE:	mat
+09/18/2020 04:13:06 PM 	 1600438386.8385382	Log_Type.KEYWORDS	ge
+09/18/2020 04:13:06 PM 	 1600438386.9695644	Log_Type.GUESS	TOP WORDS:	mat	lunch	middag	frukost	snabbmat	CHOSE:	mat
+09/18/2020 04:13:08 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:13:10 PM 	 1600438390.8172271	Log_Type.KEYWORDS	ge
+09/18/2020 04:13:10 PM 	 1600438390.9487863	Log_Type.GUESS	TOP WORDS:	mat	lunch	middag	frukost	snabbmat	CHOSE:	mat
+09/18/2020 04:13:12 PM 	 1600438392.8950245	Log_Type.KEYWORDS	ge	äta	så	köpa	förebild
+09/18/2020 04:13:13 PM 	 1600438393.0245712	Log_Type.GUESS	TOP WORDS:	mat	snabbmat	lunch	frukost	middag	CHOSE:	mat
+09/18/2020 04:13:15 PM 	 1600438395.4989798	Log_Type.KEYWORDS	ge	äta	så	köpa	förebild
+09/18/2020 04:13:15 PM 	 1600438395.6321132	Log_Type.GUESS	TOP WORDS:	mat	snabbmat	lunch	frukost	middag	CHOSE:	mat
+09/18/2020 04:13:16 PM 	 1600438396.5027153	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:13:16 PM 	 1600438396.5031078	Log_Type.GUESS_DEC	BASE	7	7	7.4999542236328125	NORMAL	WAIT
+09/18/2020 04:13:16 PM 	 1600438396.503597	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_A# \pau=100\  mat?	None
+09/18/2020 04:13:17 PM 	 1600438397.5682092	Log_Type.KEYWORDS	ge	äta	så	köpa	förebild
+09/18/2020 04:13:17 PM 	 1600438397.7006147	Log_Type.GUESS	TOP WORDS:	snabbmat	lunch	frukost	middag	CHOSE:	snabbmat
+09/18/2020 04:13:20 PM 	 1600438400.1031098	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:13:20 PM 	 1600438400.1077282	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_I# \pau=100\  snabbmat?	None
+09/18/2020 04:13:20 PM 	 1600438400.2852454	Log_Type.KEYWORDS	ge	äta	så	köpa	förebild	fast
+09/18/2020 04:13:20 PM 	 1600438400.4136746	Log_Type.GUESS	TOP WORDS:	middag	lunch	frukost	CHOSE:	middag
+09/18/2020 04:13:23 PM 	 1600438403.814135	Log_Type.STATUS	[16.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	0.0	7.920196533203125
+09/18/2020 04:13:23 PM 	 1600438403.8147454	Log_Type.GAME_WORD	mardröm	2	636.0141129493713
+09/18/2020 04:13:24 PM 	 1600438404.6241448	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:24 PM 	 1600438404.8887224	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:25 PM 	 1600438405.8821619	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:27 PM 	 1600438407.2691052	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:29 PM 	 1600438409.6614692	Log_Type.KEYWORDS	sova
+09/18/2020 04:13:29 PM 	 1600438409.7896283	Log_Type.GUESS	TOP WORDS:	mardröm	dröm	CHOSE:	mardröm
+09/18/2020 04:13:32 PM 	 1600438412.0546458	Log_Type.KEYWORDS	sova
+09/18/2020 04:13:32 PM 	 1600438412.1853402	Log_Type.GUESS	TOP WORDS:	mardröm	dröm	CHOSE:	mardröm
+09/18/2020 04:13:33 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:13:34 PM 	 1600438414.6750658	Log_Type.KEYWORDS	sova	fastna
+09/18/2020 04:13:34 PM 	 1600438414.7711082	Log_Type.KEYWORDS	sova	fastna
+09/18/2020 04:13:34 PM 	 1600438414.8426125	Log_Type.GUESS	TOP WORDS:	mardröm	dröm	CHOSE:	mardröm
+09/18/2020 04:13:34 PM 	 1600438414.955776	Log_Type.GUESS	TOP WORDS:	mardröm	dröm	CHOSE:	mardröm
+09/18/2020 04:13:35 PM 	 1600438415.2801096	Log_Type.GUESS_DEC	BASE	8	7	1.7096939086914062	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:13:36 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:13:38 PM 	 1600438418.1599972	Log_Type.GUESS_DEC	BASE	8	7	3.6597976684570312	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:13:38 PM 	 1600438418.37022	Log_Type.KEYWORDS	sova	fastna
+09/18/2020 04:13:38 PM 	 1600438418.5068874	Log_Type.GUESS	TOP WORDS:	mardröm	dröm	CHOSE:	mardröm
+09/18/2020 04:13:39 PM 	 1600438419.5657341	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt
+09/18/2020 04:13:39 PM 	 1600438419.693935	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:41 PM 	 1600438421.295326	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt
+09/18/2020 04:13:41 PM 	 1600438421.4368453	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:43 PM 	 1600438423.3619146	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt
+09/18/2020 04:13:43 PM 	 1600438423.4934893	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:44 PM 	 1600438424.4121401	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt	sinna	sen	vakna	upp
+09/18/2020 04:13:44 PM 	 1600438424.539601	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:46 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:13:49 PM 	 1600438429.0748167	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt	sinna	sen	vakna	upp	gråta
+09/18/2020 04:13:49 PM 	 1600438429.2035294	Log_Type.GUESS	TOP WORDS:	dröm	mardröm	CHOSE:	dröm
+09/18/2020 04:13:49 PM 	 1600438429.5311463	Log_Type.GUESS_DEC	BASE	8	7	6.0600738525390625	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:13:49 PM 	 1600438429.53153	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_H# \pau=100\  dröm?	None
+09/18/2020 04:13:50 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:13:51 PM 	 1600438431.2624059	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt	sinna	sen	vakna	upp	gråta	jätterädd	så	bjuda
+09/18/2020 04:13:51 PM 	 1600438431.3912773	Log_Type.GUESS	TOP WORDS:	mardröm	CHOSE:	mardröm
+09/18/2020 04:13:52 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:13:52 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:13:53 PM 	 1600438433.5842347	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt	sinna	sen	vakna	upp	gråta	jätterädd	så	bjuda
+09/18/2020 04:13:53 PM 	 1600438433.7151604	Log_Type.GUESS	TOP WORDS:	mardröm	CHOSE:	mardröm
+09/18/2020 04:13:54 PM 	 1600438434.097931	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt	sinna	sen	vakna	upp	gråta	jätterädd	så	bjuda	dålig	dröm
+09/18/2020 04:13:54 PM 	 1600438434.125852	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:13:54 PM 	 1600438434.1322758	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_B# \pau=100\  mardröm?	None
+09/18/2020 04:13:54 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:13:55 PM 	 1600438435.7808857	Log_Type.KEYWORDS	sova	fastna	uppleva	jätte	hemskt	sinna	sen	vakna	upp	gråta	jätterädd	så	bjuda	dålig	dröm
+09/18/2020 04:13:58 PM 	 1600438438.2780855	Log_Type.STATUS	[17.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	4.4998016357421875	5.040283203125
+09/18/2020 04:13:58 PM 	 1600438438.2786949	Log_Type.GAME_WORD	garderob	2	670.4781129360199
+09/18/2020 04:13:58 PM 	 1600438438.8282504	Log_Type.KEYWORDS	ge
+09/18/2020 04:13:58 PM 	 1600438438.9562123	Log_Type.GUESS	TOP WORDS:	sängar	kylskåp	garderob	skrivbord	skåp	CHOSE:	sängar
+09/18/2020 04:13:59 PM 	 1600438439.4559073	Log_Type.KEYWORDS	ge
+09/18/2020 04:13:59 PM 	 1600438439.5858643	Log_Type.GUESS	TOP WORDS:	sängar	kylskåp	garderob	skrivbord	skåp	CHOSE:	sängar
+09/18/2020 04:14:03 PM 	 1600438443.470634	Log_Type.KEYWORDS	ge
+09/18/2020 04:14:03 PM 	 1600438443.5980775	Log_Type.GUESS	TOP WORDS:	sängar	kylskåp	garderob	skrivbord	skåp	CHOSE:	sängar
+09/18/2020 04:14:04 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:05 PM 	 1600438445.714984	Log_Type.KEYWORDS	ge
+09/18/2020 04:14:05 PM 	 1600438445.8563113	Log_Type.GUESS	TOP WORDS:	sängar	kylskåp	garderob	skrivbord	skåp	CHOSE:	sängar
+09/18/2020 04:14:08 PM 	 1600438448.0573008	Log_Type.KEYWORDS	ge
+09/18/2020 04:14:08 PM 	 1600438448.1921437	Log_Type.GUESS	TOP WORDS:	sängar	kylskåp	garderob	skrivbord	skåp	CHOSE:	sängar
+09/18/2020 04:14:08 PM 	 1600438448.551793	Log_Type.GUESS_DEC	BASE	9	7	3.5997467041015625	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:14:08 PM 	 1600438448.5528693	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_F#	None
+09/18/2020 04:14:09 PM 	 1600438449.0441465	Log_Type.KEYWORDS	ge	lägga	in	kläder
+09/18/2020 04:14:09 PM 	 1600438449.1795993	Log_Type.GUESS	TOP WORDS:	garderob	kylskåp	skåp	skrivbord	säng	CHOSE:	garderob
+09/18/2020 04:14:11 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:12 PM 	 1600438452.8829887	Log_Type.KEYWORDS	ge	lägga	in	kläder
+09/18/2020 04:14:12 PM 	 1600438452.9027815	Log_Type.GUESS_DEC	BASE	9	7	4.8299407958984375	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:14:12 PM 	 1600438452.903712	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:14:12 PM 	 1600438452.9099312	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_C# \pau=100\  garderob?	None
+09/18/2020 04:14:13 PM 	 1600438453.0163581	Log_Type.GUESS	TOP WORDS:	kylskåp	skåp	skrivbord	säng	möbler	CHOSE:	kylskåp
+09/18/2020 04:14:13 PM 	 1600438453.3904965	Log_Type.KEYWORDS	ge	lägga	in	kläder	skåp
+09/18/2020 04:14:13 PM 	 1600438453.5177655	Log_Type.GUESS	TOP WORDS:	möbler	kylskåp	säng	sängar	skrivbord	CHOSE:	möbler
+09/18/2020 04:14:15 PM 	 1600438455.447132	Log_Type.KEYWORDS	ge	lägga	in	kläder	skåp
+09/18/2020 04:14:15 PM 	 1600438455.5793176	Log_Type.GUESS	TOP WORDS:	möbler	kylskåp	säng	sängar	skrivbord	CHOSE:	möbler
+09/18/2020 04:14:16 PM 	 1600438456.6206827	Log_Type.STATUS	[18.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	0.0	5.6098785400390625
+09/18/2020 04:14:16 PM 	 1600438456.621255	Log_Type.GAME_WORD	fotspår	2	688.8206400871277
+09/18/2020 04:14:17 PM 	 1600438457.631202	Log_Type.GUESS	TOP WORDS:	spår	vandring	fotspår	CHOSE:	spår
+09/18/2020 04:14:18 PM 	 1600438458.9582257	Log_Type.GUESS	TOP WORDS:	spår	vandring	fotspår	CHOSE:	spår
+09/18/2020 04:14:20 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:22 PM 	 1600438462.0730445	Log_Type.KEYWORDS	promenera
+09/18/2020 04:14:22 PM 	 1600438462.2052577	Log_Type.GUESS	TOP WORDS:	vandring	fotspår	spår	CHOSE:	vandring
+09/18/2020 04:14:22 PM 	 1600438462.5305512	Log_Type.KEYWORDS	promenera
+09/18/2020 04:14:22 PM 	 1600438462.6659768	Log_Type.GUESS	TOP WORDS:	vandring	fotspår	spår	CHOSE:	vandring
+09/18/2020 04:14:23 PM 	 1600438463.519206	Log_Type.GUESS_DEC	BASE	9	8	2.4597549438476562	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:14:23 PM 	 1600438463.5197763	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_A#	None
+09/18/2020 04:14:24 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:25 PM 	 1600438465.6408625	Log_Type.KEYWORDS	promenera
+09/18/2020 04:14:25 PM 	 1600438465.7720652	Log_Type.GUESS	TOP WORDS:	vandring	fotspår	spår	CHOSE:	vandring
+09/18/2020 04:14:26 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:27 PM 	 1600438467.1008878	Log_Type.KEYWORDS	promenera	mark	sko
+09/18/2020 04:14:27 PM 	 1600438467.236685	Log_Type.GUESS	TOP WORDS:	vandring	fotspår	spår	CHOSE:	vandring
+09/18/2020 04:14:27 PM 	 1600438467.6705549	Log_Type.KEYWORDS	promenera	mark	sko
+09/18/2020 04:14:27 PM 	 1600438467.801734	Log_Type.GUESS	TOP WORDS:	vandring	fotspår	spår	CHOSE:	vandring
+09/18/2020 04:14:28 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:30 PM 	 1600438470.2062197	Log_Type.KEYWORDS	promenera	mark	sko
+09/18/2020 04:14:30 PM 	 1600438470.338514	Log_Type.GUESS	TOP WORDS:	vandring	fotspår	spår	CHOSE:	vandring
+09/18/2020 04:14:31 PM 	 1600438471.547369	Log_Type.KEYWORDS	promenera	mark	sko
+09/18/2020 04:14:31 PM 	 1600438471.6512907	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:14:31 PM 	 1600438471.6519573	Log_Type.GUESS_DEC	BASE	9	8	7.649749755859375	NORMAL	WAIT
+09/18/2020 04:14:31 PM 	 1600438471.6779053	Log_Type.GUESS	TOP WORDS:	vandring	fotspår	spår	CHOSE:	vandring
+09/18/2020 04:14:31 PM 	 1600438471.8537714	Log_Type.KEYWORDS	promenera	mark	sko	markering	mark	heta
+09/18/2020 04:14:31 PM 	 1600438471.982973	Log_Type.GUESS	TOP WORDS:	spår	fotspår	vandring	CHOSE:	spår
+09/18/2020 04:14:32 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:33 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:33 PM 	 1600438473.9306135	Log_Type.KEYWORDS	promenera	mark	sko	markering	mark	heta	markering
+09/18/2020 04:14:34 PM 	 1600438474.05867	Log_Type.GUESS	TOP WORDS:	vandring	spår	fotspår	CHOSE:	vandring
+09/18/2020 04:14:34 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:37 PM 	 1600438477.1456962	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_D# \pau=100\  vandring?	None
+09/18/2020 04:14:37 PM 	 1600438477.7104025	Log_Type.KEYWORDS	promenera	mark	sko	markering	mark	heta	markering	markera	sak	bli	kvar
+09/18/2020 04:14:37 PM 	 1600438477.838327	Log_Type.GUESS	TOP WORDS:	spår	fotspår	CHOSE:	spår
+09/18/2020 04:14:38 PM 	 1600438478.1457913	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_I# \pau=100\  spår?	None
+09/18/2020 04:14:40 PM 	 1600438480.6288054	Log_Type.KEYWORDS	promenera	mark	sko	markering	mark	heta	markering	markera	sak	bli	kvar
+09/18/2020 04:14:40 PM 	 1600438480.7604897	Log_Type.GUESS	TOP WORDS:	fotspår	CHOSE:	fotspår
+09/18/2020 04:14:41 PM 	 1600438481.1471136	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:14:41 PM 	 1600438481.150902	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_D# \pau=100\  fotspår?	None
+09/18/2020 04:14:42 PM 	 1600438482.4524894	Log_Type.KEYWORDS	promenera	mark	sko	markering	mark	heta	markering	markera	sak	bli	kvar
+09/18/2020 04:14:43 PM 	 1600438483.518676	Log_Type.KEYWORDS	promenera	mark	sko	markering	mark	heta	markering	markera	sak	bli	kvar
+09/18/2020 04:14:44 PM 	 1600438484.8668833	Log_Type.KEYWORDS	promenera	mark	sko	markering	mark	heta	markering	markera	sak	bli	kvar
+09/18/2020 04:14:45 PM 	 1600438485.1346097	Log_Type.STATUS	[19.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	10.529731750488281	0.8699798583984375
+09/18/2020 04:14:45 PM 	 1600438485.1348383	Log_Type.GAME_WORD	kyrktorn	2	717.3343780040741
+09/18/2020 04:14:47 PM 	 1600438487.3014235	Log_Type.KEYWORDS	precis
+09/18/2020 04:14:47 PM 	 1600438487.4293342	Log_Type.GUESS	TOP WORDS:	berget	katedralen	kyrka	kyrktorn	slott	CHOSE:	berget
+09/18/2020 04:14:48 PM 	 1600438488.1918933	Log_Type.KEYWORDS	precis
+09/18/2020 04:14:48 PM 	 1600438488.3226726	Log_Type.GUESS	TOP WORDS:	berget	katedralen	kyrka	kyrktorn	slott	CHOSE:	berget
+09/18/2020 04:14:51 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:52 PM 	 1600438492.1739872	Log_Type.KEYWORDS	precis
+09/18/2020 04:14:52 PM 	 1600438492.3049676	Log_Type.GUESS	TOP WORDS:	berget	katedralen	kyrka	kyrktorn	slott	CHOSE:	berget
+09/18/2020 04:14:52 PM 	 1600438492.526599	Log_Type.KEYWORDS	precis	religiös
+09/18/2020 04:14:52 PM 	 1600438492.6567137	Log_Type.GUESS	TOP WORDS:	kyrka	katedralen	kyrktorn	slott	berget	CHOSE:	kyrka
+09/18/2020 04:14:53 PM 	 1600438493.0392833	Log_Type.GUESS_DEC	BASE	9	9	1.1099700927734375	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:14:55 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:14:57 PM 	 1600438497.4025106	Log_Type.KEYWORDS	precis	religiös	ofta	ha	stor
+09/18/2020 04:14:57 PM 	 1600438497.5300193	Log_Type.GUESS	TOP WORDS:	katedralen	kyrka	kyrktorn	berget	slott	CHOSE:	katedralen
+09/18/2020 04:14:58 PM 	 1600438498.619513	Log_Type.GUESS_DEC	BASE	9	9	4.439910888671875	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:14:58 PM 	 1600438498.6206722	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_J#	None
+09/18/2020 04:14:58 PM 	 1600438498.7366388	Log_Type.KEYWORDS	precis	religiös	ofta	ha	stor
+09/18/2020 04:14:58 PM 	 1600438498.869831	Log_Type.GUESS	TOP WORDS:	katedralen	kyrka	kyrktorn	berget	slott	CHOSE:	katedralen
+09/18/2020 04:14:59 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:00 PM 	 1600438500.6762025	Log_Type.KEYWORDS	precis	religiös	ofta	ha	stor
+09/18/2020 04:15:00 PM 	 1600438500.8089738	Log_Type.GUESS	TOP WORDS:	katedralen	kyrka	kyrktorn	berget	slott	CHOSE:	katedralen
+09/18/2020 04:15:01 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:02 PM 	 1600438502.2438421	Log_Type.KEYWORDS	precis	religiös	ofta	ha	stor	sticka	upp	spetsig
+09/18/2020 04:15:02 PM 	 1600438502.371874	Log_Type.GUESS	TOP WORDS:	berget	kyrktorn	kyrka	katedralen	slott	CHOSE:	berget
+09/18/2020 04:15:03 PM 	 1600438503.6602397	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:15:03 PM 	 1600438503.6606226	Log_Type.GUESS_DEC	BASE	9	9	7.649688720703125	NORMAL	WAIT
+09/18/2020 04:15:03 PM 	 1600438503.6610546	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_D# \pau=100\  berget?	None
+09/18/2020 04:15:05 PM 	 1600438505.6997995	Log_Type.KEYWORDS	precis	religiös	ofta	ha	stor	sticka	upp	spetsig
+09/18/2020 04:15:05 PM 	 1600438505.8333995	Log_Type.GUESS	TOP WORDS:	kyrktorn	kyrka	katedralen	slott	CHOSE:	kyrktorn
+09/18/2020 04:15:07 PM 	 1600438507.0560818	Log_Type.KEYWORDS	precis	religiös	ofta	ha	stor	sticka	upp	spetsig	länge	upp	heta
+09/18/2020 04:15:07 PM 	 1600438507.1639118	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:15:07 PM 	 1600438507.1716795	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_I# \pau=100\  kyrktorn?	None
+09/18/2020 04:15:07 PM 	 1600438507.1883323	Log_Type.GUESS	TOP WORDS:	katedralen	kyrka	slott	CHOSE:	katedralen
+09/18/2020 04:15:08 PM 	 1600438508.6812012	Log_Type.KEYWORDS	precis	religiös	ofta	ha	stor	sticka	upp	spetsig	länge	upp	heta
+09/18/2020 04:15:08 PM 	 1600438508.8216157	Log_Type.GUESS	TOP WORDS:	katedralen	kyrka	slott	CHOSE:	katedralen
+09/18/2020 04:15:11 PM 	 1600438511.8499618	Log_Type.KEYWORDS	precis	religiös	ofta	ha	stor	sticka	upp	spetsig	länge	upp	heta
+09/18/2020 04:15:11 PM 	 1600438511.9752352	Log_Type.STATUS	[20.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	8.159835815429688	0.0
+09/18/2020 04:15:11 PM 	 1600438511.9756913	Log_Type.GAME_WORD	slagverk	2	744.175173997879
+09/18/2020 04:15:11 PM 	 1600438511.9845796	Log_Type.GUESS	TOP WORDS:	xylofon	trummor	slagverk	CHOSE:	xylofon
+09/18/2020 04:15:12 PM 	 1600438512.2909708	Log_Type.GUESS	TOP WORDS:	trummor	xylofon	slagverk	CHOSE:	trummor
+09/18/2020 04:15:16 PM 	 1600438516.6707695	Log_Type.GUESS	TOP WORDS:	trummor	xylofon	slagverk	CHOSE:	trummor
+09/18/2020 04:15:17 PM 	 1600438517.3915875	Log_Type.GUESS	TOP WORDS:	trummor	xylofon	slagverk	CHOSE:	trummor
+09/18/2020 04:15:17 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:19 PM 	 1600438519.4113986	Log_Type.GUESS_DEC	BASE	9	10	1.5300140380859375	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:15:21 PM 	 1600438521.038066	Log_Type.GUESS	TOP WORDS:	trummor	xylofon	slagverk	CHOSE:	trummor
+09/18/2020 04:15:21 PM 	 1600438521.2695274	Log_Type.GUESS	TOP WORDS:	trummor	xylofon	slagverk	CHOSE:	trummor
+09/18/2020 04:15:21 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:23 PM 	 1600438523.012613	Log_Type.GUESS	TOP WORDS:	trummor	xylofon	slagverk	CHOSE:	trummor
+09/18/2020 04:15:25 PM 	 1600438525.4170618	Log_Type.GUESS	TOP WORDS:	trummor	xylofon	slagverk	CHOSE:	trummor
+09/18/2020 04:15:26 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:27 PM 	 1600438527.841539	Log_Type.GUESS_DEC	BASE	9	10	3.3600006103515625	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:15:27 PM 	 1600438527.9449892	Log_Type.GUESS	TOP WORDS:	trummor	xylofon	slagverk	CHOSE:	trummor
+09/18/2020 04:15:29 PM 	 1600438529.9204597	Log_Type.KEYWORDS	sammanslå
+09/18/2020 04:15:30 PM 	 1600438530.0480185	Log_Type.GUESS	TOP WORDS:	slagverk	trummor	xylofon	CHOSE:	slagverk
+09/18/2020 04:15:30 PM 	 1600438530.1562483	Log_Type.KEYWORDS	sammanslå
+09/18/2020 04:15:30 PM 	 1600438530.2937496	Log_Type.GUESS	TOP WORDS:	slagverk	trummor	xylofon	CHOSE:	slagverk
+09/18/2020 04:15:35 PM 	 1600438535.850534	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs
+09/18/2020 04:15:35 PM 	 1600438535.8957279	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs
+09/18/2020 04:15:36 PM 	 1600438536.093876	Log_Type.GUESS	TOP WORDS:	xylofon	trummor	slagverk	CHOSE:	xylofon
+09/18/2020 04:15:36 PM 	 1600438536.1343415	Log_Type.GUESS	TOP WORDS:	xylofon	trummor	slagverk	CHOSE:	xylofon
+09/18/2020 04:15:36 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:39 PM 	 1600438539.0613093	Log_Type.GUESS_DEC	BASE	9	10	5.3401336669921875	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:15:39 PM 	 1600438539.0624204	Log_Type.FURHAT_MESSAGE	say_and_gesture	#u-hu_E#	None
+09/18/2020 04:15:39 PM 	 1600438539.1813722	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs
+09/18/2020 04:15:39 PM 	 1600438539.3114169	Log_Type.GUESS	TOP WORDS:	xylofon	trummor	slagverk	CHOSE:	xylofon
+09/18/2020 04:15:40 PM 	 1600438540.50135	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs
+09/18/2020 04:15:40 PM 	 1600438540.6397564	Log_Type.GUESS	TOP WORDS:	xylofon	trummor	slagverk	CHOSE:	xylofon
+09/18/2020 04:15:44 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:45 PM 	 1600438545.365713	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs
+09/18/2020 04:15:45 PM 	 1600438545.501085	Log_Type.GUESS	TOP WORDS:	xylofon	trummor	slagverk	CHOSE:	xylofon
+09/18/2020 04:15:48 PM 	 1600438548.4517941	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:15:48 PM 	 1600438548.4522066	Log_Type.GUESS_DEC	BASE	9	10	10.019973754882812	NORMAL	WAIT
+09/18/2020 04:15:48 PM 	 1600438548.4529903	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_C#	None
+09/18/2020 04:15:49 PM 	 1600438549.4434352	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs	instrument	viss	instrument
+09/18/2020 04:15:49 PM 	 1600438549.5707183	Log_Type.GUESS	TOP WORDS:	xylofon	slagverk	trummor	CHOSE:	xylofon
+09/18/2020 04:15:50 PM 	 1600438550.258442	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs	instrument	viss	instrument
+09/18/2020 04:15:50 PM 	 1600438550.3897495	Log_Type.GUESS	TOP WORDS:	xylofon	slagverk	trummor	CHOSE:	xylofon
+09/18/2020 04:15:51 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:53 PM 	 1600438553.188301	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_C# \pau=100\  xylofon?	None
+09/18/2020 04:15:54 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:54 PM 	 1600438554.7981668	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs	instrument	viss	instrument
+09/18/2020 04:15:54 PM 	 1600438554.9291458	Log_Type.GUESS	TOP WORDS:	slagverk	trummor	CHOSE:	slagverk
+09/18/2020 04:15:55 PM 	 1600438555.0116735	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs	instrument	viss	instrument
+09/18/2020 04:15:55 PM 	 1600438555.1414204	Log_Type.GUESS	TOP WORDS:	slagverk	trummor	CHOSE:	slagverk
+09/18/2020 04:15:56 PM 	 1600438556.1886857	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:15:56 PM 	 1600438556.1931736	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_A# \pau=100\  slagverk?	None
+09/18/2020 04:15:56 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:15:59 PM 	 1600438559.5914457	Log_Type.KEYWORDS	sammanslå	säga	säga	icebugs	icebugs	instrument	viss	instrument	förlåt	säga
+09/18/2020 04:15:59 PM 	 1600438559.7190294	Log_Type.GUESS	TOP WORDS:	trummor	CHOSE:	trummor
+09/18/2020 04:16:00 PM 	 1600438560.30644	Log_Type.STATUS	[21.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	1.9498825073242188	11.4599609375
+09/18/2020 04:16:00 PM 	 1600438560.3069174	Log_Type.CONFIG	Loading hard words, words medium: 11, total words: 22, time in level: 404.03477454185486, time: 792.5064942836761
+09/18/2020 04:16:00 PM 	 1600438560.3167744	Log_Type.GAME_WORD	underverk	3	792.5064942836761
+09/18/2020 04:16:00 PM 	 1600438560.7579935	Log_Type.GUESS	TOP WORDS:	dröm	tempel	mästerverk	pyramider	underverk	CHOSE:	dröm
+09/18/2020 04:16:03 PM 	 1600438563.0773594	Log_Type.GUESS	TOP WORDS:	dröm	tempel	mästerverk	pyramider	underverk	CHOSE:	dröm
+09/18/2020 04:16:04 PM 	 1600438564.445151	Log_Type.GUESS	TOP WORDS:	dröm	tempel	mästerverk	pyramider	underverk	CHOSE:	dröm
+09/18/2020 04:16:07 PM 	 1600438567.5879974	Log_Type.GUESS	TOP WORDS:	dröm	tempel	mästerverk	pyramider	underverk	CHOSE:	dröm
+09/18/2020 04:16:09 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:16:09 PM 	 1600438569.88279	Log_Type.KEYWORDS	denna	få
+09/18/2020 04:16:10 PM 	 1600438570.0097475	Log_Type.GUESS	TOP WORDS:	dröm	underverk	pyramider	mästerverk	tempel	CHOSE:	dröm
+09/18/2020 04:16:12 PM 	 1600438572.1699023	Log_Type.KEYWORDS	denna	få
+09/18/2020 04:16:12 PM 	 1600438572.3017795	Log_Type.GUESS	TOP WORDS:	dröm	underverk	pyramider	mästerverk	tempel	CHOSE:	dröm
+09/18/2020 04:16:14 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:16:14 PM 	 1600438574.7888317	Log_Type.KEYWORDS	denna	få	kanske	ofta
+09/18/2020 04:16:14 PM 	 1600438574.9170992	Log_Type.GUESS	TOP WORDS:	underverk	dröm	mästerverk	pyramider	tempel	CHOSE:	underverk
+09/18/2020 04:16:14 PM 	 1600438574.989798	Log_Type.KEYWORDS	denna	få	kanske	ofta
+09/18/2020 04:16:15 PM 	 1600438575.1214905	Log_Type.GUESS	TOP WORDS:	underverk	dröm	mästerverk	pyramider	tempel	CHOSE:	underverk
+09/18/2020 04:16:16 PM 	 1600438576.2000582	Log_Type.GUESS_DEC	BASE	10	10	1.97955322265625	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:16:16 PM 	 1600438576.202028	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:16:16 PM 	 1600438576.205812	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_H# \pau=100\  underverk?	None
+09/18/2020 04:16:18 PM 	 1600438578.4530447	Log_Type.KEYWORDS	denna	få	kanske	ofta
+09/18/2020 04:16:18 PM 	 1600438578.5904334	Log_Type.GUESS	TOP WORDS:	dröm	mästerverk	pyramider	tempel	CHOSE:	dröm
+09/18/2020 04:16:19 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:16:19 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:16:19 PM 	 1600438579.756601	Log_Type.KEYWORDS	denna	få	kanske	ofta	religiös	oj
+09/18/2020 04:16:19 PM 	 1600438579.8848155	Log_Type.GUESS	TOP WORDS:	dröm	mästerverk	pyramider	tempel	CHOSE:	dröm
+09/18/2020 04:16:20 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:16:21 PM 	 1600438581.1209095	Log_Type.GUESS_DEC	BASE	11	10	4.5897979736328125	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:16:21 PM 	 1600438581.9490294	Log_Type.STATUS	[22.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	4.230010986328125	1.7099151611328125
+09/18/2020 04:16:21 PM 	 1600438581.94978	Log_Type.GAME_WORD	signaturmelodi	3	814.1491141319275
+09/18/2020 04:16:23 PM 	 1600438583.2231853	Log_Type.GUESS	TOP WORDS:	filmen	bandet	låten	sång	musiken	CHOSE:	filmen
+09/18/2020 04:16:24 PM 	 1600438584.738712	Log_Type.GUESS	TOP WORDS:	filmen	bandet	låten	sång	musiken	CHOSE:	filmen
+09/18/2020 04:16:25 PM 	 1600438585.3432968	Log_Type.KEYWORDS	veta
+09/18/2020 04:16:25 PM 	 1600438585.4727936	Log_Type.GUESS	TOP WORDS:	filmerna	musiken	filmen	låten	skivan	CHOSE:	filmerna
+09/18/2020 04:16:29 PM 	 1600438589.9127688	Log_Type.KEYWORDS	veta
+09/18/2020 04:16:30 PM 	 1600438590.0144355	Log_Type.KEYWORDS	veta
+09/18/2020 04:16:30 PM 	 1600438590.092302	Log_Type.GUESS	TOP WORDS:	filmerna	musiken	filmen	låten	skivan	CHOSE:	filmerna
+09/18/2020 04:16:30 PM 	 1600438590.18607	Log_Type.GUESS	TOP WORDS:	filmerna	musiken	filmen	låten	skivan	CHOSE:	filmerna
+09/18/2020 04:16:33 PM 	 1600438593.876673	Log_Type.KEYWORDS	veta
+09/18/2020 04:16:34 PM 	 1600438594.009846	Log_Type.GUESS	TOP WORDS:	filmerna	musiken	filmen	låten	skivan	CHOSE:	filmerna
+09/18/2020 04:16:34 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:16:34 PM 	 1600438594.7686028	Log_Type.KEYWORDS	veta	jingle
+09/18/2020 04:16:34 PM 	 1600438594.8969014	Log_Type.GUESS	TOP WORDS:	bandet	skivan	låten	sång	filmen	CHOSE:	bandet
+09/18/2020 04:16:37 PM 	 1600438597.246162	Log_Type.KEYWORDS	veta	jingle
+09/18/2020 04:16:37 PM 	 1600438597.3830812	Log_Type.GUESS	TOP WORDS:	bandet	skivan	låten	sång	filmen	CHOSE:	bandet
+09/18/2020 04:16:39 PM 	 1600438599.46298	Log_Type.KEYWORDS	veta	jingle
+09/18/2020 04:16:39 PM 	 1600438599.6004152	Log_Type.GUESS	TOP WORDS:	bandet	skivan	låten	sång	filmen	CHOSE:	bandet
+09/18/2020 04:16:44 PM 	 1600438604.1704752	Log_Type.KEYWORDS	veta	jingle
+09/18/2020 04:16:44 PM 	 1600438604.3051918	Log_Type.GUESS	TOP WORDS:	bandet	skivan	låten	sång	filmen	CHOSE:	bandet
+09/18/2020 04:16:45 PM 	 1600438605.0265324	Log_Type.KEYWORDS	veta	jingle
+09/18/2020 04:16:45 PM 	 1600438605.1579137	Log_Type.GUESS	TOP WORDS:	bandet	skivan	låten	sång	filmen	CHOSE:	bandet
+09/18/2020 04:16:46 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:16:48 PM 	 1600438608.939861	Log_Type.KEYWORDS	veta	jingle	början	slut
+09/18/2020 04:16:49 PM 	 1600438609.0679483	Log_Type.GUESS	TOP WORDS:	bandet	musiken	låten	skivan	filmen	CHOSE:	bandet
+09/18/2020 04:16:49 PM 	 1600438609.5062866	Log_Type.KEYWORDS	veta	jingle	början	slut
+09/18/2020 04:16:49 PM 	 1600438609.6414495	Log_Type.GUESS	TOP WORDS:	bandet	musiken	låten	skivan	filmen	CHOSE:	bandet
+09/18/2020 04:16:51 PM 	 1600438611.2858038	Log_Type.KEYWORDS	veta	jingle	början	slut
+09/18/2020 04:16:51 PM 	 1600438611.418469	Log_Type.GUESS	TOP WORDS:	bandet	musiken	låten	skivan	filmen	CHOSE:	bandet
+09/18/2020 04:16:52 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:16:54 PM 	 1600438614.4031382	Log_Type.KEYWORDS	veta	jingle	början	slut	komma	upp	liten	musik	bil
+09/18/2020 04:16:54 PM 	 1600438614.5290127	Log_Type.KEYWORDS	veta	jingle	början	slut	komma	upp	liten	musik	bil	komma	upp	liten	musik	bil
+09/18/2020 04:16:54 PM 	 1600438614.6152506	Log_Type.GUESS	TOP WORDS:	musiken	filmen	skivan	filmerna	låten	CHOSE:	musiken
+09/18/2020 04:16:54 PM 	 1600438614.703913	Log_Type.GUESS	TOP WORDS:	musiken	filmen	skivan	filmerna	låten	CHOSE:	musiken
+09/18/2020 04:16:56 PM 	 1600438616.3088088	Log_Type.GUESS_DEC	BASE	11	10	6.180511474609375	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:16:56 PM 	 1600438616.309574	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_J# \pau=100\  musiken?	None
+09/18/2020 04:16:56 PM 	 1600438616.8708293	Log_Type.KEYWORDS	veta	jingle	början	slut	komma	upp	liten	musik	bil	komma	upp	liten	musik	bil
+09/18/2020 04:16:57 PM 	 1600438617.0067143	Log_Type.GUESS	TOP WORDS:	filmen	skivan	filmerna	låten	bandet	CHOSE:	filmen
+09/18/2020 04:16:59 PM 	 1600438619.3144915	Log_Type.KEYWORDS	veta	jingle	början	slut	komma	upp	liten	musik	bil	komma	upp	liten	musik	bil	tv-seri
+09/18/2020 04:16:59 PM 	 1600438619.4753354	Log_Type.GUESS	TOP WORDS:	filmen	skivan	filmerna	låten	bandet	CHOSE:	filmen
+09/18/2020 04:16:59 PM 	 1600438619.4762602	Log_Type.KEYWORDS	veta	jingle	början	slut	komma	upp	liten	musik	bil	komma	upp	liten	musik	bil	tv-seri	tv-seri
+09/18/2020 04:16:59 PM 	 1600438619.6175287	Log_Type.GUESS	TOP WORDS:	filmen	skivan	filmerna	låten	bandet	CHOSE:	filmen
+09/18/2020 04:16:59 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:02 PM 	 1600438622.279393	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	True
+09/18/2020 04:17:02 PM 	 1600438622.2797983	Log_Type.GUESS_DEC	BASE	11	10	8.520606994628906	NORMAL	GIVE_WORD
+09/18/2020 04:17:02 PM 	 1600438622.2801797	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:17:02 PM 	 1600438622.284787	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_B# \pau=100\  signaturmelodi?	None
+09/18/2020 04:17:04 PM 	 1600438624.054447	Log_Type.KEYWORDS	veta	jingle	början	slut	komma	upp	liten	musik	bil	komma	upp	liten	musik	bil	tv-seri	tv-seri
+09/18/2020 04:17:04 PM 	 1600438624.2069385	Log_Type.GUESS	TOP WORDS:	filmen	skivan	filmerna	låten	bandet	CHOSE:	filmen
+09/18/2020 04:17:04 PM 	 1600438624.2825603	Log_Type.KEYWORDS	veta	jingle	början	slut	komma	upp	liten	musik	bil	komma	upp	liten	musik	bil	tv-seri	tv-seri	speciell	tv-serie
+09/18/2020 04:17:04 PM 	 1600438624.4123762	Log_Type.GUESS	TOP WORDS:	filmen	filmerna	skivan	bandet	sånger	CHOSE:	filmen
+09/18/2020 04:17:06 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:06 PM 	 1600438626.7499268	Log_Type.STATUS	[23.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	8.580535888671875	0.0
+09/18/2020 04:17:06 PM 	 1600438626.7506974	Log_Type.GAME_WORD	åldersgräns	3	858.9499855041504
+09/18/2020 04:17:07 PM 	 1600438627.2530868	Log_Type.GUESS	TOP WORDS:	ålder	begränsning	åldersgränsen	åldersgräns	CHOSE:	ålder
+09/18/2020 04:17:09 PM 	 1600438629.049945	Log_Type.GUESS	TOP WORDS:	ålder	begränsning	åldersgränsen	åldersgräns	CHOSE:	ålder
+09/18/2020 04:17:09 PM 	 1600438629.4113858	Log_Type.GUESS	TOP WORDS:	ålder	begränsning	åldersgränsen	åldersgräns	CHOSE:	ålder
+09/18/2020 04:17:10 PM 	 1600438630.991438	Log_Type.GUESS	TOP WORDS:	ålder	begränsning	åldersgränsen	åldersgräns	CHOSE:	ålder
+09/18/2020 04:17:12 PM 	 1600438632.8434205	Log_Type.GUESS	TOP WORDS:	ålder	begränsning	åldersgränsen	åldersgräns	CHOSE:	ålder
+09/18/2020 04:17:13 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:13 PM 	 1600438633.6361456	Log_Type.GUESS	TOP WORDS:	ålder	begränsning	åldersgränsen	åldersgräns	CHOSE:	ålder
+09/18/2020 04:17:15 PM 	 1600438635.148308	Log_Type.GUESS	TOP WORDS:	ålder	begränsning	åldersgränsen	åldersgräns	CHOSE:	ålder
+09/18/2020 04:17:15 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:18 PM 	 1600438638.5594926	Log_Type.KEYWORDS	skriva	skriva	vilja
+09/18/2020 04:17:18 PM 	 1600438638.7078042	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja
+09/18/2020 04:17:18 PM 	 1600438638.744061	Log_Type.GUESS	TOP WORDS:	ålder	åldersgränsen	åldersgräns	begränsning	CHOSE:	ålder
+09/18/2020 04:17:18 PM 	 1600438638.8559184	Log_Type.GUESS	TOP WORDS:	ålder	åldersgränsen	åldersgräns	begränsning	CHOSE:	ålder
+09/18/2020 04:17:22 PM 	 1600438642.106136	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig
+09/18/2020 04:17:22 PM 	 1600438642.240931	Log_Type.GUESS	TOP WORDS:	begränsning	åldersgränsen	åldersgräns	ålder	CHOSE:	begränsning
+09/18/2020 04:17:23 PM 	 1600438643.109429	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig
+09/18/2020 04:17:23 PM 	 1600438643.247657	Log_Type.GUESS	TOP WORDS:	begränsning	åldersgränsen	åldersgräns	ålder	CHOSE:	begränsning
+09/18/2020 04:17:23 PM 	 1600438643.506304	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig
+09/18/2020 04:17:23 PM 	 1600438643.6349003	Log_Type.GUESS	TOP WORDS:	begränsning	åldersgränsen	åldersgräns	ålder	CHOSE:	begränsning
+09/18/2020 04:17:27 PM 	 1600438647.0911925	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:17:27 PM 	 1600438647.0915587	Log_Type.GUESS_DEC	BASE	12	10	12.239532470703125	NORMAL	WAIT
+09/18/2020 04:17:27 PM 	 1600438647.0920491	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_I# \pau=100\  begränsning?	None
+09/18/2020 04:17:27 PM 	 1600438647.4029524	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig	vara	liksom
+09/18/2020 04:17:27 PM 	 1600438647.5307133	Log_Type.GUESS	TOP WORDS:	åldersgräns	åldersgränsen	ålder	CHOSE:	åldersgräns
+09/18/2020 04:17:27 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:28 PM 	 1600438648.06527	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig	vara	liksom
+09/18/2020 04:17:28 PM 	 1600438648.1936567	Log_Type.GUESS	TOP WORDS:	åldersgräns	åldersgränsen	ålder	CHOSE:	åldersgräns
+09/18/2020 04:17:29 PM 	 1600438649.5512068	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:17:29 PM 	 1600438649.551614	Log_Type.GUESS_DEC	BASE	12	10	14.519821166992188	NORMAL	WAIT
+09/18/2020 04:17:30 PM 	 1600438650.2543106	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig	vara	liksom
+09/18/2020 04:17:30 PM 	 1600438650.3841515	Log_Type.GUESS	TOP WORDS:	åldersgräns	åldersgränsen	ålder	CHOSE:	åldersgräns
+09/18/2020 04:17:32 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:33 PM 	 1600438653.0646553	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig	vara	liksom	nästan
+09/18/2020 04:17:33 PM 	 1600438653.1992435	Log_Type.GUESS	TOP WORDS:	åldersgräns	åldersgränsen	ålder	CHOSE:	åldersgräns
+09/18/2020 04:17:34 PM 	 1600438654.9174795	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig	vara	liksom	nästan	tänka	tid
+09/18/2020 04:17:35 PM 	 1600438655.012972	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:17:35 PM 	 1600438655.0137405	Log_Type.GUESS_DEC	BASE	12	10	17.039657592773438	NORMAL	WAIT
+09/18/2020 04:17:35 PM 	 1600438655.0150313	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:17:35 PM 	 1600438655.023373	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_G# \pau=100\  åldersgräns?	None
+09/18/2020 04:17:35 PM 	 1600438655.0486436	Log_Type.GUESS	TOP WORDS:	ålder	åldersgränsen	CHOSE:	ålder
+09/18/2020 04:17:36 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:36 PM 	 1600438656.5644474	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig	vara	liksom	nästan	tänka	tid
+09/18/2020 04:17:36 PM 	 1600438656.6965601	Log_Type.GUESS	TOP WORDS:	ålder	åldersgränsen	CHOSE:	ålder
+09/18/2020 04:17:37 PM 	 1600438657.9721634	Log_Type.KEYWORDS	skriva	skriva	vilja	vilja	bli	tillräcklig	vara	liksom	nästan	tänka	tid
+09/18/2020 04:17:38 PM 	 1600438658.1109214	Log_Type.GUESS	TOP WORDS:	ålder	åldersgränsen	CHOSE:	ålder
+09/18/2020 04:17:38 PM 	 1600438658.9257438	Log_Type.STATUS	[24.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	0.7197723388671875	18.329681396484375
+09/18/2020 04:17:38 PM 	 1600438658.9263113	Log_Type.GAME_WORD	blodkroppar	3	891.1257026195526
+09/18/2020 04:17:39 PM 	 1600438659.4496727	Log_Type.GUESS	TOP WORDS:	celler	musklerna	organismer	fettceller	hormoner	CHOSE:	celler
+09/18/2020 04:17:41 PM 	 1600438661.0543883	Log_Type.GUESS	TOP WORDS:	celler	musklerna	organismer	fettceller	hormoner	CHOSE:	celler
+09/18/2020 04:17:42 PM 	 1600438662.7896433	Log_Type.GUESS	TOP WORDS:	celler	musklerna	organismer	fettceller	hormoner	CHOSE:	celler
+09/18/2020 04:17:44 PM 	 1600438664.6103554	Log_Type.GUESS	TOP WORDS:	celler	musklerna	organismer	fettceller	hormoner	CHOSE:	celler
+09/18/2020 04:17:47 PM 	 1600438667.4437304	Log_Type.GUESS	TOP WORDS:	celler	musklerna	organismer	fettceller	hormoner	CHOSE:	celler
+09/18/2020 04:17:47 PM 	 1600438667.551203	Log_Type.GUESS	TOP WORDS:	celler	musklerna	organismer	fettceller	hormoner	CHOSE:	celler
+09/18/2020 04:17:49 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:52 PM 	 1600438672.1116524	Log_Type.GUESS	TOP WORDS:	celler	musklerna	organismer	fettceller	hormoner	CHOSE:	celler
+09/18/2020 04:17:52 PM 	 1600438672.8231351	Log_Type.KEYWORDS	dn	ställ	cell
+09/18/2020 04:17:52 PM 	 1600438672.9573278	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	organismer	celler	CHOSE:	musklerna
+09/18/2020 04:17:54 PM 	 1600438674.180462	Log_Type.GUESS_DEC	BASE	12	11	3.7799072265625	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:17:54 PM 	 1600438674.1812918	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_short_B#	None
+09/18/2020 04:17:54 PM 	 1600438674.7035549	Log_Type.KEYWORDS	dn	ställ	cell
+09/18/2020 04:17:54 PM 	 1600438674.8356807	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	organismer	celler	CHOSE:	musklerna
+09/18/2020 04:17:55 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:17:56 PM 	 1600438676.7343137	Log_Type.KEYWORDS	dn	ställ	cell
+09/18/2020 04:17:56 PM 	 1600438676.814919	Log_Type.KEYWORDS	dn	ställ	cell
+09/18/2020 04:17:56 PM 	 1600438676.9209876	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	organismer	celler	CHOSE:	musklerna
+09/18/2020 04:17:56 PM 	 1600438676.9960287	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	organismer	celler	CHOSE:	musklerna
+09/18/2020 04:17:58 PM 	 1600438678.8799717	Log_Type.KEYWORDS	dn	ställ	cell
+09/18/2020 04:17:59 PM 	 1600438679.011656	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	organismer	celler	CHOSE:	musklerna
+09/18/2020 04:18:01 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:18:01 PM 	 1600438681.5738986	Log_Type.KEYWORDS	dn	ställ	cell
+09/18/2020 04:18:01 PM 	 1600438681.7050633	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	organismer	celler	CHOSE:	musklerna
+09/18/2020 04:18:02 PM 	 1600438682.9083061	Log_Type.GUESS_DEC	BASE	12	11	6.719871520996094	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:18:03 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:18:03 PM 	 1600438683.784443	Log_Type.KEYWORDS	dn	ställ	cell
+09/18/2020 04:18:03 PM 	 1600438683.9153008	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	organismer	celler	CHOSE:	musklerna
+09/18/2020 04:18:05 PM 	 1600438685.6993113	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	True
+09/18/2020 04:18:05 PM 	 1600438685.6996825	Log_Type.GUESS_DEC	BASE	12	11	8.939865112304688	NORMAL	GIVE_WORD
+09/18/2020 04:18:05 PM 	 1600438685.7003343	Log_Type.FURHAT_MESSAGE	say_and_gesture	#yeah_short_A#	None
+09/18/2020 04:18:05 PM 	 1600438685.759879	Log_Type.KEYWORDS	dn	ställ	cell
+09/18/2020 04:18:05 PM 	 1600438685.894826	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	organismer	celler	CHOSE:	musklerna
+09/18/2020 04:18:06 PM 	 1600438686.4349039	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp
+09/18/2020 04:18:06 PM 	 1600438686.5621455	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	celler	fettceller	CHOSE:	musklerna
+09/18/2020 04:18:08 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:18:10 PM 	 1600438690.640614	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp	så	blund	så	komma
+09/18/2020 04:18:10 PM 	 1600438690.768285	Log_Type.GUESS	TOP WORDS:	musklerna	hormoner	blodkroppar	fettceller	celler	CHOSE:	musklerna
+09/18/2020 04:18:11 PM 	 1600438691.7909043	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:18:11 PM 	 1600438691.791261	Log_Type.GUESS_DEC	BASE	12	11	12.539512634277344	NORMAL	WAIT
+09/18/2020 04:18:11 PM 	 1600438691.7917533	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_B# \pau=100\  musklerna?	None
+09/18/2020 04:18:12 PM 	 1600438692.1712034	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp	så	blund	så	komma	så	komma	här
+09/18/2020 04:18:12 PM 	 1600438692.3005016	Log_Type.GUESS	TOP WORDS:	hormoner	blodkroppar	fettceller	antikroppar	celler	CHOSE:	hormoner
+09/18/2020 04:18:14 PM 	 1600438694.5047665	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp	så	blund	så	komma	så	komma	här
+09/18/2020 04:18:14 PM 	 1600438694.64	Log_Type.GUESS	TOP WORDS:	hormoner	blodkroppar	fettceller	antikroppar	celler	CHOSE:	hormoner
+09/18/2020 04:18:16 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:18:16 PM 	 1600438696.8565419	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp	så	blund	så	komma	så	komma	här
+09/18/2020 04:18:16 PM 	 1600438696.994408	Log_Type.GUESS	TOP WORDS:	hormoner	blodkroppar	fettceller	antikroppar	celler	CHOSE:	hormoner
+09/18/2020 04:18:18 PM 	 1600438698.3308117	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:18:18 PM 	 1600438698.331194	Log_Type.GUESS_DEC	BASE	12	11	15.119819641113281	NORMAL	WAIT
+09/18/2020 04:18:18 PM 	 1600438698.3318517	Log_Type.FURHAT_MESSAGE	say_and_gesture	#u-hu_D#	None
+09/18/2020 04:18:18 PM 	 1600438698.8118248	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp	så	blund	så	komma	så	komma	här
+09/18/2020 04:18:18 PM 	 1600438698.9416833	Log_Type.GUESS	TOP WORDS:	hormoner	blodkroppar	fettceller	antikroppar	celler	CHOSE:	hormoner
+09/18/2020 04:18:21 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:18:21 PM 	 1600438701.7377286	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp	så	blund	så	komma	så	komma	här	prov
+09/18/2020 04:18:21 PM 	 1600438701.8659725	Log_Type.GUESS	TOP WORDS:	hormoner	blodkroppar	fettceller	antikroppar	celler	CHOSE:	hormoner
+09/18/2020 04:18:23 PM 	 1600438703.2679727	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_C# \pau=100\  hormoner?	None
+09/18/2020 04:18:24 PM 	 1600438704.274793	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp	så	blund	så	komma	så	komma	här	prov
+09/18/2020 04:18:24 PM 	 1600438704.4109738	Log_Type.GUESS	TOP WORDS:	blodkroppar	fettceller	antikroppar	celler	organismer	CHOSE:	blodkroppar
+09/18/2020 04:18:25 PM 	 1600438705.2686155	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:18:25 PM 	 1600438705.2743	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_J# \pau=100\  blodkroppar?	None
+09/18/2020 04:18:26 PM 	 1600438706.4694135	Log_Type.KEYWORDS	dn	ställ	cell	röd	vätskan	kropp	så	blund	så	komma	så	komma	här	prov
+09/18/2020 04:18:26 PM 	 1600438706.6008627	Log_Type.GUESS	TOP WORDS:	fettceller	antikroppar	celler	organismer	CHOSE:	fettceller
+09/18/2020 04:18:29 PM 	 1600438709.3020227	Log_Type.STATUS	[25.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	4.8599395751953125	11.579849243164062
+09/18/2020 04:18:29 PM 	 1600438709.3024821	Log_Type.GAME_WORD	folkomröstning	3	941.5019314289093
+09/18/2020 04:18:29 PM 	 1600438709.7264726	Log_Type.GUESS	TOP WORDS:	regering	politik	parti	beslutet	demokrati	CHOSE:	regering
+09/18/2020 04:18:31 PM 	 1600438711.3105063	Log_Type.GUESS	TOP WORDS:	regering	politik	parti	beslutet	demokrati	CHOSE:	regering
+09/18/2020 04:18:34 PM 	 1600438714.1020927	Log_Type.GUESS	TOP WORDS:	regering	politik	parti	beslutet	demokrati	CHOSE:	regering
+09/18/2020 04:18:35 PM 	 1600438715.7851	Log_Type.GUESS	TOP WORDS:	regering	politik	parti	beslutet	demokrati	CHOSE:	regering
+09/18/2020 04:18:36 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:18:37 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:18:38 PM 	 1600438718.7535698	Log_Type.GUESS	TOP WORDS:	regering	politik	parti	beslutet	demokrati	CHOSE:	regering
+09/18/2020 04:18:40 PM 	 1600438720.606315	Log_Type.KEYWORDS	avgöra	människa
+09/18/2020 04:18:40 PM 	 1600438720.7346225	Log_Type.GUESS	TOP WORDS:	demokrati	politik	rösträtt	parti	beslutet	CHOSE:	demokrati
+09/18/2020 04:18:42 PM 	 1600438722.68604	Log_Type.KEYWORDS	avgöra	människa
+09/18/2020 04:18:42 PM 	 1600438722.8150125	Log_Type.GUESS	TOP WORDS:	demokrati	politik	rösträtt	parti	beslutet	CHOSE:	demokrati
+09/18/2020 04:18:44 PM 	 1600438724.6013641	Log_Type.KEYWORDS	avgöra	människa
+09/18/2020 04:18:44 PM 	 1600438724.7334464	Log_Type.GUESS	TOP WORDS:	demokrati	politik	rösträtt	parti	beslutet	CHOSE:	demokrati
+09/18/2020 04:18:45 PM 	 1600438725.2996764	Log_Type.KEYWORDS	avgöra	människa	val-d	or	gå	special
+09/18/2020 04:18:45 PM 	 1600438725.4276385	Log_Type.GUESS	TOP WORDS:	beslutet	förhandlingarna	rösträtt	folkomröstning	parti	CHOSE:	beslutet
+09/18/2020 04:18:45 PM 	 1600438725.8078582	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:18:45 PM 	 1600438725.8081264	Log_Type.GUESS_DEC	BASE	13	11	8.639663696289062	NORMAL	WAIT
+09/18/2020 04:18:45 PM 	 1600438725.8085284	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_C# \pau=100\  beslutet?	None
+09/18/2020 04:18:47 PM 	 1600438727.9482107	Log_Type.KEYWORDS	avgöra	människa	val-d	or	gå	special
+09/18/2020 04:18:48 PM 	 1600438728.0851753	Log_Type.GUESS	TOP WORDS:	folkomröstning	förhandlingarna	rösträtt	parti	demokrati	CHOSE:	folkomröstning
+09/18/2020 04:18:49 PM 	 1600438729.9072037	Log_Type.KEYWORDS	avgöra	människa	val-d	or	gå	special
+09/18/2020 04:18:50 PM 	 1600438730.045242	Log_Type.GUESS	TOP WORDS:	folkomröstning	förhandlingarna	rösträtt	parti	demokrati	CHOSE:	folkomröstning
+09/18/2020 04:18:50 PM 	 1600438730.280862	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:18:50 PM 	 1600438730.2851644	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_B# \pau=100\  folkomröstning?	None
+09/18/2020 04:18:53 PM 	 1600438733.728814	Log_Type.KEYWORDS	avgöra	människa	val-d	or	gå	special
+09/18/2020 04:18:53 PM 	 1600438733.7941396	Log_Type.STATUS	[26.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	7.889762878417969	1.2900390625
+09/18/2020 04:18:53 PM 	 1600438733.7948625	Log_Type.GAME_WORD	hängbro	3	965.9942455291748
+09/18/2020 04:18:53 PM 	 1600438733.858985	Log_Type.GUESS	TOP WORDS:	tunneln	bryggor	motorväg	broar	hängbro	CHOSE:	tunneln
+09/18/2020 04:18:54 PM 	 1600438734.9060388	Log_Type.KEYWORDS	lapp
+09/18/2020 04:18:55 PM 	 1600438735.0330763	Log_Type.GUESS	TOP WORDS:	hängbro	tunneln	järnväg	bryggor	motorväg	CHOSE:	hängbro
+09/18/2020 04:18:58 PM 	 1600438738.3906815	Log_Type.KEYWORDS	lapp
+09/18/2020 04:18:58 PM 	 1600438738.5206308	Log_Type.GUESS	TOP WORDS:	hängbro	tunneln	järnväg	bryggor	motorväg	CHOSE:	hängbro
+09/18/2020 04:18:59 PM 	 1600438739.6331213	Log_Type.KEYWORDS	lapp
+09/18/2020 04:18:59 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:18:59 PM 	 1600438739.7733896	Log_Type.GUESS	TOP WORDS:	hängbro	tunneln	järnväg	bryggor	motorväg	CHOSE:	hängbro
+09/18/2020 04:19:01 PM 	 1600438741.347723	Log_Type.GUESS_DEC	BASE	13	12	1.5305404663085938	NOT_ENOUGH_SPEECH	WAIT
+09/18/2020 04:19:01 PM 	 1600438741.7541895	Log_Type.KEYWORDS	lapp
+09/18/2020 04:19:01 PM 	 1600438741.8850021	Log_Type.GUESS	TOP WORDS:	hängbro	tunneln	järnväg	bryggor	motorväg	CHOSE:	hängbro
+09/18/2020 04:19:02 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:19:04 PM 	 1600438744.5912733	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar
+09/18/2020 04:19:04 PM 	 1600438744.719166	Log_Type.GUESS	TOP WORDS:	bryggor	tunneln	broar	bebyggelse	hängbro	CHOSE:	bryggor
+09/18/2020 04:19:05 PM 	 1600438745.8921127	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar
+09/18/2020 04:19:06 PM 	 1600438746.0238476	Log_Type.GUESS	TOP WORDS:	bryggor	tunneln	broar	bebyggelse	hängbro	CHOSE:	bryggor
+09/18/2020 04:19:07 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:19:09 PM 	 1600438749.2525508	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar
+09/18/2020 04:19:09 PM 	 1600438749.3901088	Log_Type.GUESS	TOP WORDS:	bryggor	tunneln	broar	bebyggelse	hängbro	CHOSE:	bryggor
+09/18/2020 04:19:12 PM 	 1600438752.0429037	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka
+09/18/2020 04:19:12 PM 	 1600438752.1698196	Log_Type.GUESS	TOP WORDS:	bryggor	tunneln	broar	hängbro	bebyggelse	CHOSE:	bryggor
+09/18/2020 04:19:12 PM 	 1600438752.4796524	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:19:12 PM 	 1600438752.4799087	Log_Type.GUESS_DEC	BASE	13	12	7.1098480224609375	NORMAL	WAIT
+09/18/2020 04:19:12 PM 	 1600438752.4802225	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_F# \pau=100\  bryggor?	None
+09/18/2020 04:19:13 PM 	 1600438753.9598258	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka
+09/18/2020 04:19:14 PM 	 1600438754.097908	Log_Type.GUESS	TOP WORDS:	tunneln	hängbro	broar	bebyggelse	järnväg	CHOSE:	tunneln
+09/18/2020 04:19:14 PM 	 1600438754.2545738	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka
+09/18/2020 04:19:14 PM 	 1600438754.385774	Log_Type.GUESS	TOP WORDS:	tunneln	hängbro	broar	bebyggelse	järnväg	CHOSE:	tunneln
+09/18/2020 04:19:16 PM 	 1600438756.294663	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_short_H# \pau=100\  tunneln?	None
+09/18/2020 04:19:16 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:19:18 PM 	 1600438758.2368753	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	True
+09/18/2020 04:19:18 PM 	 1600438758.2370632	Log_Type.GUESS_DEC	BASE	13	12	7.890113830566406	NORMAL	GIVE_WORD
+09/18/2020 04:19:18 PM 	 1600438758.2372396	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:19:18 PM 	 1600438758.2396207	Log_Type.FURHAT_MESSAGE	say_and_gesture	#hes_G# \pau=100\  hängbro?	None
+09/18/2020 04:19:18 PM 	 1600438758.6157928	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka
+09/18/2020 04:19:18 PM 	 1600438758.7583377	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	järnväg	motorväg	CHOSE:	broar
+09/18/2020 04:19:18 PM 	 1600438758.81689	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla
+09/18/2020 04:19:18 PM 	 1600438758.9602563	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar
+09/18/2020 04:19:19 PM 	 Exception serializing message!
+Traceback (most recent call last):
+  File "/home/giga-tmh/anaconda3/envs/collab/lib/python3.7/site-packages/grpc/_common.py", line 83, in _transform
+    return transformer(message)
+TypeError: descriptor 'SerializeToString' requires a 'google.protobuf.pyext._message.CMessage' object but received a 'NoneType'
+09/18/2020 04:19:21 PM 	 1600438761.990381	Log_Type.GUESS_DEC	RANDOM	[0.2, 0.8]	False
+09/18/2020 04:19:21 PM 	 1600438761.9907784	Log_Type.GUESS_DEC	BASE	14	12	11.099990844726562	NORMAL	WAIT
+09/18/2020 04:19:22 PM 	 1600438762.243875	Log_Type.STATUS	[27.0, 1.0, 0.0, 0.0]	[0.2, 0.39, 0.28, 0.13]	4.3499298095703125	6.75006103515625
+09/18/2020 04:19:22 PM 	 1600438762.2443075	Log_Type.FURHAT_MESSAGE	say_and_gesture	Det är hela tiden vi har. \pau=500\  Tack för att ni spelade med mig!	None
+09/18/2020 04:19:22 PM 	 1600438762.250258	Log_Type.FURHAT_MESSAGE	attend_to	all	False	1.0	True
+09/18/2020 04:19:22 PM 	 1600438762.254367	Log_Type.GAME_WORD	TheEnd	3	994.4438920021057
+09/18/2020 04:19:23 PM 	 1600438763.4416614	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla	vatten
+09/18/2020 04:19:23 PM 	 1600438763.529821	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla	vatten
+09/18/2020 04:19:23 PM 	 1600438763.6172967	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar
+09/18/2020 04:19:23 PM 	 1600438763.7050989	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar
+09/18/2020 04:19:27 PM 	 1600438767.0231237	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla	vatten
+09/18/2020 04:19:27 PM 	 1600438767.1530654	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar
+09/18/2020 04:19:28 PM 	 1600438768.294704	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla	vatten
+09/18/2020 04:19:28 PM 	 1600438768.4290884	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar
+09/18/2020 04:19:31 PM 	 1600438771.625659	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla	vatten
+09/18/2020 04:19:31 PM 	 1600438771.7624452	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar
+09/18/2020 04:19:33 PM 	 1600438773.073018	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla	vatten	hacka
+09/18/2020 04:19:33 PM 	 1600438773.200617	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar
+09/18/2020 04:19:34 PM 	 1600438774.8790529	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla	vatten	hacka
+09/18/2020 04:19:35 PM 	 1600438775.0080104	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar
+09/18/2020 04:19:37 PM 	 1600438777.833938	Log_Type.KEYWORDS	lapp	vatten	koppla	samman	öar	krok	kroka	köra	cykla	vatten	hacka
+09/18/2020 04:19:37 PM 	 1600438777.9647076	Log_Type.GUESS	TOP WORDS:	broar	bebyggelse	motorväg	järnväg	CHOSE:	broar

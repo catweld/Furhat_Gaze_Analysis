@@ -1,0 +1,824 @@
+09/29/2020 12:11:41 PM 	 1601374301.7208629	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionConfigVoice
+09/29/2020 12:11:42 PM 	 1601374302.727845	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#clear_throat_C#'}
+09/29/2020 12:11:44 PM 	 1601374304.2344956	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Hej!'}
+09/29/2020 12:11:44 PM 	 1601374304.2398305	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	0
+09/29/2020 12:11:45 PM 	 1601374305.2477303	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Jag heter föör hatt.'}
+09/29/2020 12:11:48 PM 	 1601374308.2559757	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	0
+09/29/2020 12:11:48 PM 	 1601374308.2610633	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Vad heter du? Och \\pau=200\\ vart kommer du ifrån?'}
+09/29/2020 12:11:57 PM 	 1601374317.9208305	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	0
+09/29/2020 12:11:57 PM 	 1601374317.9263678	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Och vad heter du? och \\pau=150\\ vart kommer du ifrån?'}
+09/29/2020 12:12:05 PM 	 1601374325.8367815	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:12:05 PM 	 1601374325.8409083	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Trevligt att träffas!'}
+09/29/2020 12:12:08 PM 	 1601374328.8493304	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	0
+09/29/2020 12:12:08 PM 	 1601374328.8546066	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Vi ska spela spelet \\pau=150\\ Med Andra Ord'}
+09/29/2020 12:12:11 PM 	 1601374331.8625958	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	0
+09/29/2020 12:12:11 PM 	 1601374331.8675673	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Ni måste beskriva ett ord och jag ska försöka gissa det.'}
+09/29/2020 12:12:15 PM 	 1601374335.3773813	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': -0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:12:15 PM 	 1601374335.3827443	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Varje ord visas på surfplattan med en liten bild!'}
+09/29/2020 12:12:19 PM 	 1601374339.3932805	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	0
+09/29/2020 12:12:19 PM 	 1601374339.3984683	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Ni har en minut på er att beskriva ordet \\pau=500\\ medan jag försöka att gissa.'}
+09/29/2020 12:12:23 PM 	 1601374343.9089582	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	0
+09/29/2020 12:12:23 PM 	 1601374343.9171197	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Det finns en regel'}
+09/29/2020 12:12:25 PM 	 1601374345.9232912	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	0
+09/29/2020 12:12:25 PM 	 1601374345.9287386	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Ni kan inte säga själva ordet eller varianter av ordet'}
+09/29/2020 12:12:29 PM 	 1601374349.939405	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	0
+09/29/2020 12:12:29 PM 	 1601374349.9444244	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Alla andra strategier för att beskriva ordet är tillåtna. \\pau=500\\ Vi ska spela i cirka 20 minuter'}
+09/29/2020 12:12:35 PM 	 1601374355.4556987	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	0
+09/29/2020 12:12:35 PM 	 1601374355.4603848	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Efter spelet får ni välja eran belöning.'}
+09/29/2020 12:12:38 PM 	 1601374358.4694614	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Redo? Nu kör vi!'}
+09/29/2020 12:12:42 PM 	 1601374362.4880543	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionConfigVoice
+09/29/2020 12:12:42 PM 	 1601374362.5880516	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionConfigVoice
+09/29/2020 12:12:54 PM 	 1601374374.0595596	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_G#'}
+09/29/2020 12:12:56 PM 	 1601374376.7880414	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_B#'}
+09/29/2020 12:13:06 PM 	 1601374386.512002	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_D# \\pau=100\\  människor?'}
+09/29/2020 12:13:14 PM 	 1601374394.5263133	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_A# \\pau=100\\  citronkaka?'}
+09/29/2020 12:13:22 PM 	 1601374402.0502968	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:13:22 PM 	 1601374402.0548997	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_J# \\pau=100\\  drömmar?'}
+09/29/2020 12:13:25 PM 	 1601374405.8902822	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_B#'}
+09/29/2020 12:13:38 PM 	 1601374418.3303778	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:13:38 PM 	 1601374418.3385088	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:13:41 PM 	 1601374421.352957	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:13:41 PM 	 1601374421.3577306	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:13:45 PM 	 1601374425.4073422	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:13:45 PM 	 1601374425.4125793	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:13:46 PM 	 1601374426.3991706	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:13:46 PM 	 1601374426.4042935	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:13:49 PM 	 1601374429.264482	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:13:49 PM 	 1601374429.272552	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:13:50 PM 	 1601374430.1322358	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:13:50 PM 	 1601374430.1345706	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:13:50 PM 	 1601374430.3072155	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_B# \\pau=100\\  medalj?'}
+09/29/2020 12:13:53 PM 	 1601374433.4902022	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_G# \\pau=100\\  guld?'}
+09/29/2020 12:13:54 PM 	 1601374434.9671488	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:13:54 PM 	 1601374434.973012	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:13:56 PM 	 1601374436.459141	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:13:56 PM 	 1601374436.4641817	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:13:58 PM 	 1601374438.3502495	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_H#'}
+09/29/2020 12:13:59 PM 	 1601374439.295066	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:13:59 PM 	 1601374439.2995024	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:00 PM 	 1601374440.1715195	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:00 PM 	 1601374440.1766384	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:00 PM 	 1601374440.9247787	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:14:00 PM 	 1601374440.92932	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:14:03 PM 	 1601374443.6094954	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:14:03 PM 	 1601374443.6119118	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:04 PM 	 1601374444.429781	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:14:04 PM 	 1601374444.434825	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:14:05 PM 	 1601374445.7314343	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:14:07 PM 	 1601374447.6347005	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:14:07 PM 	 1601374447.6368215	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:08 PM 	 1601374448.5121257	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:14:08 PM 	 1601374448.51496	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:14:11 PM 	 1601374451.7712586	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:11 PM 	 1601374451.776352	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:13 PM 	 1601374453.1704545	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_A#'}
+09/29/2020 12:14:13 PM 	 1601374453.585922	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:14:13 PM 	 1601374453.5896504	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:14:14 PM 	 1601374454.7973907	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:14 PM 	 1601374454.7997854	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:16 PM 	 1601374456.407004	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_B#'}
+09/29/2020 12:14:17 PM 	 1601374457.7768147	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:14:17 PM 	 1601374457.7821083	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:18 PM 	 1601374458.2513509	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:18 PM 	 1601374458.2542784	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:21 PM 	 1601374461.6230419	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:14:21 PM 	 1601374461.6270323	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:22 PM 	 1601374462.471836	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:22 PM 	 1601374462.4761198	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:23 PM 	 1601374463.159397	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:14:23 PM 	 1601374463.1633897	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_D# \\pau=100\\  pensel?'}
+09/29/2020 12:14:27 PM 	 1601374467.7150953	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:27 PM 	 1601374467.72046	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:32 PM 	 1601374472.2595012	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:14:32 PM 	 1601374472.2638533	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:14:33 PM 	 1601374473.421328	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_D#'}
+09/29/2020 12:14:34 PM 	 1601374474.3757253	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:34 PM 	 1601374474.379959	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:35 PM 	 1601374475.5895033	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:14:35 PM 	 1601374475.5940173	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:14:38 PM 	 1601374478.522124	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_B#'}
+09/29/2020 12:14:39 PM 	 1601374479.9951313	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:14:39 PM 	 1601374479.999306	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:41 PM 	 1601374481.0070658	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:14:41 PM 	 1601374481.011314	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:14:41 PM 	 1601374481.919473	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:41 PM 	 1601374481.9272857	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:43 PM 	 1601374483.2897854	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_A#'}
+09/29/2020 12:14:46 PM 	 1601374486.9591994	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:14:46 PM 	 1601374486.9641516	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:48 PM 	 1601374488.29878	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:48 PM 	 1601374488.3038828	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:48 PM 	 1601374488.4195423	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:14:50 PM 	 1601374490.7032037	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_I# \\pau=100\\  fåglar?'}
+09/29/2020 12:14:52 PM 	 1601374492.883215	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:14:52 PM 	 1601374492.8878548	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:53 PM 	 1601374493.9622178	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:53 PM 	 1601374493.967949	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:56 PM 	 1601374496.8980854	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:14:56 PM 	 1601374496.9003985	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:14:57 PM 	 1601374497.8454769	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:14:57 PM 	 1601374497.8498616	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:14:59 PM 	 1601374499.661146	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:14:59 PM 	 1601374499.6654818	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_A# \\pau=100\\  uggla?'}
+09/29/2020 12:15:06 PM 	 1601374506.0311515	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:15:06 PM 	 1601374506.0361822	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:07 PM 	 1601374507.142223	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:15:07 PM 	 1601374507.1463962	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:15:07 PM 	 1601374507.8110745	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:15:07 PM 	 1601374507.8158047	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:15:13 PM 	 1601374513.2751021	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:15:13 PM 	 1601374513.279428	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:14 PM 	 1601374514.3726275	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:15:14 PM 	 1601374514.3773909	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:15:14 PM 	 1601374514.743987	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:15:14 PM 	 1601374514.748179	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:15:17 PM 	 1601374517.2469082	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_A#'}
+09/29/2020 12:15:19 PM 	 1601374519.741729	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:15:19 PM 	 1601374519.7469	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:20 PM 	 1601374520.1719334	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:15:20 PM 	 1601374520.1800208	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:15:22 PM 	 1601374522.6695418	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:15:22 PM 	 1601374522.67171	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_I# \\pau=100\\  spindel?'}
+09/29/2020 12:15:26 PM 	 1601374526.7893612	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_A#'}
+09/29/2020 12:15:27 PM 	 1601374527.9841409	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:15:27 PM 	 1601374527.9892395	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:15:32 PM 	 1601374532.071369	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:15:32 PM 	 1601374532.0761113	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:32 PM 	 1601374532.8341944	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:15:32 PM 	 1601374532.8384683	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:15:35 PM 	 1601374535.6221256	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:15:35 PM 	 1601374535.626916	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:36 PM 	 1601374536.4590125	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:15:36 PM 	 1601374536.4636137	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:15:38 PM 	 1601374538.263922	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:15:38 PM 	 1601374538.2670088	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:15:40 PM 	 1601374540.8298156	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_E#'}
+09/29/2020 12:15:42 PM 	 1601374542.918136	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:15:42 PM 	 1601374542.9215941	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:44 PM 	 1601374544.2646897	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:15:44 PM 	 1601374544.2693315	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:15:48 PM 	 1601374548.5754573	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:15:48 PM 	 1601374548.5807416	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:49 PM 	 1601374549.621719	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:15:49 PM 	 1601374549.6243658	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:15:52 PM 	 1601374552.1991272	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:15:52 PM 	 1601374552.2046993	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:52 PM 	 1601374552.6457703	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:15:52 PM 	 1601374552.6507413	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:15:53 PM 	 1601374553.9738476	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_H# \\pau=100\\  dröm?'}
+09/29/2020 12:15:56 PM 	 1601374556.7911777	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:15:56 PM 	 1601374556.7961028	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:15:57 PM 	 1601374557.3298087	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:15:57 PM 	 1601374557.3329175	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_I# \\pau=100\\  spöke?'}
+09/29/2020 12:16:01 PM 	 1601374561.2948341	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:01 PM 	 1601374561.2997935	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:01 PM 	 1601374561.4400554	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_E#'}
+09/29/2020 12:16:02 PM 	 1601374562.4341645	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:02 PM 	 1601374562.438866	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:16:06 PM 	 1601374566.6895235	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_D#'}
+09/29/2020 12:16:07 PM 	 1601374567.531404	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:07 PM 	 1601374567.5362685	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:08 PM 	 1601374568.575928	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:08 PM 	 1601374568.5780473	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:16:13 PM 	 1601374573.7568076	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:13 PM 	 1601374573.7649295	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:14 PM 	 1601374574.6834285	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:16:14 PM 	 1601374574.6884172	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:16:16 PM 	 1601374576.8004973	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:16:16 PM 	 1601374576.8039606	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_H# \\pau=100\\  apotek?'}
+09/29/2020 12:16:22 PM 	 1601374582.4153259	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:22 PM 	 1601374582.4203284	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:23 PM 	 1601374583.2717478	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:23 PM 	 1601374583.27803	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:16:28 PM 	 1601374588.5702934	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:28 PM 	 1601374588.5735116	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:30 PM 	 1601374590.1210225	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:30 PM 	 1601374590.126334	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:16:32 PM 	 1601374592.4897454	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_E# \\pau=100\\  regn?'}
+09/29/2020 12:16:32 PM 	 1601374592.735771	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:32 PM 	 1601374592.7417424	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:33 PM 	 1601374593.4237678	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:33 PM 	 1601374593.4292662	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:16:37 PM 	 1601374597.8230917	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:37 PM 	 1601374597.8307562	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:38 PM 	 1601374598.9767733	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:38 PM 	 1601374598.979109	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:16:39 PM 	 1601374599.2092638	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_D# \\pau=100\\  åska?'}
+09/29/2020 12:16:42 PM 	 1601374602.7062392	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:42 PM 	 1601374602.7091703	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:43 PM 	 1601374603.610353	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:43 PM 	 1601374603.6153538	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:16:45 PM 	 1601374605.7159357	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:16:45 PM 	 1601374605.7206886	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_B# \\pau=100\\  blixt?'}
+09/29/2020 12:16:47 PM 	 1601374607.9387248	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_A#'}
+09/29/2020 12:16:51 PM 	 1601374611.5391204	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_E#'}
+09/29/2020 12:16:52 PM 	 1601374612.9509706	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:52 PM 	 1601374612.9594827	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:54 PM 	 1601374614.2978854	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:54 PM 	 1601374614.3020847	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:16:58 PM 	 1601374618.738974	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:16:58 PM 	 1601374618.743168	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:16:59 PM 	 1601374619.668691	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:16:59 PM 	 1601374619.6745982	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:04 PM 	 1601374624.849466	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:17:04 PM 	 1601374624.8545458	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:17:06 PM 	 1601374626.114068	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:06 PM 	 1601374626.1181285	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:11 PM 	 1601374631.4391837	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:17:11 PM 	 1601374631.44507	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:17:13 PM 	 1601374633.0070443	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:13 PM 	 1601374633.0114725	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:16 PM 	 1601374636.5299647	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_D#'}
+09/29/2020 12:17:18 PM 	 1601374638.1511672	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:17:18 PM 	 1601374638.1560006	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:17:19 PM 	 1601374639.3881981	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:19 PM 	 1601374639.3935227	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:22 PM 	 1601374642.4396634	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:17:22 PM 	 1601374642.4454136	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_F# \\pau=100\\  betyg?'}
+09/29/2020 12:17:29 PM 	 1601374649.601874	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:17:29 PM 	 1601374649.6066947	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:17:30 PM 	 1601374650.613639	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:30 PM 	 1601374650.6181483	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:34 PM 	 1601374654.07526	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:17:34 PM 	 1601374654.08026	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:17:35 PM 	 1601374655.201795	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:35 PM 	 1601374655.2065241	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:37 PM 	 1601374657.7864354	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:17:37 PM 	 1601374657.7911236	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:17:38 PM 	 1601374658.2115803	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:38 PM 	 1601374658.2167623	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:41 PM 	 1601374661.0727742	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:17:41 PM 	 1601374661.0801525	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:17:43 PM 	 1601374663.6205847	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_H#'}
+09/29/2020 12:17:45 PM 	 1601374665.641998	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:17:45 PM 	 1601374665.6486468	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:17:46 PM 	 1601374666.8873467	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:17:46 PM 	 1601374666.8922048	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:17:47 PM 	 1601374667.748855	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_J# \\pau=100\\  badrummet?'}
+09/29/2020 12:17:49 PM 	 1601374669.5125768	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:49 PM 	 1601374669.5170944	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:50 PM 	 1601374670.4918048	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_D#'}
+09/29/2020 12:17:51 PM 	 1601374671.0271475	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:17:51 PM 	 1601374671.029577	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:17:52 PM 	 1601374672.235765	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:52 PM 	 1601374672.237935	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:17:55 PM 	 1601374675.991279	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:17:55 PM 	 1601374675.9958134	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:17:56 PM 	 1601374676.9751909	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:17:56 PM 	 1601374676.9804146	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:00 PM 	 1601374680.2466884	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:00 PM 	 1601374680.248925	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:00 PM 	 1601374680.8103213	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:00 PM 	 1601374680.815184	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:06 PM 	 1601374686.1421802	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:06 PM 	 1601374686.1474814	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:06 PM 	 1601374686.4811058	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:18:06 PM 	 1601374686.4846358	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_H# \\pau=100\\  skinka?'}
+09/29/2020 12:18:11 PM 	 1601374691.4512084	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:11 PM 	 1601374691.4567664	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:12 PM 	 1601374692.2064135	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:12 PM 	 1601374692.211334	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:14 PM 	 1601374694.9069712	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:14 PM 	 1601374694.912376	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:15 PM 	 1601374695.3222034	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:15 PM 	 1601374695.3267944	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:18 PM 	 1601374698.839281	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:18 PM 	 1601374698.8441687	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:19 PM 	 1601374699.72995	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:19 PM 	 1601374699.734851	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:20 PM 	 1601374700.8313882	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:18:20 PM 	 1601374700.8361905	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:18:23 PM 	 1601374703.0980573	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_B#'}
+09/29/2020 12:18:25 PM 	 1601374705.6187115	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:18:25 PM 	 1601374705.6229422	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:26 PM 	 1601374706.6827571	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:18:26 PM 	 1601374706.6871755	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:18:28 PM 	 1601374708.9662797	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:28 PM 	 1601374708.9726803	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:31 PM 	 1601374711.5470598	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:31 PM 	 1601374711.552584	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:32 PM 	 1601374712.0149298	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:32 PM 	 1601374712.0194025	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:36 PM 	 1601374716.7230887	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:36 PM 	 1601374716.7280152	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:36 PM 	 1601374716.7737446	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_A# \\pau=100\\  förnamn?'}
+09/29/2020 12:18:37 PM 	 1601374717.8722603	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:37 PM 	 1601374717.8770812	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:41 PM 	 1601374721.4031527	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:41 PM 	 1601374721.407999	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:42 PM 	 1601374722.327033	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:42 PM 	 1601374722.3313546	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:44 PM 	 1601374724.1298347	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_C# \\pau=100\\  namn?'}
+09/29/2020 12:18:45 PM 	 1601374725.281118	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:45 PM 	 1601374725.283767	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:46 PM 	 1601374726.1498084	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:46 PM 	 1601374726.1546092	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:18:50 PM 	 1601374730.4313002	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:18:50 PM 	 1601374730.4351695	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_J# \\pau=100\\  frimärke?'}
+09/29/2020 12:18:55 PM 	 1601374735.435361	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:18:55 PM 	 1601374735.4398754	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:18:56 PM 	 1601374736.4833224	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:18:56 PM 	 1601374736.4880137	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:00 PM 	 1601374740.450984	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:00 PM 	 1601374740.4558167	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:01 PM 	 1601374741.4253829	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:01 PM 	 1601374741.436895	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:03 PM 	 1601374743.6560047	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:19:03 PM 	 1601374743.99646	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:04 PM 	 1601374744.0047014	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:04 PM 	 1601374744.4609199	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:04 PM 	 1601374744.466148	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:06 PM 	 1601374746.5693023	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_I#'}
+09/29/2020 12:19:08 PM 	 1601374748.0075927	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:08 PM 	 1601374748.0126412	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:09 PM 	 1601374749.183234	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:09 PM 	 1601374749.1878238	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:12 PM 	 1601374752.0764472	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:12 PM 	 1601374752.0832746	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:12 PM 	 1601374752.8685064	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:12 PM 	 1601374752.8749309	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:14 PM 	 1601374754.7580705	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:19:14 PM 	 1601374754.762505	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_E# \\pau=100\\  höjdhopp?'}
+09/29/2020 12:19:18 PM 	 1601374758.467128	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:18 PM 	 1601374758.4722843	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:23 PM 	 1601374763.5821748	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:23 PM 	 1601374763.5871177	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:24 PM 	 1601374764.6271222	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:24 PM 	 1601374764.6319847	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:27 PM 	 1601374767.9632576	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:27 PM 	 1601374767.9683468	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:29 PM 	 1601374769.071314	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:29 PM 	 1601374769.0758092	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:31 PM 	 1601374771.27586	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:19:31 PM 	 1601374771.280018	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:19:32 PM 	 1601374772.910916	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_E#'}
+09/29/2020 12:19:36 PM 	 1601374776.4039192	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:36 PM 	 1601374776.4085143	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:39 PM 	 1601374779.8784788	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:39 PM 	 1601374779.8823915	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:40 PM 	 1601374780.5173807	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:40 PM 	 1601374780.5223775	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:42 PM 	 1601374782.8998241	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_F# \\pau=100\\  släktingar?'}
+09/29/2020 12:19:45 PM 	 1601374785.4092786	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:45 PM 	 1601374785.41368	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:46 PM 	 1601374786.1112869	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:19:46 PM 	 1601374786.1172917	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_A# \\pau=100\\  farbror?'}
+09/29/2020 12:19:49 PM 	 1601374789.5896819	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_C#'}
+09/29/2020 12:19:50 PM 	 1601374790.2108445	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:19:50 PM 	 1601374790.2155068	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:19:50 PM 	 1601374790.8046923	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:50 PM 	 1601374790.8100677	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:52 PM 	 1601374792.6656923	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:19:52 PM 	 1601374792.6709769	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:19:54 PM 	 1601374794.482715	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:19:54 PM 	 1601374794.486587	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:19:56 PM 	 1601374796.8980925	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:19:56 PM 	 1601374796.9060776	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:19:58 PM 	 1601374798.2014198	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_C#'}
+09/29/2020 12:20:00 PM 	 1601374800.799196	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:20:00 PM 	 1601374800.803931	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:01 PM 	 1601374801.6750326	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:20:01 PM 	 1601374801.6797984	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:20:01 PM 	 1601374801.8214931	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_E# \\pau=100\\  guld?'}
+09/29/2020 12:20:03 PM 	 1601374803.5327535	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:20:03 PM 	 1601374803.5370998	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:20:06 PM 	 1601374806.5504863	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:20:06 PM 	 1601374806.5555322	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:20:09 PM 	 1601374809.2216306	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:20:09 PM 	 1601374809.2239466	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:10 PM 	 1601374810.0484715	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_H#'}
+09/29/2020 12:20:10 PM 	 1601374810.167357	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:20:10 PM 	 1601374810.17256	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:20:15 PM 	 1601374815.1370935	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:20:15 PM 	 1601374815.1423824	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:15 PM 	 1601374815.2093573	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_E#'}
+09/29/2020 12:20:16 PM 	 1601374816.5032248	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:20:16 PM 	 1601374816.507177	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:20:18 PM 	 1601374818.8310027	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_I# \\pau=100\\  diamanter?'}
+09/29/2020 12:20:20 PM 	 1601374820.4101763	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:20:20 PM 	 1601374820.4148548	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:20:21 PM 	 1601374821.6595109	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_G#'}
+09/29/2020 12:20:25 PM 	 1601374825.771253	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:20:25 PM 	 1601374825.7760117	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:25 PM 	 1601374825.8288713	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:20:25 PM 	 1601374825.8333592	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_D# \\pau=100\\  bärnsten?'}
+09/29/2020 12:20:31 PM 	 1601374831.167028	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:20:31 PM 	 1601374831.1722202	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:31 PM 	 1601374831.5562012	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:20:31 PM 	 1601374831.5608406	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:20:32 PM 	 1601374832.5189078	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_A#'}
+09/29/2020 12:20:33 PM 	 1601374833.370084	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:20:33 PM 	 1601374833.3735282	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:20:36 PM 	 1601374836.7851741	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:20:36 PM 	 1601374836.789958	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:37 PM 	 1601374837.6837568	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:20:37 PM 	 1601374837.6861005	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:20:40 PM 	 1601374840.7269843	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:20:40 PM 	 1601374840.731991	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:41 PM 	 1601374841.4984772	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:20:41 PM 	 1601374841.5032976	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:20:43 PM 	 1601374843.0174906	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_D# \\pau=100\\  dröm?'}
+09/29/2020 12:20:45 PM 	 1601374845.5830793	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:20:45 PM 	 1601374845.5880225	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:46 PM 	 1601374846.5523314	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:20:46 PM 	 1601374846.5593798	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:20:51 PM 	 1601374851.9630299	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:20:51 PM 	 1601374851.968214	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:53 PM 	 1601374853.0500464	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:20:53 PM 	 1601374853.0546901	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:20:53 PM 	 1601374853.637949	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:20:53 PM 	 1601374853.645192	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_I# \\pau=100\\  mardröm?'}
+09/29/2020 12:20:57 PM 	 1601374857.6295133	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_D#'}
+09/29/2020 12:20:57 PM 	 1601374857.6830618	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:20:57 PM 	 1601374857.6874137	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:20:58 PM 	 1601374858.6265721	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:20:58 PM 	 1601374858.6331263	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:21:00 PM 	 1601374860.462087	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:00 PM 	 1601374860.4657826	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:04 PM 	 1601374864.7750936	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:21:04 PM 	 1601374864.780093	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:05 PM 	 1601374865.7026365	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:05 PM 	 1601374865.7074018	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:11 PM 	 1601374871.1470175	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:21:11 PM 	 1601374871.1521893	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:12 PM 	 1601374872.725421	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:12 PM 	 1601374872.730202	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:15 PM 	 1601374875.6892316	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:21:15 PM 	 1601374875.694348	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:16 PM 	 1601374876.3341067	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:16 PM 	 1601374876.3397977	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:16 PM 	 1601374876.6487145	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:21:17 PM 	 1601374877.6262631	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:21:17 PM 	 1601374877.6334105	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:21:18 PM 	 1601374878.8469207	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:18 PM 	 1601374878.8521433	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:19 PM 	 1601374879.9178894	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:21:19 PM 	 1601374879.920478	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_A# \\pau=100\\  isbjörn?'}
+09/29/2020 12:21:26 PM 	 1601374886.1230288	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:21:26 PM 	 1601374886.1280558	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:27 PM 	 1601374887.2945757	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:21:27 PM 	 1601374887.2989314	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:21:31 PM 	 1601374891.962714	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:21:31 PM 	 1601374891.9665406	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:32 PM 	 1601374892.7035332	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:32 PM 	 1601374892.7083886	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:34 PM 	 1601374894.590886	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_E#'}
+09/29/2020 12:21:36 PM 	 1601374896.7662451	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:21:36 PM 	 1601374896.7695396	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:37 PM 	 1601374897.638744	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:37 PM 	 1601374897.6435769	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:39 PM 	 1601374899.6016114	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_G#'}
+09/29/2020 12:21:41 PM 	 1601374901.9231322	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:21:41 PM 	 1601374901.9281242	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:42 PM 	 1601374902.8616152	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:42 PM 	 1601374902.8668573	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:43 PM 	 1601374903.8468199	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:21:43 PM 	 1601374903.8536484	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:21:44 PM 	 1601374904.8194735	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_A#'}
+09/29/2020 12:21:48 PM 	 1601374908.3510618	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:21:48 PM 	 1601374908.3566284	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:49 PM 	 1601374909.079508	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:21:49 PM 	 1601374909.4392314	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:21:49 PM 	 1601374909.4537692	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:21:49 PM 	 1601374909.8795004	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:49 PM 	 1601374909.8840742	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:50 PM 	 1601374910.9412398	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_J# \\pau=100\\  kaniner?'}
+09/29/2020 12:21:52 PM 	 1601374912.5952013	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:21:52 PM 	 1601374912.5997021	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:21:53 PM 	 1601374913.369071	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_H# \\pau=100\\  djur?'}
+09/29/2020 12:21:54 PM 	 1601374914.7133305	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:54 PM 	 1601374914.7184258	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:21:58 PM 	 1601374918.1224713	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:21:58 PM 	 1601374918.129477	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:21:58 PM 	 1601374918.5888538	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_F#'}
+09/29/2020 12:21:59 PM 	 1601374919.268328	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:21:59 PM 	 1601374919.2729025	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:22:02 PM 	 1601374922.546733	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:22:02 PM 	 1601374922.5518825	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:22:02 PM 	 1601374922.8898613	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:22:02 PM 	 1601374922.897436	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_C# \\pau=100\\  husdjur?'}
+09/29/2020 12:22:06 PM 	 1601374926.7460203	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_F#'}
+09/29/2020 12:22:11 PM 	 1601374931.2992253	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:22:11 PM 	 1601374931.3040817	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:12 PM 	 1601374932.8791456	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:22:12 PM 	 1601374932.8844914	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:22:15 PM 	 1601374935.0600286	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:22:16 PM 	 1601374936.488804	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:22:16 PM 	 1601374936.4933758	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:17 PM 	 1601374937.1387758	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:22:17 PM 	 1601374937.143239	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:22:20 PM 	 1601374940.1100051	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:22:20 PM 	 1601374940.1121001	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:20 PM 	 1601374940.966888	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:22:20 PM 	 1601374940.9730947	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:22:25 PM 	 1601374945.259477	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:22:25 PM 	 1601374945.5631607	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:22:25 PM 	 1601374945.5674088	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:26 PM 	 1601374946.3323119	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:22:26 PM 	 1601374946.336569	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:22:27 PM 	 1601374947.1804988	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:22:27 PM 	 1601374947.1848423	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_H# \\pau=100\\  gravsten?'}
+09/29/2020 12:22:30 PM 	 1601374950.6292367	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_C#'}
+09/29/2020 12:22:33 PM 	 1601374953.813934	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:22:33 PM 	 1601374953.8160048	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:34 PM 	 1601374954.7720983	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:22:34 PM 	 1601374954.774601	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:22:38 PM 	 1601374958.793851	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:22:38 PM 	 1601374958.7961044	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:38 PM 	 1601374958.9920459	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:22:38 PM 	 1601374958.9957044	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:22:44 PM 	 1601374964.423	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:22:44 PM 	 1601374964.4281414	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:45 PM 	 1601374965.783264	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:22:45 PM 	 1601374965.7869418	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:22:46 PM 	 1601374966.3492022	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_C#'}
+09/29/2020 12:22:49 PM 	 1601374969.154562	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:22:49 PM 	 1601374969.1584463	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:49 PM 	 1601374969.9178746	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_D# \\pau=100\\  får?'}
+09/29/2020 12:22:50 PM 	 1601374970.2263582	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:22:50 PM 	 1601374970.23059	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:22:54 PM 	 1601374974.6391532	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:22:54 PM 	 1601374974.643994	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:22:56 PM 	 1601374976.0386963	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:22:56 PM 	 1601374976.043443	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:22:59 PM 	 1601374979.9961312	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:22:59 PM 	 1601374979.9995613	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_D# \\pau=100\\  stenbock?'}
+09/29/2020 12:23:03 PM 	 1601374983.2364035	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_D#'}
+09/29/2020 12:23:06 PM 	 1601374986.0305865	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_A#'}
+09/29/2020 12:23:06 PM 	 1601374986.0885708	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:23:06 PM 	 1601374986.0939655	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:23:08 PM 	 1601374988.2176874	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_F#'}
+09/29/2020 12:23:10 PM 	 1601374990.035446	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:23:10 PM 	 1601374990.0385013	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:23:15 PM 	 1601374995.340104	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:23:15 PM 	 1601374995.3452897	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:23:16 PM 	 1601374996.5401757	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:23:16 PM 	 1601374996.5437431	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:23:16 PM 	 1601374996.6504416	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_C#'}
+09/29/2020 12:23:21 PM 	 1601375001.210407	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:23:21 PM 	 1601375001.2153213	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_A# \\pau=100\\  garderob?'}
+09/29/2020 12:23:24 PM 	 1601375004.866545	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_B#'}
+09/29/2020 12:23:27 PM 	 1601375007.7423642	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:23:27 PM 	 1601375007.7470016	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:23:28 PM 	 1601375008.9719114	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:23:28 PM 	 1601375008.9758973	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:23:32 PM 	 1601375012.1777802	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:23:32 PM 	 1601375012.182975	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:23:33 PM 	 1601375013.0070539	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:23:33 PM 	 1601375013.0120804	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:23:36 PM 	 1601375016.7169237	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_E#'}
+09/29/2020 12:23:37 PM 	 1601375017.0070732	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:23:37 PM 	 1601375017.0120015	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:23:38 PM 	 1601375018.2288249	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:23:38 PM 	 1601375018.2338817	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:23:42 PM 	 1601375022.4491358	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_C#'}
+09/29/2020 12:23:42 PM 	 1601375022.8482292	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:23:42 PM 	 1601375022.8529067	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:23:46 PM 	 1601375026.9215329	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_I#'}
+09/29/2020 12:23:47 PM 	 1601375027.5339546	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:23:47 PM 	 1601375027.5362694	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:23:48 PM 	 1601375028.5770168	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:23:48 PM 	 1601375028.5817583	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:23:49 PM 	 1601375029.289103	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:23:49 PM 	 1601375029.2928133	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_H# \\pau=100\\  barnbarn?'}
+09/29/2020 12:23:54 PM 	 1601375034.9001987	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_G#'}
+09/29/2020 12:23:57 PM 	 1601375037.482032	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:23:57 PM 	 1601375037.486986	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:23:57 PM 	 1601375037.6293957	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:23:57 PM 	 1601375037.6341076	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:03 PM 	 1601375043.055316	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:24:03 PM 	 1601375043.0603428	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:24:04 PM 	 1601375044.2669494	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:04 PM 	 1601375044.2715938	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:05 PM 	 1601375045.164344	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:24:05 PM 	 1601375045.1688726	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:24:06 PM 	 1601375046.0767345	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:06 PM 	 1601375046.0815184	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:07 PM 	 1601375047.9493287	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_D#'}
+09/29/2020 12:24:08 PM 	 1601375048.4959152	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:24:08 PM 	 1601375048.5005426	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:24:11 PM 	 1601375051.2111313	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:24:11 PM 	 1601375051.2161033	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:24:11 PM 	 1601375051.7688885	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:24:11 PM 	 1601375051.773277	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:24:13 PM 	 1601375053.6221056	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:13 PM 	 1601375053.6284735	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:17 PM 	 1601375057.6328156	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:24:17 PM 	 1601375057.6381779	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:24:18 PM 	 1601375058.4326093	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:18 PM 	 1601375058.4367874	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:21 PM 	 1601375061.4445457	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:24:21 PM 	 1601375061.4470353	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:24:22 PM 	 1601375062.3145998	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:22 PM 	 1601375062.3189569	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:24 PM 	 1601375064.0257356	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_E# \\pau=100\\  mejl?'}
+09/29/2020 12:24:25 PM 	 1601375065.4750915	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:24:25 PM 	 1601375065.4800754	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:24:26 PM 	 1601375066.5296032	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:26 PM 	 1601375066.5321987	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:27 PM 	 1601375067.971387	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_D# \\pau=100\\  datorn?'}
+09/29/2020 12:24:28 PM 	 1601375068.6854744	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:24:28 PM 	 1601375068.6948552	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:24:29 PM 	 1601375069.608246	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:29 PM 	 1601375069.6129286	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:30 PM 	 1601375070.5391004	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:24:30 PM 	 1601375070.543592	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_D# \\pau=100\\  lösenord?'}
+09/29/2020 12:24:34 PM 	 1601375074.8557067	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_A#'}
+09/29/2020 12:24:38 PM 	 1601375078.0872295	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:24:38 PM 	 1601375078.0920541	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:24:38 PM 	 1601375078.738996	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:38 PM 	 1601375078.743923	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:40 PM 	 1601375080.1537216	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:24:40 PM 	 1601375080.1583583	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:24:44 PM 	 1601375084.2575855	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:24:44 PM 	 1601375084.2632585	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:24:45 PM 	 1601375085.5487535	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:24:45 PM 	 1601375085.5538144	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:24:46 PM 	 1601375086.1825304	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:46 PM 	 1601375086.1872902	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:47 PM 	 1601375087.5457392	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_I#'}
+09/29/2020 12:24:49 PM 	 1601375089.8045638	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:24:49 PM 	 1601375089.8090293	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:24:51 PM 	 1601375091.4203873	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_D#'}
+09/29/2020 12:24:54 PM 	 1601375094.3579566	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:24:54 PM 	 1601375094.360395	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:24:55 PM 	 1601375095.7743762	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:24:55 PM 	 1601375095.7786148	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:24:55 PM 	 1601375095.8314044	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:24:55 PM 	 1601375095.8355463	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:24:57 PM 	 1601375097.1760108	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_D#'}
+09/29/2020 12:24:59 PM 	 1601375099.7943635	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:24:59 PM 	 1601375099.798924	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:00 PM 	 1601375100.3750138	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:00 PM 	 1601375100.3796203	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:00 PM 	 1601375100.992802	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_D# \\pau=100\\  växter?'}
+09/29/2020 12:25:04 PM 	 1601375104.5295022	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:25:04 PM 	 1601375104.534039	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_I# \\pau=100\\  krukväxt?'}
+09/29/2020 12:25:08 PM 	 1601375108.247457	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_J#'}
+09/29/2020 12:25:08 PM 	 1601375108.9931467	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:08 PM 	 1601375108.997127	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:09 PM 	 1601375109.6699393	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:09 PM 	 1601375109.674419	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:12 PM 	 1601375112.5990565	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:12 PM 	 1601375112.6035423	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:13 PM 	 1601375113.5990605	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:13 PM 	 1601375113.6046228	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:17 PM 	 1601375117.3070774	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:17 PM 	 1601375117.311688	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:18 PM 	 1601375118.0321338	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:18 PM 	 1601375118.0356798	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:18 PM 	 1601375118.6286356	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_B#'}
+09/29/2020 12:25:21 PM 	 1601375121.8991475	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:21 PM 	 1601375121.9032717	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:22 PM 	 1601375122.9071114	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:22 PM 	 1601375122.9117281	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:25 PM 	 1601375125.1365364	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_H#'}
+09/29/2020 12:25:26 PM 	 1601375126.9342473	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:26 PM 	 1601375126.93754	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:27 PM 	 1601375127.6577342	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:27 PM 	 1601375127.6627874	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:30 PM 	 1601375130.5992396	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_J#'}
+09/29/2020 12:25:32 PM 	 1601375132.2755966	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:32 PM 	 1601375132.2820935	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:33 PM 	 1601375133.245072	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:33 PM 	 1601375133.248262	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:35 PM 	 1601375135.5190487	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_H# \\pau=100\\  hus?'}
+09/29/2020 12:25:37 PM 	 1601375137.2378328	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:37 PM 	 1601375137.241965	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:38 PM 	 1601375138.3123338	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:38 PM 	 1601375138.316726	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:39 PM 	 1601375139.4836786	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:25:39 PM 	 1601375139.4907756	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:25:41 PM 	 1601375141.3973222	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:25:41 PM 	 1601375141.3997731	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_J# \\pau=100\\  radhus?'}
+09/29/2020 12:25:45 PM 	 1601375145.1495295	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_B#'}
+09/29/2020 12:25:47 PM 	 1601375147.5111647	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:47 PM 	 1601375147.516158	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:48 PM 	 1601375148.656432	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:48 PM 	 1601375148.6608622	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:51 PM 	 1601375151.5094662	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:25:51 PM 	 1601375151.5143466	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:52 PM 	 1601375152.0809581	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:52 PM 	 1601375152.0844972	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:25:53 PM 	 1601375153.3446088	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:25:53 PM 	 1601375153.3487325	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:25:55 PM 	 1601375155.6787052	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:25:58 PM 	 1601375158.1271975	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:25:58 PM 	 1601375158.1316717	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:25:58 PM 	 1601375158.8901193	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_D#'}
+09/29/2020 12:25:59 PM 	 1601375159.6095917	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:25:59 PM 	 1601375159.6141448	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:25:59 PM 	 1601375159.9725266	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:25:59 PM 	 1601375159.9764118	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:26:01 PM 	 1601375161.1841946	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:26:01 PM 	 1601375161.1886277	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:26:05 PM 	 1601375165.6646814	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:26:05 PM 	 1601375165.6699784	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:26:06 PM 	 1601375166.0248573	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_A# \\pau=100\\  beslutet?'}
+09/29/2020 12:26:06 PM 	 1601375166.7765386	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:26:06 PM 	 1601375166.7817225	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:26:12 PM 	 1601375172.0030398	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:26:12 PM 	 1601375172.007487	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:26:13 PM 	 1601375173.530648	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:26:13 PM 	 1601375173.5336535	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:26:13 PM 	 1601375173.8333097	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:26:13 PM 	 1601375173.8384082	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:26:18 PM 	 1601375178.8828282	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:26:18 PM 	 1601375178.8874419	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:26:19 PM 	 1601375179.9908688	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:26:19 PM 	 1601375179.9957402	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:26:24 PM 	 1601375184.0256205	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:26:24 PM 	 1601375184.0276153	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_B# \\pau=100\\  folkomröstning?'}
+09/29/2020 12:26:29 PM 	 1601375189.9727	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:26:29 PM 	 1601375189.980866	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:26:30 PM 	 1601375190.4472075	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_C#'}
+09/29/2020 12:26:31 PM 	 1601375191.2565784	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:26:31 PM 	 1601375191.2608905	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:26:36 PM 	 1601375196.54718	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:26:36 PM 	 1601375196.5513368	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:26:38 PM 	 1601375198.1351354	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:26:38 PM 	 1601375198.1395454	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:26:38 PM 	 1601375198.8230762	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:26:38 PM 	 1601375198.8276885	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:26:41 PM 	 1601375201.7901363	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_C#'}
+09/29/2020 12:26:43 PM 	 1601375203.1622114	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:26:43 PM 	 1601375203.1671443	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:26:44 PM 	 1601375204.2902625	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:26:44 PM 	 1601375204.2953548	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:26:46 PM 	 1601375206.529993	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:26:46 PM 	 1601375206.5342562	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_G# \\pau=100\\  trumslagare?'}
+09/29/2020 12:26:49 PM 	 1601375209.1689985	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_C#'}
+09/29/2020 12:26:51 PM 	 1601375211.1767716	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:26:51 PM 	 1601375211.1810334	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:26:54 PM 	 1601375214.0298545	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_A#'}
+09/29/2020 12:26:55 PM 	 1601375215.1752434	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:26:55 PM 	 1601375215.1795115	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:26:56 PM 	 1601375216.111204	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:26:56 PM 	 1601375216.1161773	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:26:58 PM 	 1601375218.108927	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:26:58 PM 	 1601375218.1140442	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:26:59 PM 	 1601375219.0240488	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:26:59 PM 	 1601375219.0261931	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:27:00 PM 	 1601375220.059402	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_C#'}
+09/29/2020 12:27:00 PM 	 1601375220.8376088	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:27:00 PM 	 1601375220.8447642	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:27:03 PM 	 1601375223.9720886	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:27:03 PM 	 1601375223.977171	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:04 PM 	 1601375224.873176	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:27:04 PM 	 1601375224.8774579	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:27:06 PM 	 1601375226.809163	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:27:07 PM 	 1601375227.5487752	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:27:07 PM 	 1601375227.55401	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:07 PM 	 1601375227.7733347	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:27:07 PM 	 1601375227.7764966	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:27:09 PM 	 1601375229.9293838	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:27:09 PM 	 1601375229.9330847	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_J# \\pau=100\\  blodkroppar?'}
+09/29/2020 12:27:15 PM 	 1601375235.2269027	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:27:15 PM 	 1601375235.2313771	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:27:19 PM 	 1601375239.7833662	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:27:19 PM 	 1601375239.787584	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:20 PM 	 1601375240.4221787	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:27:20 PM 	 1601375240.4309475	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:27:21 PM 	 1601375241.3387787	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:27:21 PM 	 1601375241.3436167	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:27:24 PM 	 1601375244.832417	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:27:24 PM 	 1601375244.8368876	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:25 PM 	 1601375245.3822732	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:27:25 PM 	 1601375245.387299	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:27:26 PM 	 1601375246.763952	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:27:26 PM 	 1601375246.7668195	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:27:29 PM 	 1601375249.7111192	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:27:29 PM 	 1601375249.716066	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:30 PM 	 1601375250.1090465	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:27:30 PM 	 1601375250.1137218	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:27:33 PM 	 1601375253.9390576	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:27:33 PM 	 1601375253.9440727	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:34 PM 	 1601375254.8274956	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:27:34 PM 	 1601375254.8322837	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:27:38 PM 	 1601375258.0998528	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:27:38 PM 	 1601375258.1044607	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_A# \\pau=100\\  hängbro?'}
+09/29/2020 12:27:44 PM 	 1601375264.1777992	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:27:44 PM 	 1601375264.1831384	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:45 PM 	 1601375265.3094363	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:27:45 PM 	 1601375265.3144767	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:27:50 PM 	 1601375270.15512	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.41100001335144043, 'y': 0.027499999850988388, 'z': 2.0}	2	2
+09/29/2020 12:27:50 PM 	 1601375270.1583827	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:51 PM 	 1601375271.3161936	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:27:51 PM 	 1601375271.3186457	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:27:52 PM 	 1601375272.017751	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_A#'}
+09/29/2020 12:27:54 PM 	 1601375274.7598543	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:27:54 PM 	 1601375274.762129	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:27:56 PM 	 1601375276.998697	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_B#'}
+09/29/2020 12:27:59 PM 	 1601375279.0910718	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.41100001335144043, 'y': -0.03550000116229057, 'z': 2.0}	2	2
+09/29/2020 12:27:59 PM 	 1601375279.0946481	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.9599999785423279, 'y': 0.5899999737739563, 'z': 2.0}	2	1
+09/29/2020 12:27:59 PM 	 1601375279.788942	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_F# \\pau=100\\  dröm?'}
+09/29/2020 12:28:00 PM 	 1601375280.2914863	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.45500001311302185, 'y': -0.11550000309944153, 'z': 2.0}	2	2
+09/29/2020 12:28:00 PM 	 1601375280.2966042	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.699999988079071, 'y': -0.14000000059604645, 'z': 2.0}	2	1
+09/29/2020 12:28:01 PM 	 1601375281.3887062	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.45500001311302185, 'y': -0.02449999935925007, 'z': 2.0}	2	2
+09/29/2020 12:28:01 PM 	 1601375281.3943486	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': -0.699999988079071, 'y': 0.0, 'z': 2.0}	2	1
+09/29/2020 12:28:05 PM 	 1601375285.4577851	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0
+09/29/2020 12:28:05 PM 	 1601375285.4616888	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#hes_short_A# \\pau=100\\  underverk?'}
+09/29/2020 12:28:06 PM 	 1601375286.873471	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#yeah_short_B#'}
+09/29/2020 12:28:09 PM 	 1601375289.3257017	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': '#u-hu_B#'}
+09/29/2020 12:28:09 PM 	 1601375289.5293405	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionSpeech	{'text': 'Det är hela tiden vi har. \\pau=500\\  Tack för att ni spelade med mig!'}
+09/29/2020 12:28:09 PM 	 1601375289.532558	Log_Type.FURHAT_MESSAGE	furhatos.event.actions.ActionGaze	{'x': 0.0, 'y': 0.20000000298023224, 'z': 2.0}	2	0

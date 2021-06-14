@@ -1,0 +1,150 @@
+,timestamp,value
+0,-2.5209896564483643,{text: #clear_throat_C#}
+1,-1.0133600234985352,{text: Hej!}
+2,0.0,{text: Jag heter föör hatt.}
+3,3.016388416290283,{text: Vad heter du? Och \\pau=200\\ vart kommer du ifrån?}
+4,10.376133441925049,{text: Och vad heter du? och \\pau=150\\ vart kommer du ifrån?}
+5,17.152406692504883,{text: Trevligt att träffas!}
+6,20.163861989974976,{text: Vi ska spela spelet \\pau=150\\ Med Andra Ord}
+7,23.1755690574646,{text: Ni måste beskriva ett ord och jag ska försöka gissa det.}
+8,26.687536001205444,{text: Varje ord visas på surfplattan med en liten bild!}
+9,30.70241904258728,{text: Ni har en minut på er att beskriva ordet \\pau=500\\ medan jag försöka att gissa.}
+10,35.217530250549316,{text: Det finns en regel}
+11,37.232852935791016,{text: Ni kan inte säga själva ordet eller varianter av ordet}
+12,41.24729871749878,{text: Alla andra strategier för att beskriva ordet är tillåtna. \\pau=500\\ Vi ska spela i cirka 20 minuter}
+13,46.76111936569214,{text: Efter spelet får ni välja eran belöning.}
+14,49.770814418792725,{text: Redo? Nu kör vi!}
+15,57.46677613258362,{text: #yeah_B#}
+16,93.81467890739441,{text: #yeah_J#}
+17,111.69770455360413,{text: #hes_short_J# \\pau=100\\  pensel?}
+18,130.7741048336029,{text: #yeah_G#}
+19,142.173903465271,{text: #yeah_short_C#}
+20,178.7428684234619,{text: #yeah_short_B#}
+21,188.54181265830994,{text: #hes_F# \\pau=100\\  huvud?}
+22,191.1096920967102,{text: #hes_D# \\pau=100\\  spöke?}
+23,194.9702341556549,{text: #u-hu_D#}
+24,201.42315006256104,{text: #yeah_E#}
+25,206.5537714958191,{text: #hes_short_B# \\pau=100\\  namn?}
+26,214.20145797729492,{text: #yeah_E#}
+27,218.12044405937195,{text: #hes_E# \\pau=100\\  förnamn?}
+28,219.12114334106445,{text: #hes_B# \\pau=100\\  adress?}
+29,223.13942408561707,{text: #hes_short_I# \\pau=100\\  frimärke?}
+30,235.58998799324036,{text: #yeah_C#}
+31,243.75267887115479,{text: #hes_short_B# \\pau=100\\  fåglar?}
+32,256.1476843357086,{text: #hes_E# \\pau=100\\  uggla?}
+33,281.3729224205017,{text: #yeah_F#}
+34,298.1721761226654,{text: #hes_short_B# \\pau=100\\  titeln?}
+35,302.16913890838623,{text: #hes_short_A# \\pau=100\\  medalj?}
+36,303.1680541038513,{text: #hes_A# \\pau=100\\  guld?}
+37,306.17643690109253,{text: #hes_B# \\pau=100\\  guldmedalj?}
+38,312.5122084617615,{text: #yeah_G#}
+39,317.5525805950165,{text: #yeah_short_D#}
+40,330.3632264137268,{text: #u-hu_I#}
+41,332.79323506355286,{text: #u-hu_B#}
+42,337.2631688117981,{text: #hes_short_G# \\pau=100\\  näbb?}
+43,346.1986162662506,{text: #hes_short_C# \\pau=100\\  fjäder?}
+44,374.64755630493164,{text: #hes_E# \\pau=100\\  hantverkare?}
+45,375.21501445770264,{text: #hes_H# \\pau=100\\  bagare?}
+46,388.38295912742615,{text: #u-hu_G#}
+47,392.65819215774536,{text: #hes_I# \\pau=100\\  kött?}
+48,394.6591956615448,{text: #hes_short_G# \\pau=100\\  smör?}
+49,395.2238109111786,{text: #hes_short_A# \\pau=100\\  skinka?}
+50,422.1918568611145,{text: #u-hu_G#}
+51,430.8930881023407,{text: #yeah_short_B#}
+52,434.6865520477295,{text: #hes_short_H# \\pau=100\\  drottning?}
+53,449.13418436050415,{text: #yeah_D#}
+54,456.60273694992065,{text: #u-hu_G#}
+55,459.4572410583496,{text: #hes_E# \\pau=100\\  betyg?}
+56,465.2120289802551,{text: #yeah_C#}
+57,481.707617521286,{text: #hes_C# \\pau=100\\  dusch?}
+58,487.7787013053894,{text: #hes_J# \\pau=100\\  spegel?}
+59,494.28196001052856,{text: #yeah_A#}
+60,501.0615038871765,{text: #yeah_short_D#}
+61,514.202574968338,{text: #u-hu_F#}
+62,517.7275085449219,{text: #hes_G# \\pau=100\\  människor?}
+63,519.7285318374634,{text: #hes_short_I# \\pau=100\\  visioner?}
+64,522.2958662509918,{text: #hes_A# \\pau=100\\  fantasi?}
+65,538.1462886333466,{text: #hes_short_E# \\pau=100\\  drömmar?}
+66,554.1616413593292,{text: #yeah_D#}
+67,558.332034111023,{text: #u-hu_I#}
+68,562.3197808265686,{text: #hes_short_J# \\pau=100\\  barn?}
+69,572.462436914444,{text: #hes_short_C# \\pau=100\\  familj?}
+70,577.7630536556244,{text: #hes_short_A# \\pau=100\\  släktingar?}
+71,579.7640454769135,{text: #hes_E# \\pau=100\\  generationer?}
+72,580.3324036598206,{text: #hes_B# \\pau=100\\  barnbarn?}
+73,606.7575309276581,{text: #hes_short_G# \\pau=100\\  lösenord?}
+74,617.7915410995483,{text: #u-hu_B#}
+75,621.1213984489441,{text: #yeah_B#}
+76,621.9623229503632,{text: #yeah_short_B#}
+77,624.3322145938873,{text: #u-hu_I#}
+78,626.316596031189,{text: #hes_C# \\pau=100\\  mardröm?}
+79,631.5923976898193,{text: #yeah_short_C#}
+80,645.092972278595,{text: #u-hu_G#}
+81,648.8045108318329,{text: #hes_short_E# \\pau=100\\  möbler?}
+82,649.368738412857,{text: #hes_short_J# \\pau=100\\  säng?}
+83,652.8048582077026,{text: #hes_short_H# \\pau=100\\  skåp?}
+84,653.8030710220337,{text: #hes_short_G# \\pau=100\\  kylskåp?}
+85,655.3790183067322,{text: #hes_short_C# \\pau=100\\  garderob?}
+86,659.3718109130859,{text: #u-hu_A#}
+87,678.0020143985748,{text: #hes_short_A# \\pau=100\\  växter?}
+88,682.3884949684143,{text: #hes_F# \\pau=100\\  pelargoner?}
+89,684.3916144371033,{text: #hes_D# \\pau=100\\  kruka?}
+90,686.3963868618011,{text: #hes_G# \\pau=100\\  krukväxt?}
+91,689.9119684696198,{text: #u-hu_I#}
+92,701.1313681602478,{text: #u-hu_J#}
+93,706.4039628505707,{text: #hes_J# \\pau=100\\  bil?}
+94,708.4104886054993,{text: #hes_F# \\pau=100\\  rullstol?}
+95,713.4014160633087,{text: #u-hu_G#}
+96,720.2412769794464,{text: #u-hu_F#}
+97,729.9619398117065,{text: #u-hu_B#}
+98,733.8509917259216,{text: #hes_short_E# \\pau=100\\  parti?}
+99,735.4212837219238,{text: #hes_J# \\pau=100\\  politik?}
+100,737.4225866794586,{text: #hes_short_B# \\pau=100\\  folkomröstning?}
+101,744.5467069149017,{text: #hes_short_F# \\pau=100\\  rösträtt?}
+102,757.203043460846,{text: #u-hu_E#}
+103,760.8661143779755,{text: #hes_short_E# \\pau=100\\  mat?}
+104,766.3221182823181,{text: #yeah_short_E#}
+105,770.6755104064941,{text: #hes_J# \\pau=100\\  snabbmat?}
+106,774.751590013504,{text: #u-hu_D#}
+107,777.0622503757477,{text: #yeah_A#}
+108,792.6007785797119,{text: #hes_short_C# \\pau=100\\  begravning?}
+109,799.3516101837158,{text: #hes_short_H# \\pau=100\\  sten?}
+110,803.8902742862701,{text: #hes_H# \\pau=100\\  skylt?}
+111,805.8915646076202,{text: #hes_F# \\pau=100\\  tavlan?}
+112,806.4653923511505,{text: #hes_E# \\pau=100\\  gravsten?}
+113,810.8102278709412,{text: #u-hu_J#}
+114,832.3509647846222,{text: #yeah_D#}
+115,839.9111499786377,{text: #hes_J# \\pau=100\\  djur?}
+116,840.4863753318787,{text: #hes_F# \\pau=100\\  husdjur?}
+117,862.9243607521057,{text: #hes_H# \\pau=100\\  spår?}
+118,866.9316911697388,{text: #hes_short_I# \\pau=100\\  fotspår?}
+119,883.9807019233704,{text: #yeah_E#}
+120,890.9114830493927,{text: #yeah_D#}
+121,894.6616706848145,{text: #yeah_G#}
+122,901.9493269920349,{text: #yeah_B#}
+123,905.5248107910156,{text: #hes_I# \\pau=100\\  kyrktorn?}
+124,912.8107779026031,{text: #yeah_J#}
+125,926.8513236045837,{text: #yeah_G#}
+126,933.5356755256653,{text: #hes_short_H# \\pau=100\\  celler?}
+127,934.5349922180176,{text: #hes_D# \\pau=100\\  organismer?}
+128,941.8573822975159,{text: #hes_short_H# \\pau=100\\  blodkroppar?}
+129,948.3907227516174,{text: #u-hu_J#}
+130,970.0214149951935,{text: #yeah_C#}
+131,975.270429611206,{text: #yeah_I#}
+132,979.1450080871582,{text: #hes_D# \\pau=100\\  resmål?}
+133,994.3499000072479,{text: #yeah_short_A#}
+134,997.9977355003357,{text: #hes_D# \\pau=100\\  kungen?}
+135,998.5770380496979,{text: #hes_C# \\pau=100\\  biskop?}
+136,1020.7513799667358,{text: #yeah_J#}
+137,1025.014015674591,{text: #hes_short_I# \\pau=100\\  politik?}
+138,1025.5898065567017,{text: #hes_G# \\pau=100\\  regering?}
+139,1026.0144736766815,{text: #hes_F# \\pau=100\\  parti?}
+140,1027.590748310089,{text: #hes_short_F# \\pau=100\\  beslutet?}
+141,1030.5925006866455,{text: #hes_J# \\pau=100\\  demokrati?}
+142,1034.6108298301697,{text: #hes_A# \\pau=100\\  rösträtt?}
+143,1038.6022708415985,{text: #hes_short_D# \\pau=100\\  folkomröstning?}
+144,1086.6226360797882,{text: #hes_A# \\pau=100\\  mästerverk?}
+145,1096.5303509235382,{text: #yeah_E#}
+146,1100.0574569702148,{text: #hes_I# \\pau=100\\  tempel?}
+147,1102.6395432949066,{text: #hes_A# \\pau=100\\  underverk?}
+148,1107.766478061676,{text: Det är hela tiden vi har. \\pau=500\\  Tack för att ni spelade med mig!}
